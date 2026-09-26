@@ -1,0 +1,149 @@
+# Target industries: already multi-billion-dollar markets that are forecast to
+# grow ~4x within a few years (≈ 30%+ CAGR ⇒ 4x in ~5 years), plus halal-economy
+# verticals that align with Islamic values.
+#
+# Figures are third-party analyst forecasts (see `source`) and vary between
+# research firms — treat them as directional. `growth_multiple` is derived:
+# (1 + cagr) ** years_to_target.
+#
+# `keywords` drive the rule-based classifier (case-insensitive, word-boundary
+# regex fragments). Keep them specific: a generic word like "ai" would match
+# everything.
+
+industries:
+  ai_agents:
+    name: AI agents & workflow automation
+    market_usd_bn: 7.84
+    market_year: 2025
+    target_usd_bn: 52.62
+    target_year: 2030
+    cagr: 0.463
+    source: https://www.marketsandmarkets.com/PressReleases/ai-agents.asp
+    keywords: [ai agent, agentic, autonomous agent, ai assistant, copilot, workflow automation,
+               llm, gpt wrapper, chatbot, voice agent, ai receptionist, rag, automation platform,
+               ai sdr, ai workflow, prompt]
+
+  vertical_ai_saas:
+    name: Vertical AI SaaS (industry-specific AI tools)
+    market_usd_bn: 94.86
+    market_year: 2025
+    target_usd_bn: 1423.5
+    target_year: 2034
+    cagr: 0.365
+    source: https://marketintelo.com/report/vertical-ai-saas-platform-market
+    keywords: [vertical saas, for contractors, for dentists, for clinics, for restaurants,
+               for real estate, for accountants, for plumbers, for salons, for agencies,
+               for law firms, for landlords, property management, field service]
+
+  healthcare_ai:
+    name: Healthcare AI & digital health
+    market_usd_bn: 21.66
+    market_year: 2025
+    target_usd_bn: 110.61
+    target_year: 2030
+    cagr: 0.386
+    source: https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp
+    keywords: [healthcare, health tech, healthtech, medical, clinic, patient, telehealth,
+               telemedicine, ehr, hipaa, medical scribe, dental, therapy practice,
+               mental health, wellness, physiotherapy, pharmacy, caregiver, elder care]
+
+  edtech_ai:
+    name: AI in education & e-learning
+    market_usd_bn: 6.90
+    market_year: 2025
+    target_usd_bn: 41.01
+    target_year: 2030
+    cagr: 0.428
+    source: https://www.mordorintelligence.com/industry-reports/ai-in-education-market
+    keywords: [edtech, education, e-learning, elearning, tutor, tutoring, course platform,
+               lms, learning management, students, teachers, quiz, flashcard, language learning,
+               homeschool, school management, online course, cohort]
+
+  legal_ai:
+    name: Legal AI & compliance automation
+    market_usd_bn: 3.11
+    market_year: 2025
+    target_usd_bn: 10.82
+    target_year: 2030
+    cagr: 0.283
+    source: https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html
+    keywords: [legal tech, legaltech, contract review, contract management, law firm,
+               lawyer, paralegal, compliance, regtech, gdpr, soc 2, soc2, kyc, aml,
+               policy management, e-signature, esignature]
+
+  ai_cybersecurity:
+    name: AI cybersecurity
+    market_usd_bn: 30.92
+    market_year: 2025
+    target_usd_bn: 86.4
+    target_year: 2030
+    cagr: 0.228
+    source: https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market
+    keywords: [cybersecurity, security scanner, vulnerability, pentest, penetration testing,
+               phishing, threat detection, siem, zero trust, password manager, secrets management,
+               uptime monitoring, bot protection, fraud detection, identity verification]
+
+  islamic_fintech:
+    name: Islamic fintech & Shariah-compliant finance
+    market_usd_bn: 186.32
+    market_year: 2025
+    target_usd_bn: 515.06
+    target_year: 2031
+    cagr: 0.183
+    source: https://www.mordorintelligence.com/industry-reports/islamic-fintech-market
+    halal_economy: true
+    keywords: [islamic finance, islamic fintech, shariah, sharia, halal investing, halal stock,
+               zakat, sadaqah, waqf, takaful, sukuk, murabaha, musharakah, riba-free, interest-free,
+               halal finance, islamic banking, qard hasan]
+
+  halal_economy:
+    name: Halal economy & Muslim lifestyle
+    market_usd_bn: 2430       # Muslim consumer spend (food, fashion, travel, media, pharma, cosmetics)
+    market_year: 2023
+    target_usd_bn: 3360
+    target_year: 2028
+    cagr: 0.067                # Muslim-friendly travel is the fastest sub-sector at 12.1%
+    source: https://www.dinarstandard.com/insights/sgier-2024-25
+    halal_economy: true
+    keywords: [halal, muslim, islamic, quran, qur'an, prayer times, salah, masjid, mosque,
+               ramadan, hajj, umrah, modest fashion, hijab, halal food, halal travel,
+               muslim-friendly, dua, hadith, islamic school, madrasa, nikah]
+
+  climate_carbon:
+    name: Climate tech & carbon accounting
+    market_usd_bn: 20.05
+    market_year: 2026
+    target_usd_bn: 41.33
+    target_year: 2030
+    cagr: 0.198
+    source: https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report
+    keywords: [carbon accounting, carbon footprint, emissions, esg, sustainability reporting,
+               climate tech, solar, renewable, energy management, ev charging, heat pump,
+               net zero, scope 3, recycling, circular economy]
+
+  agritech_ai:
+    name: AI in agriculture & food supply
+    market_usd_bn: 2.8
+    market_year: 2025
+    target_usd_bn: 8.5
+    target_year: 2030
+    cagr: 0.251
+    source: https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030
+    keywords: [agtech, agritech, agriculture, farm, farming, crop, livestock, greenhouse,
+               precision agriculture, food supply, food safety, traceability, irrigation]
+
+  ecommerce_tools:
+    name: E-commerce & creator tooling
+    market_usd_bn: 10.0
+    market_year: 2025
+    target_usd_bn: 30.0
+    target_year: 2031
+    cagr: 0.20
+    source: estimate — Shopify-app & creator-economy tooling (refresh from market-intel signals)
+    keywords: [shopify, woocommerce, e-commerce, ecommerce, dropshipping, amazon seller,
+               etsy, product listings, inventory, abandoned cart, reviews widget, print on demand,
+               creator, newsletter, ugc]
+
+# Minimum growth to be tagged "hypergrowth" in reports (4x ⇒ ~32% CAGR over 5y).
+hypergrowth_multiple: 4.0
+hypergrowth_horizon_years: 5

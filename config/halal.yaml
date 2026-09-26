@@ -1,0 +1,95 @@
+# Islamic-values screening rules.
+#
+# `exclude`: the core business is impermissible (haram) — signals matching these
+# are dropped from the ideas list (kept in raw data with the reason, for audit).
+# `review`: debated / context-dependent areas — kept but flagged for a human
+# (or the LLM pass) to judge.
+# Patterns are case-insensitive regexes matched on word boundaries.
+
+exclude:
+  riba_interest:
+    - payday loans?
+    - payday lending
+    - high[- ]interest
+    - interest[- ]bearing
+    - loan shark
+    - buy now,? pay later
+    - bnpl
+    - credit card rewards
+    - margin trading
+    - leveraged trading
+  gambling:
+    - gambling
+    - casinos?
+    - sports ?betting
+    - bookmakers?
+    - poker
+    - slot machines?
+    - lottery
+    - sweepstakes casino
+    - fantasy sports betting
+    - igaming
+  speculation:
+    - forex signals
+    - crypto signals
+    - memecoin
+    - meme coin
+    - pump and dump
+    - options trading signals
+    - binary options
+    - prediction market
+  alcohol_drugs:
+    - alcohol
+    - brewer(y|ies)
+    - winer(y|ies)
+    - wine (shops?|bars?|club|subscription)
+    - liquors?
+    - cocktails?
+    - beers?
+    - cannabis
+    - marijuana
+    - thc
+    - vape shop
+    - vaping
+    - tobacco
+    - cigars?
+  pork:
+    - pork
+    - bacon
+  adult:
+    - porn
+    - pornography
+    - adult content
+    - onlyfans
+    - nsfw
+    - escorts?
+    - sugar daddy
+    - hookup
+    - camgirl
+    - ai girlfriend
+    - ai companion nsfw
+  deception:
+    - fake reviews
+    - essay mill
+    - cheating detection bypass
+    - ai detector bypass
+    - undetectable ai
+    - bypass ai detection
+
+review:
+  - dating app
+  - dating
+  - music
+  - crypto
+  - defi
+  - trading bot
+  - insurance
+  - astrology
+  - tarot
+  - horoscope
+  - interest rate
+  - loan
+  - lending
+  - mortgage
+  - nightlife
+  - gaming

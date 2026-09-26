@@ -1,0 +1,66 @@
+# What to scrape. Every source is independent: one failing never stops the run.
+
+lookback_days: 7          # only keep items newer than this
+
+hackernews:
+  enabled: true
+  # Algolia full-text queries over stories AND comments.
+  queries:
+    - MRR
+    - ARR
+    - '"per month" revenue'
+    - '"a month" profitable'
+    - bootstrapped revenue
+    - side project revenue
+    - '"Show HN" paying customers'
+    - micro saas
+    - halal
+    - islamic finance
+  # Ask HN / Show HN threads whose comments are goldmines ("what's your side
+  # business making?"). Threads matching this regex get fully expanded.
+  expand_threads_regex: '(?i)(ask hn|show hn).*(revenue|income|profitable|mrr|side (project|business)|making money|bootstrap)'
+  max_threads: 8
+  hits_per_query: 100
+
+reddit:
+  enabled: true
+  subreddits: [SaaS, microsaas, indiehackers, SideProject, EntrepreneurRideAlong,
+               Entrepreneur, startups, sweatystartup, smallbusiness, Bootstrapped,
+               islamicfinance, alphaandbetausers]
+  search_query: 'MRR OR ARR OR revenue OR "per month" OR "/mo" OR profitable OR customers'
+  top_window: week
+  limit: 100
+
+devto:
+  enabled: true
+  tags: [saas, indiehackers, buildinpublic, startup, sideprojects, bootstrapping]
+  deep_fetch_regex: '(?i)(mrr|arr|revenue|\$\d|profitable|income|customers|month)'
+  max_deep_fetch: 40
+
+producthunt:
+  enabled: true
+  feeds: [https://www.producthunt.com/feed]
+
+rss:
+  enabled: true
+  feeds:
+    medium_saas: https://medium.com/feed/tag/saas
+    medium_indie_hackers: https://medium.com/feed/tag/indie-hackers
+    medium_bootstrapping: https://medium.com/feed/tag/bootstrapping
+    medium_micro_saas: https://medium.com/feed/tag/micro-saas
+    medium_islamic_finance: https://medium.com/feed/tag/islamic-finance
+    hn_show_frontpage: https://hnrss.org/show?points=50
+    hn_mrr: https://hnrss.org/newest?q=MRR
+    # Add any RSS/Atom feed here, e.g. a newsletter's feed URL.
+
+google_news:
+  enabled: true
+  # Revenue stories — "idea" signals.
+  idea_queries:
+    - '"MRR" SaaS bootstrapped'
+    - '"ARR" micro SaaS founder'
+    - 'SaaS "per month" solo founder revenue'
+    - 'halal startup app revenue'
+    - 'Islamic fintech startup launches'
+  # Market intel — one query per industry, keeps growth figures fresh.
+  market_query_template: '"{name}" market size CAGR'
