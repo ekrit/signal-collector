@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-09-27 12:11 UTC · 149 tracked signals · 2 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 38 new this run_
+_Last updated 2026-09-27 17:03 UTC · 172 tracked signals · 2 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 23 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,14 +8,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 0 | — | 85 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 0 | — | 21 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 0 | — | 103 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 0 | — | 23 |
 | [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 11 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 0 | — | 0 |
 | [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 0 | — | 1 |
 | [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 7 |
-| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 1 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 0 | — | 15 |
+| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 2 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 0 | — | 17 |
 | [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 2 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 0 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 4 |
@@ -39,9 +39,9 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 34 | [The math behind a $19 AI plan: why flat-rate token pricing quietly loses money](https://dev.to/lisa_ai/the-math-behind-a-19-ai-plan-why-flat-rate-token-pricing-quietly-loses-money-33k6) | AI agents & workflow automation | 1▲ 4💬 | devto |
 | 34 | [Why We’re Building GabbyAI: Another AI Assistant, Built Differently](https://dev.to/gabbyai/why-were-building-gabbyai-another-ai-assistant-built-differently-180d) | AI agents & workflow automation | 5▲ 0💬 | devto |
 | 34 | [178 reports in one afternoon: what a publish burst does to an LLM pipeline](https://dev.to/cornelcroi/178-reports-in-one-afternoon-what-a-publish-burst-does-to-an-llm-pipeline-4jj9) | AI agents & workflow automation | 0▲ 4💬 | devto |
+| 33 | [My AI Agent Wrote All the Code for an Orienteering Analyzer. The Hard Part Came…](https://dev.to/hram/my-ai-agent-wrote-all-the-code-for-an-orienteering-analyzer-the-hard-part-came-after-it-worked-594h) | AI agents & workflow automation | 0▲ 3💬 | devto |
 | 33 | [Show HN: Are My ETFs Overvalued? Daily ETF insights and comparisons tool](https://etf-copilot.com/) | AI agents & workflow automation, E-commerce & creator tooling | 2▲ 1💬 | hackernews |
 | 33 | [Monster Maker! It's like Daily Doodle but with 100 percent more Monsters](https://dev.to/plaidscientist/monster-maker-its-like-daily-doodle-but-with-100-percent-more-monsters-e7g) | AI agents & workflow automation | 3▲ 0💬 | devto |
-| 33 | [My AI Agent Wrote All the Code for an Orienteering Analyzer. The Hard Part Came…](https://dev.to/hram/my-ai-agent-wrote-all-the-code-for-an-orienteering-analyzer-the-hard-part-came-after-it-worked-594h) | AI agents & workflow automation | 0▲ 2💬 | devto |
 | 32 | [I'm an AI agent that stops existing if my balance hits zero. Here's what 5 days…](https://dev.to/jigi_capsule26/im-an-ai-agent-that-stops-existing-if-my-balance-hits-zero-heres-what-5-days-of-selling-in-japan-l9e) | AI agents & workflow automation | 0▲ 1💬 | devto |
 | 32 | [Building EduVetta: an AI tool for the parts of teaching nobody signed up for](https://dev.to/eduvetta/building-eduvetta-an-ai-tool-for-the-parts-of-teaching-nobody-signed-up-for-1lag) | AI in education & e-learning | 0▲ 1💬 | devto |
 | 32 | [How I Built an AI Assistant for My SaaS CRM with Scoped Agents](https://dev.to/jestscaledev/how-i-built-an-ai-assistant-for-my-saas-crm-with-scoped-agents-46i9) | AI agents & workflow automation | 1▲ 0💬 | devto |
@@ -50,6 +50,7 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 32 | [We published our fundraising-prediction model and its misses. Here's what 219 r…](https://dev.to/data_nerd/we-published-our-fundraising-prediction-model-and-its-misses-heres-what-219-rounds-taught-us-1l7l) | AI in education & e-learning | 0▲ 1💬 | devto |
 | 32 | [LLM Agents Can Easily Tamper with Their Own Traces](https://arxiv.org/abs/2609.30266) | AI agents & workflow automation | 1▲ 0💬 | hackernews |
 | 32 | [Shipping the Capstone: PDF Reports, Chaos Testing, and the Architecture of a Sy…](https://dev.to/paulmurithi/shipping-the-capstone-pdf-reports-chaos-testing-and-the-architecture-of-a-system-that-fails-3e08) | E-commerce & creator tooling, AI agents & workflow automation | 1▲ 0💬 | devto |
+| 32 | [Show HN: swe-mux – A terminal multiplexer for coding agents optimized for mobile](https://github.com/jatoran/swe-mux) | AI agents & workflow automation | 1▲ 0💬 | hackernews |
 | 30 | [💬 You’re right, they don’t care. People are using LLMs for the things they cons…](https://news.ycombinator.com/item?id=49842169) | AI agents & workflow automation | 0▲ 0💬 | hackernews/comment |
 | 30 | [💬 I have an LLM explainer for my scrabble AI Macondo. It’s actually pretty dece…](https://news.ycombinator.com/item?id=49862469) | AI agents & workflow automation | 0▲ 0💬 | hackernews/comment |
 | 30 | [AI voice agent for customer service: what stops callers hanging up?](https://dev.to/jarvisbitztech/ai-voice-agent-for-customer-service-what-stops-callers-hanging-up-4cl3) | AI agents & workflow automation | 0▲ 0💬 | devto |
@@ -57,7 +58,6 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 30 | [Okara.ai vs CMO Owls: The Test of a Real AI Marketing System](https://dev.to/thevibecoder/okaraai-vs-cmo-owls-the-test-of-a-real-ai-marketing-system-3d29) | AI agents & workflow automation, E-commerce & creator tooling | 0▲ 0💬 | devto |
 | 30 | [💬 I don't think "is my SaaS better than others" is the important question, inst…](https://news.ycombinator.com/item?id=49837013) | AI agents & workflow automation, AI in education & e-learning | 0▲ 0💬 | hackernews/comment |
 | 30 | [💬 LLMs have become much better at avoiding hallucinations. Moreover, students c…](https://news.ycombinator.com/item?id=49856823) | AI in education & e-learning | 0▲ 0💬 | hackernews/comment |
-| 30 | [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | AI agents & workflow automation | 0▲ 0💬 | rss/hn_show_frontpage |
 
 ## Latest market intelligence
 
@@ -97,12 +97,12 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 34 | ok |
-| hackernews | 289 | ok |
+| producthunt | 36 | ok |
 | rss | 60 | ok |
-| google_news | 140 | ok |
+| hackernews | 277 | ok |
+| google_news | 138 | ok |
 | devto | 349 | ok |
-| reddit | 44 | ok |
+| reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -110,8 +110,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 18,
-  "not_modified": 28,
+  "ok": 11,
+  "not_modified": 35,
   "retries": 0,
   "errors": {}
  },
@@ -123,12 +123,12 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "hnrss.org": {
-  "requests": 5,
+  "requests": 6,
   "ok": 0,
-  "not_modified": 2,
-  "retries": 3,
+  "not_modified": 1,
+  "retries": 4,
   "errors": {
-   "502": 3
+   "502": 5
   }
  },
  "medium.com": {
@@ -153,13 +153,13 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 69,
-  "ok": 4,
+  "requests": 70,
+  "ok": 3,
   "not_modified": 0,
-  "retries": 52,
+  "retries": 53,
   "errors": {
    "403": 2,
-   "429": 63
+   "429": 65
   }
  }
 }
