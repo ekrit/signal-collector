@@ -1,6 +1,29 @@
 [
  {
   "rank": 1,
+  "source": "rss/medium_indie_hackers",
+  "source_id": "https://medium.com/p/0a644bece240",
+  "title": "How This Indie Founder Hit $69K/Month With His AI SaaS in Just 2 Months (By Talking to 2,000…",
+  "url": "https://medium.com/@devwebtesting151/how-this-indie-founder-hit-69k-month-with-his-ai-saas-in-just-2-months-by-talking-to-2-000-0a644bece240?source=rss------indie_hackers-5",
+  "text": "Most startups don’t fail because the idea is bad.\nContinue reading on Medium »",
+  "author": "offlegal",
+  "created_at": "2026-09-27T06:52:33+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 69000.0,
+  "revenue_evidence": "How This Indie Founder Hit $69K/Month With His AI SaaS in Just 2 Months (B",
+  "revenue_confidence": 0.7,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 29.81,
+  "llm": null,
+  "first_seen": "2026-09-27T12:11:03+00:00",
+  "last_seen": "2026-09-27T12:11:03+00:00",
+  "uid": "f402ccace10acc45"
+ },
+ {
+  "rank": 2,
   "source": "devto",
   "source_id": "4693672",
   "title": "Building FoxyInvoice — Chapter 8: Unit economics — what it actually costs",
@@ -9,8 +32,8 @@
   "author": "seolith",
   "created_at": "2026-09-23T00:27:12Z",
   "engagement": {
-   "points": 0,
-   "comments": 0
+   "comments": 0,
+   "points": 0
   },
   "kind": "idea",
   "mrr_usd": 8400.0,
@@ -22,7 +45,7 @@
   "score": 20.2,
   "llm": null,
   "first_seen": "2026-09-27T05:25:54+00:00",
-  "last_seen": "2026-09-27T05:25:54+00:00",
+  "last_seen": "2026-09-27T12:11:03+00:00",
   "uid": "12c0f7b83491bf58"
  }
 ]
