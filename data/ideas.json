@@ -1,6 +1,31 @@
 [
  {
   "rank": 1,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wrxrdn",
+  "title": "He built a $400k/month app. Here's how to replicate it today.",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wrxrdn/he_built_a_400kmonth_app_heres_how_to_replicate/",
+  "text": "How He Did It:\nJulian created a fitness app that has over 70,000 users and makes about $400,000 revenue every month. He wanted to start a company, which he did through an influencer marketing platform for mobile games. It soon turned into something like an agency, which he didn't intend. However, while running the business, Julian saw some of the incredible numbers apps could generate, so he scrapped the agency-type company and started an app himself.\nHe originally began making a workout-tracker app, similar to Hevy and Strong. As Julian was building the app, he noticed he wasn't adding much value, so he analyzed his competition and decided to improve on them. His friend later found another app called FitBod, which Julian really liked, but noticed the workouts were not effective, and made another version of it.\nBuilding Gravl took Julian 2-3 months, and one of the most difficult parts wasn't the concept itself but the algorithm's technicalities, such as weight, gender, goals, etc. Julian posted his app on Reddit, which caught a lot of attention. From there, he received feedback and felt ready to start charging users for Gravl.\nJulian began running paid ads as soon as he launched subscriptions, and crazily enough, saw a subscription in the first 10 minutes of running ads. From there, he kept running ads, adding new features, split-testing, and expanding, and reached $400k/month in about 2 years.\nHow you can replicate Julian and Gravl's process today:\nEverybody has a different process. Different budgets, niches, and tools are huge factors in if an app succeeds or not. There's no perfect process, but here are some tools I recommend, especially if you're low-budget.\nCompetitor Analysis:\nhttps://claude.com/\nhttps://whitespace.fyi/\nThese are some of my most used. Any AI works, but make sure your research is in-depth.\nCoding:\nhttps://claude.com/\nhttps://cursor.com/\nBackend/Hosting:\nhttps://vercel.com/\nhttps://railway.com/\nDeployment:\nexpo.dev\nAds:\nThere are a lot of ways to run ads. Here are some effective ones:\nMeta Ads\nUser-Generated Content (UGC). That means the app doesn't make the ads; other creators do. Working out deals with digital creators in your niche can be a highly effective growth strategy.\nApp:\nGravl\nSource:\nStarter Story on Youtube\nsubmitted by /u/Comfortable_Eye_8687\n[link] [comments]",
+  "author": "/u/Comfortable_Eye_8687 https://www.reddit.com/user/Comfortable_Eye_8687",
+  "created_at": "2026-09-27T22:34:17+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 400000.0,
+  "revenue_evidence": "g ads, adding new features, split-testing, and expanding, and reached $400k/month in about 2 years. How you can replic",
+  "revenue_confidence": 0.7,
+  "industries": [
+   "ecommerce_tools"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 46.38,
+  "llm": null,
+  "first_seen": "2026-09-28T14:05:37+00:00",
+  "last_seen": "2026-09-28T14:05:37+00:00",
+  "uid": "dc618e8026cb660f"
+ },
+ {
+  "rank": 2,
   "source": "reddit/r/microsaas",
   "source_id": "1wr1dmu",
   "title": "Anyone here actually living off their micro SaaS? What does it do?",
@@ -25,7 +50,7 @@
   "uid": "c10ddf61906f3e65"
  },
  {
-  "rank": 2,
+  "rank": 3,
   "source": "reddit/r/microsaas",
   "source_id": "1wo2mww",
   "title": "I’m building an eSIM business around one simple idea: travel data shouldn’t be this expensive. 30 orders so far and all the customers are super happy.",
@@ -48,7 +73,7 @@
   "uid": "4899369e4010f569"
  },
  {
-  "rank": 3,
+  "rank": 4,
   "source": "rss/medium_indie_hackers",
   "source_id": "https://medium.com/p/0a644bece240",
   "title": "How This Indie Founder Hit $69K/Month With His AI SaaS in Just 2 Months (By Talking to 2,000…",
@@ -71,7 +96,7 @@
   "uid": "f402ccace10acc45"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/microsaas",
   "source_id": "1wq4xdw",
   "title": "Solo founder starting from zero: how do you actually find what to build and get your first customers?",
@@ -94,7 +119,7 @@
   "uid": "3eddfe0ce4082eea"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "reddit/r/microsaas",
   "source_id": "1wrn237",
   "title": "If you are not at $10k a month after year one you are not behind",
@@ -117,7 +142,7 @@
   "uid": "78d3324dc4f90dc6"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -140,7 +165,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "devto",
   "source_id": "4693672",
   "title": "Building FoxyInvoice — Chapter 8: Unit economics — what it actually costs",
@@ -162,11 +187,11 @@
   "score": 20.2,
   "llm": null,
   "first_seen": "2026-09-27T05:25:54+00:00",
-  "last_seen": "2026-09-28T05:32:08+00:00",
+  "last_seen": "2026-09-28T14:05:37+00:00",
   "uid": "12c0f7b83491bf58"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/microsaas",
   "source_id": "1wrf5zk",
   "title": "Is SEO actually still the best free acquisition strategy for micro-SaaS, or just the slowest?",
