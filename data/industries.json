@@ -13,7 +13,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 161
+  "signals_7d": 203
  },
  {
   "key": "edtech_ai",
@@ -29,7 +29,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-in-education-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 29
+  "signals_7d": 31
  },
  {
   "key": "healthcare_ai",
@@ -77,7 +77,7 @@
   "source": "https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 8
+  "signals_7d": 9
  },
  {
   "key": "agritech_ai",
@@ -93,7 +93,7 @@
   "source": "https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 8
+  "signals_7d": 11
  },
  {
   "key": "ai_cybersecurity",
@@ -125,7 +125,7 @@
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
   "qualified_ideas": 2,
   "median_mrr": 205000.0,
-  "signals_7d": 25
+  "signals_7d": 26
  },
  {
   "key": "climate_carbon",
@@ -141,7 +141,7 @@
   "source": "https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 7
+  "signals_7d": 8
  },
  {
   "key": "islamic_fintech",
@@ -157,7 +157,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/islamic-fintech-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 0
+  "signals_7d": 1
  },
  {
   "key": "halal_economy",
