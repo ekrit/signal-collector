@@ -144,29 +144,6 @@
  {
   "rank": 7,
   "source": "reddit/r/startups",
-  "source_id": "1wrlkat",
-  "title": "can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote",
-  "url": "https://www.reddit.com/r/startups/comments/1wrlkat/can_a_b2b_tech_product_business_be_a_lifetsyle/",
-  "text": "Or will it not really work as it’s a tech product in B2B SaaS and needs venture backing?\nNot planning on taking VC funding, and just want to reach a goal of 5-10k MRR at 70% margins with my cofounder\nI think that’s what they call a lifestyle business no? Just good enough for the lifestyle we want now\nAs that is good for the lifestyle we want at our current age and where we’re based out of\nAnd don’t really want to “hyper scale” or build a huge company\nBut every-time I hear “B2B tech/SaaS company” it’s always labelled as a “startup” , which means it needs to be hyper scaling and VC funded\nsubmitted by /u/Frosty-Telephone-747\n[link] [comments]",
-  "author": "/u/Frosty-Telephone-747 https://www.reddit.com/user/Frosty-Telephone-747",
-  "created_at": "2026-09-27T14:26:08+00:00",
-  "engagement": {},
-  "kind": "idea",
-  "mrr_usd": 10000.0,
-  "revenue_evidence": "a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “s",
-  "revenue_confidence": 0.95,
-  "industries": [],
-  "halal_status": "ok",
-  "halal_reasons": [],
-  "score": 28.5,
-  "llm": null,
-  "first_seen": "2026-09-29T05:51:15+00:00",
-  "last_seen": "2026-09-29T05:51:15+00:00",
-  "uid": "d3746ff3768148b5"
- },
- {
-  "rank": 8,
-  "source": "reddit/r/startups",
   "source_id": "1wl0p2l",
   "title": "Are you still considered a startup if this is the goal? I will not promote",
   "url": "https://www.reddit.com/r/startups/comments/1wl0p2l/are_you_still_considered_a_startup_if_this_is_the/",
@@ -186,6 +163,29 @@
   "first_seen": "2026-09-29T05:51:15+00:00",
   "last_seen": "2026-09-29T05:51:15+00:00",
   "uid": "bf16ae7be21fe486"
+ },
+ {
+  "rank": 8,
+  "source": "reddit/r/startups",
+  "source_id": "1wrlkat",
+  "title": "can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote",
+  "url": "https://www.reddit.com/r/startups/comments/1wrlkat/can_a_b2b_tech_product_business_be_a_lifetsyle/",
+  "text": "Or will it not really work as it’s a tech product in B2B SaaS and needs venture backing?\nNot planning on taking VC funding, and just want to reach a goal of 5-10k MRR at 70% margins with my cofounder\nI think that’s what they call a lifestyle business no? Just good enough for the lifestyle we want now\nAs that is good for the lifestyle we want at our current age and where we’re based out of\nAnd don’t really want to “hyper scale” or build a huge company\nBut every-time I hear “B2B tech/SaaS company” it’s always labelled as a “startup” , which means it needs to be hyper scaling and VC funded\nsubmitted by /u/Frosty-Telephone-747\n[link] [comments]",
+  "author": "/u/Frosty-Telephone-747 https://www.reddit.com/user/Frosty-Telephone-747",
+  "created_at": "2026-09-27T14:26:08+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 10000.0,
+  "revenue_evidence": "a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “s",
+  "revenue_confidence": 0.95,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 28.5,
+  "llm": null,
+  "first_seen": "2026-09-29T05:51:15+00:00",
+  "last_seen": "2026-09-29T05:51:15+00:00",
+  "uid": "d3746ff3768148b5"
  },
  {
   "rank": 9,
@@ -233,7 +233,7 @@
   "score": 20.2,
   "llm": null,
   "first_seen": "2026-09-27T05:25:54+00:00",
-  "last_seen": "2026-09-29T05:51:15+00:00",
+  "last_seen": "2026-09-29T13:01:42+00:00",
   "uid": "12c0f7b83491bf58"
  },
  {
@@ -279,7 +279,7 @@
   "score": 12.64,
   "llm": null,
   "first_seen": "2026-09-29T05:51:15+00:00",
-  "last_seen": "2026-09-29T05:51:15+00:00",
+  "last_seen": "2026-09-29T13:01:42+00:00",
   "uid": "7fff44a70e6757b6"
  }
 ]
