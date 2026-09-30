@@ -11,9 +11,9 @@
   "hypergrowth": true,
   "halal_economy": false,
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
-  "qualified_ideas": 0,
-  "median_mrr": null,
-  "signals_7d": 266
+  "qualified_ideas": 1,
+  "median_mrr": 4166666.67,
+  "signals_7d": 285
  },
  {
   "key": "edtech_ai",
@@ -29,7 +29,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-in-education-market",
   "qualified_ideas": 1,
   "median_mrr": 1500000.0,
-  "signals_7d": 46
+  "signals_7d": 47
  },
  {
   "key": "healthcare_ai",
@@ -45,7 +45,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 25
+  "signals_7d": 37
  },
  {
   "key": "vertical_ai_saas",
@@ -93,7 +93,7 @@
   "source": "https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 15
+  "signals_7d": 18
  },
  {
   "key": "ai_cybersecurity",
@@ -125,7 +125,7 @@
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
   "qualified_ideas": 2,
   "median_mrr": 205000.0,
-  "signals_7d": 41
+  "signals_7d": 42
  },
  {
   "key": "climate_carbon",
@@ -141,7 +141,7 @@
   "source": "https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 16
+  "signals_7d": 22
  },
  {
   "key": "islamic_fintech",

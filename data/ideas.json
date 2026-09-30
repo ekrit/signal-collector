@@ -1,6 +1,31 @@
 [
  {
   "rank": 1,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wtyaff",
+  "title": "Openai dots is it end for saas? Or new beginning?",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wtyaff/openai_dots_is_it_end_for_saas_or_new_beginning/",
+  "text": "Hey everyone,\nI have been into this sub but haven't thought of creating a post.\nI was building a stealth agentic builder similar to what dots and grok bots.\nI feel it's an end after watching the Openai Dev day launches.\nWhat is your opinion as founder? Should we adapt and drop the saas we were building with a small team and no funding. And work as an agency to help business.\nI'm unclear.\nI have been building something similar like an alternative for almost 8 good months.\nGrok launched , muse and Openai - I feel like there is no place for me to compete.\nI spoke with my mentor (he is doing 50million ARR service based ) whom I reached for fundraising.\nHe said this might be the same as the www ( digital era started ) and AWS cloud was launched many old businesses were wiped out and new sets of services and companies were created.\nI need some thoughts and opinions to keep moving.\nI have just started distribution.\nNot sure what to do. Is it good to spend more on sales and marketing or save for the future like elon said\nsubmitted by /u/Exotic-Hat6177\n[link] [comments]",
+  "author": "/u/Exotic-Hat6177 https://www.reddit.com/user/Exotic-Hat6177",
+  "created_at": "2026-09-30T07:09:18+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 4166666.67,
+  "revenue_evidence": "re is no place for me to compete. I spoke with my mentor (he is doing 50million ARR service based ) whom I reached for fund",
+  "revenue_confidence": 0.9,
+  "industries": [
+   "ai_agents"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 70.5,
+  "llm": null,
+  "first_seen": "2026-09-30T12:43:30+00:00",
+  "last_seen": "2026-09-30T12:43:30+00:00",
+  "uid": "b7ba2e6c0ba0ae66"
+ },
+ {
+  "rank": 2,
   "source": "devto",
   "source_id": "4756714",
   "title": "App economy 2026: why new apps get 3% of subscription revenue",
@@ -24,11 +49,11 @@
   "score": 65.82,
   "llm": null,
   "first_seen": "2026-09-29T22:22:41+00:00",
-  "last_seen": "2026-09-30T05:40:37+00:00",
+  "last_seen": "2026-09-30T12:43:30+00:00",
   "uid": "599d6ed7f438ba07"
  },
  {
-  "rank": 2,
+  "rank": 3,
   "source": "reddit/r/SaaS",
   "source_id": "1wrxrdn",
   "title": "He built a $400k/month app. Here's how to replicate it today.",
@@ -53,7 +78,7 @@
   "uid": "dc618e8026cb660f"
  },
  {
-  "rank": 3,
+  "rank": 4,
   "source": "reddit/r/microsaas",
   "source_id": "1wr1dmu",
   "title": "Anyone here actually living off their micro SaaS? What does it do?",
@@ -78,7 +103,7 @@
   "uid": "c10ddf61906f3e65"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/microsaas",
   "source_id": "1wo2mww",
   "title": "I’m building an eSIM business around one simple idea: travel data shouldn’t be this expensive. 30 orders so far and all the customers are super happy.",
@@ -101,7 +126,7 @@
   "uid": "4899369e4010f569"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "rss/medium_indie_hackers",
   "source_id": "https://medium.com/p/0a644bece240",
   "title": "How This Indie Founder Hit $69K/Month With His AI SaaS in Just 2 Months (By Talking to 2,000…",
@@ -124,7 +149,7 @@
   "uid": "f402ccace10acc45"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "reddit/r/microsaas",
   "source_id": "1wq4xdw",
   "title": "Solo founder starting from zero: how do you actually find what to build and get your first customers?",
@@ -147,7 +172,7 @@
   "uid": "3eddfe0ce4082eea"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/microsaas",
   "source_id": "1wrn237",
   "title": "If you are not at $10k a month after year one you are not behind",
@@ -170,7 +195,7 @@
   "uid": "78d3324dc4f90dc6"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/startups",
   "source_id": "1wl0p2l",
   "title": "Are you still considered a startup if this is the goal? I will not promote",
@@ -193,7 +218,7 @@
   "uid": "bf16ae7be21fe486"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/startups",
   "source_id": "1wrlkat",
   "title": "can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote",
@@ -216,7 +241,7 @@
   "uid": "d3746ff3768148b5"
  },
  {
-  "rank": 10,
+  "rank": 11,
   "source": "reddit/r/SaaS",
   "source_id": "1wtkzsd",
   "title": "My little side project is not that little anymore",
@@ -235,11 +260,11 @@
   "score": 24.21,
   "llm": null,
   "first_seen": "2026-09-29T22:22:41+00:00",
-  "last_seen": "2026-09-30T05:40:37+00:00",
+  "last_seen": "2026-09-30T12:43:30+00:00",
   "uid": "04f15b739082c393"
  },
  {
-  "rank": 11,
+  "rank": 12,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -262,7 +287,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 12,
+  "rank": 13,
   "source": "devto",
   "source_id": "4693672",
   "title": "Building FoxyInvoice — Chapter 8: Unit economics — what it actually costs",
@@ -288,7 +313,7 @@
   "uid": "12c0f7b83491bf58"
  },
  {
-  "rank": 13,
+  "rank": 14,
   "source": "reddit/r/microsaas",
   "source_id": "1wrf5zk",
   "title": "Is SEO actually still the best free acquisition strategy for micro-SaaS, or just the slowest?",
@@ -311,7 +336,7 @@
   "uid": "585e80ae8a9c2649"
  },
  {
-  "rank": 14,
+  "rank": 15,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/844d141c3ce9",
   "title": "How AI-Generated Apps Can Become a $1,600/Month Side Business",
@@ -330,7 +355,7 @@
   "score": 12.64,
   "llm": null,
   "first_seen": "2026-09-29T05:51:15+00:00",
-  "last_seen": "2026-09-30T05:40:37+00:00",
+  "last_seen": "2026-09-30T12:43:30+00:00",
   "uid": "7fff44a70e6757b6"
  }
 ]
