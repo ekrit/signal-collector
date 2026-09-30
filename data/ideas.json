@@ -49,7 +49,7 @@
   "score": 65.82,
   "llm": null,
   "first_seen": "2026-09-29T22:22:41+00:00",
-  "last_seen": "2026-09-30T12:43:30+00:00",
+  "last_seen": "2026-09-30T22:22:34+00:00",
   "uid": "599d6ed7f438ba07"
  },
  {
@@ -104,6 +104,29 @@
  },
  {
   "rank": 5,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wougwq",
+  "title": "Scaling from 23k MRR to 100k MRR?",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wougwq/scaling_from_23k_mrr_to_100k_mrr/",
+  "text": "Looking for input of the experienced saas founders.\nBackground:\nIt is my first saas. We launched 6 months ago and are currently at 23k € MRR, two people (only me and co founder). It is a b2b SaaS.\nI hope to get some guideance and input. I have a plan in general but why not ask people who have already done what you want to do?\nSo any help is appreciated. 🙏\nMy questions:\n➡️ What were the steps that really helped you to scale to 100k mrr?\n➡️ What were your biggest mistakes?\n➡️ What do you wish to have done earlier?\n➡️ What problems could occur that i am not seeing right now?\n➡️ What were your best lead gen channels?\n➡️ When would you start preparing everything in case of an exit, like numbers etc?\nI appreciate your time and effort.\nThank you very much in advance\nsubmitted by /u/iamtheworld1337\n[link] [comments]",
+  "author": "/u/iamtheworld1337 https://www.reddit.com/user/iamtheworld1337",
+  "created_at": "2026-09-24T06:48:27+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 100000.0,
+  "revenue_evidence": "Scaling from 23k MRR to 100k MRR? Looking for input of the experienc",
+  "revenue_confidence": 0.95,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 42.75,
+  "llm": null,
+  "first_seen": "2026-09-30T22:22:34+00:00",
+  "last_seen": "2026-09-30T22:22:34+00:00",
+  "uid": "63b847b8fa1c907e"
+ },
+ {
+  "rank": 6,
   "source": "reddit/r/microsaas",
   "source_id": "1wo2mww",
   "title": "I’m building an eSIM business around one simple idea: travel data shouldn’t be this expensive. 30 orders so far and all the customers are super happy.",
@@ -126,7 +149,7 @@
   "uid": "4899369e4010f569"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "rss/medium_indie_hackers",
   "source_id": "https://medium.com/p/0a644bece240",
   "title": "How This Indie Founder Hit $69K/Month With His AI SaaS in Just 2 Months (By Talking to 2,000…",
@@ -149,7 +172,32 @@
   "uid": "f402ccace10acc45"
  },
  {
-  "rank": 7,
+  "rank": 8,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wuacpm",
+  "title": "From $2K to $15K ARR in 60 days as a solo founder, what actually worked",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wuacpm/from_2k_to_15k_arr_in_60_days_as_a_solo_founder/",
+  "text": "I was stuck at $2K ARR for almost five months straight, and I was pretty close to giving up and taking a full-time job again just to have an income, less stress, and better sleep.\nEvery morning I'd log on, change something here and there, and pretend like I was doing heavy work. At the time it felt like work, but looking back, yeah.. nope. It was part of the process anyways.\nThe bank account wasn't moving at all.\nWhat turned things around was forcing myself to stop polishing the product and focus completely on outbound.\nI built a heavy pipeline with emails and targeted DMs every single week.\nTracking all those active buying signals by hand was eating up 3-4 hours of my nights, so I hacked together a quick internal script to handle the monitoring for me.\nI ended up calling it PumpGTM later, but back then it was literally just a scrappy tool to save my own sanity and evenings.\nComing to the main point, direct volume + fast timing changed things for us.\nWe started booking around 35 qualified demos a month from those channels.\nA couple of lucky breaks helped too.\nTwo heads of sales at mid-market companies signed annual plans on the spot, mostly because their main software vendor had a massive outage the exact day before we reached out.\nThen a small tech newsletter with 15k subscribers picked up one of our posts for free.\nI'm not kidding. It sent a wave of trial signups our way.\nThere wasn't any magic growth hack.\nIt was just forcing myself to do direct outreach every day.\nFixating on product polish before you have an outbound pipeline is basically obsessing over the wallpaper when the house doesn't even have walls yet lol.\nThat was a heavy quote. I should start writing more.\nsubmitted by /u/namanyayg\n[link] [comments]",
+  "author": "/u/namanyayg https://www.reddit.com/user/namanyayg",
+  "created_at": "2026-09-30T17:00:13+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1250.0,
+  "revenue_evidence": "From $2K to $15K ARR in 60 days as a solo founder, what actu",
+  "revenue_confidence": 0.9,
+  "industries": [
+   "ecommerce_tools"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 29.69,
+  "llm": null,
+  "first_seen": "2026-09-30T22:22:34+00:00",
+  "last_seen": "2026-09-30T22:22:34+00:00",
+  "uid": "31267b5796401e12"
+ },
+ {
+  "rank": 9,
   "source": "reddit/r/microsaas",
   "source_id": "1wq4xdw",
   "title": "Solo founder starting from zero: how do you actually find what to build and get your first customers?",
@@ -172,7 +220,7 @@
   "uid": "3eddfe0ce4082eea"
  },
  {
-  "rank": 8,
+  "rank": 10,
   "source": "reddit/r/microsaas",
   "source_id": "1wrn237",
   "title": "If you are not at $10k a month after year one you are not behind",
@@ -195,7 +243,7 @@
   "uid": "78d3324dc4f90dc6"
  },
  {
-  "rank": 9,
+  "rank": 11,
   "source": "reddit/r/startups",
   "source_id": "1wl0p2l",
   "title": "Are you still considered a startup if this is the goal? I will not promote",
@@ -218,7 +266,7 @@
   "uid": "bf16ae7be21fe486"
  },
  {
-  "rank": 10,
+  "rank": 12,
   "source": "reddit/r/startups",
   "source_id": "1wrlkat",
   "title": "can a B2B tech product business be a lifetsyle business with a goal of 5-10k MRR with my cofounder instead of being a “startup” because it’s in B2B SaaS? I will not promote",
@@ -241,7 +289,33 @@
   "uid": "d3746ff3768148b5"
  },
  {
-  "rank": 11,
+  "rank": 13,
+  "source": "hackernews/comment",
+  "source_id": "49915163",
+  "title": "Comment on: I could've accessed 17T Microsoft records",
+  "url": "https://news.ycombinator.com/item?id=49915163",
+  "text": "> quite literally peanuts\nIf I have an income of $250k/yr and a pack of peanuts costs $2 or very roughly 0.001% of my annual income, the equivalent peanut money for ~$130 billion a year microsoft would be more like $2 million.",
+  "author": "xnyan",
+  "created_at": "2026-09-30T22:13:05+00:00",
+  "engagement": {
+   "points": 0,
+   "comments": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 20833.33,
+  "revenue_evidence": "7T Microsoft records > quite literally peanuts If I have an income of $250k/yr and a pack of peanuts costs $2 or very r",
+  "revenue_confidence": 0.7,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 24.35,
+  "llm": null,
+  "first_seen": "2026-09-30T22:22:34+00:00",
+  "last_seen": "2026-09-30T22:22:34+00:00",
+  "uid": "64bf6c94c5044e98"
+ },
+ {
+  "rank": 14,
   "source": "reddit/r/SaaS",
   "source_id": "1wtkzsd",
   "title": "My little side project is not that little anymore",
@@ -260,11 +334,11 @@
   "score": 24.21,
   "llm": null,
   "first_seen": "2026-09-29T22:22:41+00:00",
-  "last_seen": "2026-09-30T12:43:30+00:00",
+  "last_seen": "2026-09-30T22:22:34+00:00",
   "uid": "04f15b739082c393"
  },
  {
-  "rank": 12,
+  "rank": 15,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -287,7 +361,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 13,
+  "rank": 16,
   "source": "devto",
   "source_id": "4693672",
   "title": "Building FoxyInvoice — Chapter 8: Unit economics — what it actually costs",
@@ -313,7 +387,7 @@
   "uid": "12c0f7b83491bf58"
  },
  {
-  "rank": 14,
+  "rank": 17,
   "source": "reddit/r/microsaas",
   "source_id": "1wrf5zk",
   "title": "Is SEO actually still the best free acquisition strategy for micro-SaaS, or just the slowest?",
@@ -336,7 +410,7 @@
   "uid": "585e80ae8a9c2649"
  },
  {
-  "rank": 15,
+  "rank": 18,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/844d141c3ce9",
   "title": "How AI-Generated Apps Can Become a $1,600/Month Side Business",
