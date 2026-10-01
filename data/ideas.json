@@ -49,7 +49,7 @@
   "score": 65.82,
   "llm": null,
   "first_seen": "2026-09-29T22:22:41+00:00",
-  "last_seen": "2026-09-30T22:22:34+00:00",
+  "last_seen": "2026-10-01T06:04:30+00:00",
   "uid": "599d6ed7f438ba07"
  },
  {
@@ -298,8 +298,8 @@
   "author": "xnyan",
   "created_at": "2026-09-30T22:13:05+00:00",
   "engagement": {
-   "points": 0,
-   "comments": 0
+   "comments": 0,
+   "points": 0
   },
   "kind": "idea",
   "mrr_usd": 20833.33,
