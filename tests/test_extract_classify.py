@@ -32,6 +32,26 @@ def test_not_revenue(text):
     assert extract_revenue(text) == []
 
 
+@pytest.mark.parametrize("text", [
+    "My long-term target is roughly $10k MRR, ideally within a year.",
+    "Founders who have crossed $1M ARR: what turned out to be your moat?",
+    "You can have: 50 customers. $1M ARR. Positive testimonials.",
+    "I spoke with my mentor (he is doing 50million ARR service based)",
+    "Took companies from $5M to $40M ARR and $30M to $110M ARR.",
+    "I'm not expecting AI to magically build a $10k MRR business for me.",
+    "How AI-Generated Apps Can Become a $1,600/Month Side Business",
+    "**1,000 Pro** ≈ $8.4k/mo net",
+    'I won\'t manufacture some ridiculous "$50k MRR in 30 days" story.',
+])
+def test_goals_hearsay_and_questions_do_not_qualify(text):
+    c = best_monthly_revenue(text)
+    assert c is None or c.confidence < 0.6
+
+
+def test_range_prefers_current_value():
+    assert best_monthly_revenue("From $2K to $15K ARR in 60 days as a solo founder").monthly_usd == 1250
+
+
 @pytest.fixture(scope="module")
 def tax():
     return Taxonomy()

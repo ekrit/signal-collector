@@ -36,6 +36,27 @@ NOT_REVENUE_CONTEXT = re.compile(
     r"costs?|fee|charge[sd]?|subscription is|tier|lifetime deal|ltd|burn|loan|debt|grant|bill(ed)?)\b", re.I)
 MIN_MONTHLY, MAX_MONTHLY = 100.0, 5_000_000.0
 
+# Sentence-level signals about *whose* revenue it is and whether it is real yet.
+GOAL_OR_HYPOTHETICAL = re.compile(
+    r"\b(goals?|target(ing)?|aim(ing)?|want(s|ed)? to|hope|hoping|dreams?|plan(s|ning)? to|trying to|"
+    r"wish|would|could|imagine|if|scal(e|ing) to|get(ting)? to|reach(ing)?|path to|road to|how to|"
+    r"how do|you can|you could|you'll|say you|let's say|until|someday|eventually|"
+    r"not|never|n't|expect\w*|build(ing)? an?|launch(ing)? an?|start(ing)? an?|"
+    r"can (become|make|earn|be)|become an?)\b", re.I)
+THIRD_PARTY = re.compile(
+    r"\b(he|she|his|her|him|they|their|mentor|founders who|other founders|this (guy|founder|indie)|"
+    r"indie founder|the founder|someone|people|companies|competitors?|résumé|resume|cv|"
+    r"posts?|stories)\b", re.I)
+FIRST_PERSON = re.compile(r"\b(i|we|my|our|i'm|we're|i've|we've|us)\b", re.I)
+
+
+def _sentence(text: str, start: int, end: int) -> tuple[str, str]:
+    """(sentence text up to the match, full sentence) around a match."""
+    a = max(text.rfind(c, 0, start) for c in ".!?\n") + 1
+    ends = [i for i in (text.find(c, end) for c in ".!?\n") if i != -1]
+    b = min(ends) + 1 if ends else len(text)
+    return text[a:start], text[a:b]
+
 
 @dataclass
 class RevenueClaim:
@@ -99,6 +120,24 @@ def _claim(m: re.Match[str], text: str) -> RevenueClaim | None:
         if metric not in ("mrr", "arr", "monthly recurring revenue", "annual recurring revenue"):
             return None
         conf -= 0.25
+    # Is it the author's own, current revenue?
+    pre, sent = _sentence(text, start, end)
+    if len(pre.strip()) < 15:  # fragment like "$1M ARR." — the lead-in is the previous sentence
+        pre = _sentence(text, max(0, start - len(pre) - 1), start)[0] + pre
+    if GOAL_OR_HYPOTHETICAL.search(pre) or sent.rstrip().endswith("?"):
+        conf -= 0.6          # a goal, a question or a "what if"
+    if pre.count('"') % 2 or pre.count("“") > pre.count("”"):
+        conf -= 0.5          # quoted: someone else's headline
+    if re.search(r"(≈|=)\s*$", text[max(0, start - 4):start]):
+        conf -= 0.5          # a calculation/projection, e.g. "1,000 users ≈ $8.4k/mo"
+    if re.search(r"\bfrom\s*$", text[max(0, start - 8):start], re.I):
+        conf -= 0.3          # "from $2k to $15k": the starting point, not today
+    if THIRD_PARTY.search(sent):
+        conf -= 0.35
+    elif FIRST_PERSON.search(sent):
+        conf += 0.05
+    else:
+        conf -= 0.1
     if period is None:
         period = "year" if re.search(r"\b(in 20\d\d|last year|this year|per year|annual)\b", ctx, re.I) else "month"
         conf -= 0.15
@@ -106,7 +145,7 @@ def _claim(m: re.Match[str], text: str) -> RevenueClaim | None:
     if not (MIN_MONTHLY <= monthly <= MAX_MONTHLY):
         return None
     snippet = re.sub(r"\s+", " ", ctx).strip()
-    return RevenueClaim(monthly_usd=round(monthly, 2), snippet=snippet[:220], confidence=round(max(conf, 0.05), 2))
+    return RevenueClaim(monthly_usd=round(monthly, 2), snippet=snippet[:220], confidence=round(min(max(conf, 0.05), 1.0), 2))
 
 
 def extract_revenue(text: str) -> list[RevenueClaim]:

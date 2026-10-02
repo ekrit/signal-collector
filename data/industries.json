@@ -11,8 +11,8 @@
   "hypergrowth": true,
   "halal_economy": false,
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
-  "qualified_ideas": 1,
-  "median_mrr": 4166666.67,
+  "qualified_ideas": 0,
+  "median_mrr": null,
   "signals_7d": 373
  },
  {
@@ -27,8 +27,8 @@
   "hypergrowth": true,
   "halal_economy": false,
   "source": "https://www.mordorintelligence.com/industry-reports/ai-in-education-market",
-  "qualified_ideas": 1,
-  "median_mrr": 1500000.0,
+  "qualified_ideas": 0,
+  "median_mrr": null,
   "signals_7d": 89
  },
  {
@@ -123,8 +123,8 @@
   "hypergrowth": false,
   "halal_economy": false,
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
-  "qualified_ideas": 3,
-  "median_mrr": 10000.0,
+  "qualified_ideas": 0,
+  "median_mrr": null,
   "signals_7d": 56
  },
  {

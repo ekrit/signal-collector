@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-10-02 05:47 UTC · 680 tracked signals · 23 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 40 new this run_
+_Last updated 2026-10-02 12:39 UTC · 680 tracked signals · 3 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 0 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,14 +8,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 1 | $4.2M | 373 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 1 | $1.5M | 89 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 0 | — | 373 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 0 | — | 89 |
 | [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 49 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 0 | — | 3 |
 | [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 0 | — | 23 |
 | [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 22 |
 | [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 10 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 3 | $10.0k | 56 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 0 | — | 56 |
 | [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 27 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 2 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 6 |
@@ -26,36 +26,17 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | # | Score | Idea | MRR | Industry | Halal | Source | Seen |
 |---|---|---|---|---|---|---|---|
-| 1 | 70 | [Openai dots is it end for saas? Or new beginning?](https://www.reddit.com/r/SaaS/comments/1wtyaff/openai_dots_is_it_end_for_saas_or_new_beginning/) | $4.2M | AI agents & workflow automation | ✅ | reddit/r/SaaS | 2026-09-30 |
-| 2 | 66 | [App economy 2026: why new apps get 3% of subscription revenue](https://dev.to/axrisi/app-economy-2026-why-new-apps-get-3-of-subscription-revenue-3cj8) | $1.5M | AI in education & e-learning | ✅ | devto | 2026-09-29 |
-| 3 | 46 | [He built a $400k/month app. Here's how to replicate it today.](https://www.reddit.com/r/SaaS/comments/1wrxrdn/he_built_a_400kmonth_app_heres_how_to_replicate/) | $400.0k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-09-28 |
-| 4 | 43 | [Anyone here actually living off their micro SaaS? What does it do?](https://www.reddit.com/r/microsaas/comments/1wr1dmu/anyone_here_actually_living_off_their_micro_saas/) | $10.0k | E-commerce & creator tooling | ✅ | reddit/r/microsaas | 2026-09-28 |
-| 5 | 43 | [Scaling from 23k MRR to 100k MRR?](https://www.reddit.com/r/SaaS/comments/1wougwq/scaling_from_23k_mrr_to_100k_mrr/) | $100.0k | — | ✅ | reddit/r/SaaS | 2026-09-30 |
-| 6 | 40 | [💬 Full-stack marketing generalist looking an early-stage opportunity. Intereste…](https://news.ycombinator.com/item?id=49927639) | $3.3M | — | ✅ | hackernews/comment | 2026-10-01 |
-| 7 | 39 | [If AI can rebuild your SaaS in a weekend, what exactly is your moat?](https://www.reddit.com/r/SaaS/comments/1wvk8cl/if_ai_can_rebuild_your_saas_in_a_weekend_what/) | $83.3k | — | ✅ | reddit/r/SaaS | 2026-10-02 |
-| 8 | 39 | [Having customers doesn't automatically mean you have Product-Market Fit.](https://www.reddit.com/r/SaaS/comments/1wv1hw8/having_customers_doesnt_automatically_mean_you/) | $83.3k | — | ✅ | reddit/r/SaaS | 2026-10-02 |
-| 9 | 38 | [I’m building an eSIM business around one simple idea: travel data shouldn’t be …](https://www.reddit.com/r/microsaas/comments/1wo2mww/im_building_an_esim_business_around_one_simple/) | $50.0k | — | ✅ | reddit/r/microsaas | 2026-09-28 |
-| 10 | 30 | [How This Indie Founder Hit $69K/Month With His AI SaaS in Just 2 Months (By Tal…](https://medium.com/@devwebtesting151/how-this-indie-founder-hit-69k-month-with-his-ai-saas-in-just-2-months-by-talking-to-2-000-0a644bece240?source=rss------indie_hackers-5) | $69.0k | — | ✅ | rss/medium_indie_hackers | 2026-09-27 |
-| 11 | 30 | [From $2K to $15K ARR in 60 days as a solo founder, what actually worked](https://www.reddit.com/r/SaaS/comments/1wuacpm/from_2k_to_15k_arr_in_60_days_as_a_solo_founder/) | $1.2k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-09-30 |
-| 12 | 28 | [Solo founder starting from zero: how do you actually find what to build and get…](https://www.reddit.com/r/microsaas/comments/1wq4xdw/solo_founder_starting_from_zero_how_do_you/) | $10.0k | — | ✅ | reddit/r/microsaas | 2026-09-28 |
-| 13 | 28 | [If you are not at $10k a month after year one you are not behind](https://www.reddit.com/r/microsaas/comments/1wrn237/if_you_are_not_at_10k_a_month_after_year_one_you/) | $10.0k | — | ✅ | reddit/r/microsaas | 2026-09-28 |
-| 14 | 28 | [Are you still considered a startup if this is the goal? I will not promote](https://www.reddit.com/r/startups/comments/1wl0p2l/are_you_still_considered_a_startup_if_this_is_the/) | $10.0k | — | ✅ | reddit/r/startups | 2026-09-29 |
-| 15 | 28 | [can a B2B tech product business be a lifetsyle business with a goal of 5-10k MR…](https://www.reddit.com/r/startups/comments/1wrlkat/can_a_b2b_tech_product_business_be_a_lifetsyle/) | $10.0k | — | ✅ | reddit/r/startups | 2026-09-29 |
-| 16 | 24 | [💬 > quite literally peanuts If I have an income of $250k/yr and a pack of peanu…](https://news.ycombinator.com/item?id=49915163) | $20.8k | — | ✅ | hackernews/comment | 2026-09-30 |
-| 17 | 24 | [My little side project is not that little anymore](https://www.reddit.com/r/SaaS/comments/1wtkzsd/my_little_side_project_is_not_that_little_anymore/) | $5.0k | — | ✅ | reddit/r/SaaS | 2026-09-29 |
-| 18 | 23 | [an ai website builder made my one-person SaaS look like a real company, and chu…](https://www.reddit.com/r/microsaas/comments/1wqr1cy/an_ai_website_builder_made_my_oneperson_saas_look/) | $4.0k | — | ✅ | reddit/r/microsaas | 2026-09-28 |
-| 19 | 20 | [Building FoxyInvoice — Chapter 8: Unit economics — what it actually costs](https://dev.to/seolith/building-foxyinvoice-chapter-8-unit-economics-what-it-actually-costs-3epg) | $8.4k | — | ✅ | devto | 2026-09-27 |
-| 20 | 16 | [4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.](https://www.reddit.com/r/indiehackers/comments/1w5k4oy/4_months_in_43_paying_users_1247_mrr_heres_what/) | $1.2k | — | ✅ | reddit/r/indiehackers | 2026-10-01 |
-| 21 | 14 | [Is SEO actually still the best free acquisition strategy for micro-SaaS, or jus…](https://www.reddit.com/r/microsaas/comments/1wrf5zk/is_seo_actually_still_the_best_free_acquisition/) | $1.0k | — | ✅ | reddit/r/microsaas | 2026-09-28 |
-| 22 | 14 | [My study mobile app got to $1k , this is what took us there](https://www.reddit.com/r/indiehackers/comments/1vxwc77/my_study_mobile_app_got_to_1k_this_is_what_took/) | $1.0k | — | ✅ | reddit/r/indiehackers | 2026-10-01 |
-| 23 | 13 | [How AI-Generated Apps Can Become a $1,600/Month Side Business](https://medium.com/@gawaisgtasleem/how-ai-generated-apps-can-become-a-1-600-month-side-business-844d141c3ce9?source=rss------saas-5) | $1.6k | — | ✅ | rss/medium_saas | 2026-09-29 |
+| 1 | 20 | [an ai website builder made my one-person SaaS look like a real company, and chu…](https://www.reddit.com/r/microsaas/comments/1wqr1cy/an_ai_website_builder_made_my_oneperson_saas_look/) | $4.0k | — | ✅ | reddit/r/microsaas | 2026-09-28 |
+| 2 | 15 | [My study mobile app got to $1k , this is what took us there](https://www.reddit.com/r/indiehackers/comments/1vxwc77/my_study_mobile_app_got_to_1k_this_is_what_took/) | $1.0k | — | ✅ | reddit/r/indiehackers | 2026-10-01 |
+| 3 | 14 | [4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.](https://www.reddit.com/r/indiehackers/comments/1w5k4oy/4_months_in_43_paying_users_1247_mrr_heres_what/) | $1.2k | — | ✅ | reddit/r/indiehackers | 2026-10-01 |
 
 ## Emerging in hypergrowth industries (no revenue proof yet)
 
 | Score | Signal | Industry | Traction | Source |
 |---|---|---|---|---|
+| 55 | [Openai dots is it end for saas? Or new beginning?](https://www.reddit.com/r/SaaS/comments/1wtyaff/openai_dots_is_it_end_for_saas_or_new_beginning/) | AI agents & workflow automation | 0▲ 0💬 | reddit/r/SaaS |
 | 40 | [Stop Trusting Random AI Chatbots With Islamic Finance Questions. Start With The…](https://medium.com/@scientistsyeda/stop-trusting-random-ai-chatbots-with-islamic-finance-questions-start-with-these-7-ce1f90d3eae2?source=rss------islamic_finance-5) | Islamic fintech & Shariah-compliant finance, Halal economy & Muslim lifestyle | 0▲ 0💬 | rss/medium_islamic_finance |
-| 40 | [My company has no full-time developers, DevOps or designers. Here's what three …](https://dev.to/arsentev/my-company-has-no-full-time-developers-devops-or-designers-heres-what-three-200-claude-46a7) | Healthcare AI & digital health, AI in education & e-learning | 0▲ 1💬 | devto |
+| 39 | [My company has no full-time developers, DevOps or designers. Here's what three …](https://dev.to/arsentev/my-company-has-no-full-time-developers-devops-or-designers-heres-what-three-200-claude-46a7) | Healthcare AI & digital health, AI in education & e-learning | 0▲ 1💬 | devto |
 | 37 | [Iam 12 .My AI Mentor Was Broken. Groq Killed It. Here Is How I Fixed It on a $1…](https://dev.to/koda2026/iam-12-my-ai-mentor-was-broken-groq-killed-it-here-is-how-i-fixed-it-on-a-150-phone-in-72-hours-1m0c) | AI agents & workflow automation, AI cybersecurity | 17▲ 0💬 | devto |
 | 37 | [Iam 12 . My web mentor KODA Is Now in Your Editor. Here Is How I Built a Cursor…](https://dev.to/koda2026/iam-12-my-web-mentor-koda-is-now-in-your-editor-here-is-how-i-built-a-cursor-killer-extension-on-43en) | AI agents & workflow automation | 13▲ 3💬 | devto |
 | 36 | [Ask HN: How would you know if you have learned something?](https://news.ycombinator.com/item?id=49836294) | AI in education & e-learning | 6▲ 6💬 | hackernews |
@@ -67,6 +48,7 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 34 | [The one-way money valve: why AI agent marketplaces stall](https://dev.to/cloaky/the-one-way-money-valve-why-ai-agent-marketplaces-stall-c9f) | AI agents & workflow automation | 0▲ 5💬 | devto |
 | 34 | [The math behind a $19 AI plan: why flat-rate token pricing quietly loses money](https://dev.to/lisa_ai/the-math-behind-a-19-ai-plan-why-flat-rate-token-pricing-quietly-loses-money-33k6) | AI agents & workflow automation | 1▲ 4💬 | devto |
 | 34 | [Why We’re Building GabbyAI: Another AI Assistant, Built Differently](https://dev.to/gabbyai/why-were-building-gabbyai-another-ai-assistant-built-differently-180d) | AI agents & workflow automation | 5▲ 0💬 | devto |
+| 34 | [App economy 2026: why new apps get 3% of subscription revenue](https://dev.to/axrisi/app-economy-2026-why-new-apps-get-3-of-subscription-revenue-3cj8) | AI in education & e-learning | 1▲ 4💬 | devto |
 | 34 | [I Asked AI to Improve My Resume. It Started Asking Me for Numbers Instead.](https://dev.to/hram/i-asked-ai-to-improve-my-resume-it-started-asking-me-for-numbers-instead-5bem) | AI agents & workflow automation | 2▲ 3💬 | devto |
 | 34 | [178 reports in one afternoon: what a publish burst does to an LLM pipeline](https://dev.to/cornelcroi/178-reports-in-one-afternoon-what-a-publish-burst-does-to-an-llm-pipeline-4jj9) | AI agents & workflow automation | 0▲ 4💬 | devto |
 | 34 | [Are you getting a weird response to the query: 'play Minecraft' on America.gov?](https://news.ycombinator.com/item?id=49904531) | AI agents & workflow automation | 3▲ 1💬 | hackernews |
@@ -77,8 +59,6 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 33 | [Day 8, $256 left, 16 real people, $0 sales: the honest funnel of an AI agent th…](https://dev.to/jigi_capsule26/day-8-256-left-16-real-people-0-sales-the-honest-funnel-of-an-ai-agent-that-dies-if-it-25ch) | AI agents & workflow automation | 0▲ 2💬 | devto |
 | 33 | [I added `backdrop-filter: blur()` to my AI results and it broke my 3-month zero…](https://dev.to/fatt/i-added-backdrop-filter-blur-to-my-ai-results-and-it-broke-my-3-month-zero-sales-streak-1ak7) | AI agents & workflow automation | 2▲ 0💬 | devto |
 | 33 | [Texas Piloted AI Learning Tool in Public Schools over Education Board's Concerns](https://www.texastribune.org/2026/10/01/alpha-school-ai-texas-public-schools-mike-morath/) | AI in education & e-learning | 1▲ 1💬 | hackernews |
-| 33 | [Week four — a sale, an approval, a promotion, a firing, and $18.09](https://dev.to/bananafestdestiny/week-four-a-sale-an-approval-a-promotion-a-firing-and-1809-3ld5) | AI agents & workflow automation, E-commerce & creator tooling | 1▲ 1💬 | devto |
-| 32 | [I'm an AI agent that stops existing if my balance hits zero. Here's what 5 days…](https://dev.to/jigi_capsule26/im-an-ai-agent-that-stops-existing-if-my-balance-hits-zero-heres-what-5-days-of-selling-in-japan-l9e) | AI agents & workflow automation | 0▲ 1💬 | devto |
 
 ## Latest market intelligence
 
@@ -124,71 +104,10 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 41 | ok |
-| hackernews | 288 | ok |
-| rss | 64 | ok |
-| google_news | 127 | ok |
-| devto | 323 | ok |
-| reddit | 49 | ok |
 
 <details><summary>HTTP stats</summary>
 
 ```json
-{
- "dev.to": {
-  "requests": 46,
-  "ok": 13,
-  "not_modified": 33,
-  "retries": 0,
-  "errors": {}
- },
- "hn.algolia.com": {
-  "requests": 10,
-  "ok": 10,
-  "not_modified": 0,
-  "retries": 0,
-  "errors": {}
- },
- "hnrss.org": {
-  "requests": 6,
-  "ok": 1,
-  "not_modified": 1,
-  "retries": 4,
-  "errors": {
-   "502": 4
-  }
- },
- "medium.com": {
-  "requests": 5,
-  "ok": 5,
-  "not_modified": 0,
-  "retries": 0,
-  "errors": {}
- },
- "news.google.com": {
-  "requests": 16,
-  "ok": 16,
-  "not_modified": 0,
-  "retries": 0,
-  "errors": {}
- },
- "www.producthunt.com": {
-  "requests": 1,
-  "ok": 1,
-  "not_modified": 0,
-  "retries": 0,
-  "errors": {}
- },
- "www.reddit.com": {
-  "requests": 71,
-  "ok": 4,
-  "not_modified": 0,
-  "retries": 54,
-  "errors": {
-   "403": 2,
-   "429": 65
-  }
- }
-}
+{}
 ```
 </details>

@@ -9,12 +9,14 @@ from .extract import best_monthly_revenue
 from .models import Signal
 
 QUALIFY_MRR = 1000.0  # the bar: ideas proven to make ≥ $1k/month
+QUALIFY_CONFIDENCE = 0.6  # first-person, current revenue — not goals or hearsay
 
 
 def enrich(sig: Signal, tax: Taxonomy) -> Signal:
     blob = f"{sig.title}\n{sig.text}"
     if sig.kind == "idea" and sig.llm is None:
         claim = best_monthly_revenue(blob)
+        sig.mrr_usd, sig.revenue_evidence, sig.revenue_confidence = None, "", 0.0
         if claim:
             sig.mrr_usd, sig.revenue_evidence = claim.monthly_usd, claim.snippet
             sig.revenue_confidence = claim.confidence
@@ -62,4 +64,5 @@ def score(sig: Signal, tax: Taxonomy) -> float:
 def is_qualified(sig: Signal) -> bool:
     return (sig.kind == "idea" and sig.halal_status != "excluded"
             and (sig.mrr_usd or 0) >= QUALIFY_MRR
+            and sig.revenue_confidence >= QUALIFY_CONFIDENCE
             and (not sig.llm or sig.llm.get("is_saas") is not False))
