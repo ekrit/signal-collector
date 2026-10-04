@@ -74,6 +74,29 @@
  },
  {
   "rank": 4,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wwzue4",
+  "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wwzue4/solo_saas_finally_has_momentum_experienced_exited/",
+  "text": "I'm honestly a bit stuck here and dont really have experienced SaaS founders around me that I can ask, so would love some outside opinions.\nI've been building my B2B SaaS solo for around 1.5 years while working fulltime.\nfor most of that time almost nothing happened, but now it finally seems to get some traction.\nI'm currently at around 1.5k MRR and roughly 1k of that was added just last month . Most customers pay yearly upfront. Inbound is also increasing and right now my biggest problem is basically that i dont have enough time to call every signup, do onboarding, customer research etc (GTM last steps + Customer Success!).\nThe important part: from january i can basically work on this fulltime for several months (almost a year). Financially i can afford not having to pay myself from the SaaS immediately.\nMy original plan was honestly just to survive the next few months, even if i dont use the current momentum perfectly, then work and travel with my family for 1-2 months while working remotely and afterwards keep building it bootstrapped. Maybe rent a small office at some point and hire a working student / junior person for customer success, onboarding, followups etc.\nI didnt search for a cofounder (at this point at least).\nAn experienced founder found me through a founder community and reached out himself. he already built and exited a vertical software company before and after a few conversations i have to admit that he seems very good.\nHe asks exactly the right questions about funnel, activation, margins, customer segments, sales etc and already gave me some really useful input.\nHe also said he misses being operational and would like to get involved again.\nThe current idea would be that we work together for the next few months, he helps operationally and talks to customers etc.\nAterwards either he steps back and stays more strategic/investor-ish, or if we work extremely well together he could join permanently as a cofounder.\nWe havent talked exact equity yet, but from previous conversations i know he believes a real cofounder needs meaningful equity. so i assume we're probably talking somewhere in the 15-25%+ territory, not 2% (maybe even 50/50, but that would be shocking for me tbh!).\nAnd tzhis where I struggle right now!\nif this guy had joined 12 months ago i probably would have been extremely happy. Even 6 months ago it would have felt completely different!\nBut right now it feels like i already went through the shitty part (or HELL as I call it - family + full time job + everything else, still at least 1 fucking commit every god damn day no matter what was happening for the last year!!!) alone. Built the product, learned the market, got the first customers, kept going for 1.5 years while basically nothing happened... and now exactly when it starts working i give away a big chunk?\non the other hand maybe thats stupid thinking.\nmaybe keeping 100% of a smaller bootstrapped company is worse than having 75-85% of something much bigger with someone who already knows how to build and sell a company.\ni also genuinely like being solo though. complete freedom. no discussions about product, funding, hiring, selling the company one day etc.\nand i dont think i NEED him. worst case i probably leave quite a lot of growth on the table for the next 3 months and then go fulltime myself in january. But because he is so experienced, I know he will bring a lot to table. Also: he lives quite far away (still same country). So we would work basically remotely together (which is of course not a deal braker, since the nature of the business doesnt require it, but it would be of course nicer to be around; - and what will happen with office spaces and more?)\nso i cant really figure out if im considering giving away permanent equity because of a temporary capacity problem, or if im being stupid by not taking the opportunity to add a very experienced cofounder.\nWhat would you do? What should I do??\nWould you stay solo and hire employees later?\nor can 15-25% actually make sense for a strong cofounder joining at this stage?\nespecially interested if anyone here added a cofounder AFTER already having product + revenue.\nsubmitted by /u/chrome-1\n[link] [comments]",
+  "author": "/u/chrome-1 https://www.reddit.com/user/chrome-1",
+  "created_at": "2026-10-03T22:30:07+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1500.0,
+  "revenue_evidence": "ut now it finally seems to get some traction. I'm currently at around 1.5k MRR and roughly 1k of that was added just l",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 17.64,
+  "llm": null,
+  "first_seen": "2026-10-04T12:29:38+00:00",
+  "last_seen": "2026-10-04T12:29:38+00:00",
+  "uid": "702d68052b74f4b4"
+ },
+ {
+  "rank": 5,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -96,7 +119,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
