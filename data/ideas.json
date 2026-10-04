@@ -1,6 +1,29 @@
 [
  {
   "rank": 1,
+  "source": "rss/medium_saas",
+  "source_id": "https://medium.com/p/1b90c84f7dec",
+  "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
+  "url": "https://medium.com/@dev_16949/solo-founder-zero-ads-zero-employees-20-400-mrr-here-is-exactly-how-1b90c84f7dec?source=rss------saas-5",
+  "text": "Month one: four hundred and seventy-one dollars. Month six: two thousand two hundred and fourteen dollars. Month twelve: seven thousand…\nContinue reading on Medium »",
+  "author": "Omega Solution",
+  "created_at": "2026-10-04T02:17:37+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 20400.0,
+  "revenue_evidence": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How. Month one: four h",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 29.45,
+  "llm": null,
+  "first_seen": "2026-10-04T06:01:52+00:00",
+  "last_seen": "2026-10-04T06:01:52+00:00",
+  "uid": "9bb5d91d5b3143af"
+ },
+ {
+  "rank": 2,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -27,7 +50,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 2,
+  "rank": 3,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -50,7 +73,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 3,
+  "rank": 4,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -73,7 +96,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
