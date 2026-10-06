@@ -1,6 +1,54 @@
 [
  {
   "rank": 1,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wyfoqp",
+  "title": "$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/",
+  "text": "Hardware-enabled SaaS: GPS tracking and AI dashcams for commercial fleets. 12 years in, ~370 customers, average account around $4k/year, ~$1.6M ARR, on track for ~30% growth in our main market (Caribbean).\nOn paper it's going fine. But I've reached the point where I don't fully trust my own read on the business anymore. I built most of it by figuring things out as I went, and I'm starting to suspect some of what I see as normal is actually a blind spot.\nHere's a concrete example. Almost half our clients, about 170 of 370, pay late. They don't default, they're just consistently late. We get paid by wire transfer because that's how most businesses in the region pay, and we bill across 20+ territories with different banks and payment habits. I've lived with this for so long that I honestly can't tell anymore whether it's just the market or something I've been tolerating that a more experienced operator would have fixed years ago. I suspect it's the second.\nThat's the kind of outside perspective I'm looking for. I want someone who has been further down the road and can look at what I'm doing and tell me what I'm not seeing.\nA few questions for anyone who's been here:\nMentor or coach? I don't know if I need a founder who's done it, a paid coach, or both. If you've had both, what did each give you that the other couldn't?\nHow did you find yours? And if it was someone senior who didn't owe you anything, how did you make the ask?\nHas anyone dealt with late payments in a market where wire transfer is the default? What actually changed client behavior?\nLooking at my situation from the outside, what would you be asking me?\nI'm not selling anything and I'd rather not get coaching pitches in my DMs. I'm just trying to learn from people who've been in this spot. Happy to answer questions about selling B2B in the Caribbean if that's useful to anyone.\nsubmitted by /u/imjp\n[link] [comments]",
+  "author": "/u/imjp https://www.reddit.com/user/imjp",
+  "created_at": "2026-10-05T18:07:55+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 133333.33,
+  "revenue_evidence": "leets. 12 years in, ~370 customers, average account around $4k/year, ~$1.6M ARR, on track for ~30% growth in our main m",
+  "revenue_confidence": 0.95,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 42.75,
+  "llm": null,
+  "first_seen": "2026-10-06T06:29:48+00:00",
+  "last_seen": "2026-10-06T06:29:48+00:00",
+  "uid": "d1909365a05ef6ef"
+ },
+ {
+  "rank": 2,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wyqlev",
+  "title": "Founders: what term do you actually search when you need help getting early distribution?",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wyqlev/founders_what_term_do_you_actually_search_when/",
+  "text": "Growth marketer, GTM strategist, fractional CMO, demand gen: I can't tell which label founders actually trust.\nSome context: I've spent 10+ years in performance marketing in APAC (financial services and e-commerce) and I'm moving into fractional work with SaaS and startups in North America. I don't have North American clients yet, so I'd like to understand how buyers think before I name anything.\nA few questions:\n- When you need help getting your first customers or a new channel, what do you type into Google or ask other founders?\n- Which of these labels feel like fluff to you?\n- Have you hired outside help for distribution? If so, what did it cost and was it worth it?\nWould you trust someone with a strong record in another region, or do you need North American experience first?\nRough stage (pre-revenue, under $10K MRR, etc.) helps with context. Honest answers welcome, including \"none of these.\" I'll share a summary of what I learn.\nsubmitted by /u/General-Vehicle-6569\n[link] [comments]",
+  "author": "/u/General-Vehicle-6569 https://www.reddit.com/user/General-Vehicle-6569",
+  "created_at": "2026-10-06T01:54:21+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 10000.0,
+  "revenue_evidence": "need North American experience first? Rough stage (pre-revenue, under $10K MRR, etc.) helps with context. Honest answe",
+  "revenue_confidence": 0.85,
+  "industries": [
+   "ecommerce_tools"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 40.38,
+  "llm": null,
+  "first_seen": "2026-10-06T06:29:48+00:00",
+  "last_seen": "2026-10-06T06:29:48+00:00",
+  "uid": "d5f9264797821da5"
+ },
+ {
+  "rank": 3,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -23,7 +71,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 2,
+  "rank": 4,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -50,7 +98,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 3,
+  "rank": 5,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -73,7 +121,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 4,
+  "rank": 6,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -96,7 +144,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 5,
+  "rank": 7,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -115,11 +163,11 @@
   "score": 17.12,
   "llm": null,
   "first_seen": "2026-10-05T14:50:30+00:00",
-  "last_seen": "2026-10-05T14:50:30+00:00",
+  "last_seen": "2026-10-06T06:29:48+00:00",
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 6,
+  "rank": 8,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -142,7 +190,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 7,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -165,7 +213,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 8,
+  "rank": 10,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
