@@ -99,6 +99,52 @@
  },
  {
   "rank": 5,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wz4u1r",
+  "title": "how i got my first software to €3k mrr with zero ad spend",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wz4u1r/how_i_got_my_first_software_to_3k_mrr_with_zero/",
+  "text": "for context i run fanwake which is an ai chat tool for creators. its at €3k mrr now and up 33% in the last 4 weeks and i haven't spent a single euro on ads. wanted to be open about what actually got it here because honestly none of it is secret\nfirst the offer. people need to see the value themselves before they pay anything. so every free account gets 100 messages a month on us. creators see the quality of the chat with their own fans and in the best cases those free messages already bring them sales. when that happens they subscribe every time. think about it this way its money you would otherwise give to meta. id rather spend it on giving real value because its the best marketing there is and it gets the people with doubts through the door\nand it doesn't stop at the first payment. you have to keep proving the value for every next step. once the chat brought in sales for them going from starter to pro and all the way to elite at $249 a month was just obvious to them\nthen marketing. reddit has been my only channel from day one. no paid campaigns at all. i just write posts that actually help people in the space and only after giving REAL value i mention the tool i built and what it did. it can feel intimidating at first but you will need to test few angles and what gets the engagement naturally. there's really no shortcut here. if your marketing feels obvious or pushy people smell it straight away. it has to come naturally. ALWAYS\nthen support and this is the one i underestimated. im doing this solo so at some point the constant live chat pings got honestly annoying. but thats where the product actually comes from. stack up the requests see what keeps coming back and build that. right now i track all of that by hand and its a mess but its still the most valuable data i have. never leave a customer alone with an issue because they wont tell you they will just churn\nthat doesn't mean you build everything people ask for though. before you spend time on something ask does it help other users too. does it bring revenue or signups. does it move the product forward or slow it down. your time is limited. at 1k users you hear a lot good and bad. pick carefully what you build but never leave anyone unanswered\nget these right and growth mostly takes care of itself. still new to this and got a lot to learn, so any tips from other people running a business solo are appreciated\nsubmitted by /u/Crazy-Mountain6125\n[link] [comments]",
+  "author": "/u/Crazy-Mountain6125 https://www.reddit.com/user/Crazy-Mountain6125",
+  "created_at": "2026-10-06T15:00:54+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 3240.0,
+  "revenue_evidence": "r context i run fanwake which is an ai chat tool for creators. its at €3k mrr now and up 33% in the last 4 weeks and",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 22.66,
+  "llm": null,
+  "first_seen": "2026-10-07T06:08:32+00:00",
+  "last_seen": "2026-10-07T06:08:32+00:00",
+  "uid": "50baa5d844b4b308"
+ },
+ {
+  "rank": 6,
+  "source": "reddit/r/SaaS",
+  "source_id": "1wzakqc",
+  "title": "My first AI-built app just got its first organic customer",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wzakqc/my_first_aibuilt_app_just_got_its_first_organic/",
+  "text": "Hello everyone, I'm a software developer with 8 years of experience.\nI’ve been developing products for years, have been running my own company for 5 years, and have developed and sold products on numerous occasions.\nI’ve managed a few mobile apps before (+$3K MRR), but I didn’t code the mobile side myself.\nAbout 30–40 days ago, I decided to build a mobile app with AI. It lets small and medium-sized businesses build and launch their own websites just by telling the app what they want.\nThe development process and launch on the App Store took 30 days. My app has been in the App Store for ten days and has received some organic traffic. Today, I made my first subscription sale.\nThe app is called Regu - AI Website Builder\nIt enables small businesses to create and launch their own websites with the help of AI.\nOf course, this is just one customer. But after watching an almost empty dashboard for 10 days, seeing that first payment was really cool :)\nhttps://preview.redd.it/54umg88i6wth1.png?width=2470&format=png&auto=webp&s=5dcb5f753fa1011396cb923ffce58f46ce962a69\nsubmitted by /u/Fair_Royal_6816\n[link] [comments]",
+  "author": "/u/Fair_Royal_6816 https://www.reddit.com/user/Fair_Royal_6816",
+  "created_at": "2026-10-06T18:41:40+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 3000.0,
+  "revenue_evidence": "oducts on numerous occasions. I’ve managed a few mobile apps before (+$3K MRR), but I didn’t code the mobile side mys",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 22.16,
+  "llm": null,
+  "first_seen": "2026-10-07T06:08:32+00:00",
+  "last_seen": "2026-10-07T06:08:32+00:00",
+  "uid": "2656f7c2e34dcb2d"
+ },
+ {
+  "rank": 7,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -121,7 +167,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 6,
+  "rank": 8,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -144,7 +190,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 7,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -163,11 +209,11 @@
   "score": 17.12,
   "llm": null,
   "first_seen": "2026-10-05T14:50:30+00:00",
-  "last_seen": "2026-10-06T06:29:48+00:00",
+  "last_seen": "2026-10-07T06:08:32+00:00",
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 8,
+  "rank": 10,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -190,7 +236,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 9,
+  "rank": 11,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -213,7 +259,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 10,
+  "rank": 12,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
