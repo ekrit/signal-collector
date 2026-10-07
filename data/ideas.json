@@ -2,6 +2,31 @@
  {
   "rank": 1,
   "source": "reddit/r/SaaS",
+  "source_id": "1wzpmj5",
+  "title": "I'm 40, I've been a developer for years, and I still haven't figured out how to make money from my own software. What am I missing?",
+  "url": "https://www.reddit.com/r/SaaS/comments/1wzpmj5/im_40_ive_been_a_developer_for_years_and_i_still/",
+  "text": "I'm a 40-year-old Java/Spring developer from South Korea.\nI've spent years building software professionally. I've also built iOS apps on the side and I'm now learning AI/LLMs/RAG/agents.\nTechnically, I can build things.\nBut I've made almost no meaningful income from anything I've built for myself.\nMeanwhile, I constantly see posts from developers making $1K, $5K, or $10K MRR from relatively simple products.\nIt made me realize something:\nMaybe coding was never my bottleneck.\nI know how to learn another framework.\nI know how to build another app.\nWhat I don't know is how to find a problem people will actually pay me to solve, get the first users, distribute the product, and ask people for money.\nI'm not looking to quit my job or get rich quickly. I have a family and a stable career.\nI just don't want to reach 50 having spent another decade learning technologies while still never learning how to sell something I created.\nFor developers who eventually figured this out:\nWhat changed?\nWhat did you stop doing?\nWhat did you start doing?\nAnd if you were in my position today, what would you spend the next year learning: more technology, or sales/distribution/customer discovery?\nsubmitted by /u/gyhcom\n[link] [comments]",
+  "author": "/u/gyhcom https://www.reddit.com/user/gyhcom",
+  "created_at": "2026-10-07T06:46:04+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 10000.0,
+  "revenue_evidence": "Meanwhile, I constantly see posts from developers making $1K, $5K, or $10K MRR from relatively simple products. It mad",
+  "revenue_confidence": 0.6,
+  "industries": [
+   "ai_agents"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 48.0,
+  "llm": null,
+  "first_seen": "2026-10-07T13:33:29+00:00",
+  "last_seen": "2026-10-07T13:33:29+00:00",
+  "uid": "19c0dcde46e43300"
+ },
+ {
+  "rank": 2,
+  "source": "reddit/r/SaaS",
   "source_id": "1wyfoqp",
   "title": "$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.",
   "url": "https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/",
@@ -23,7 +48,7 @@
   "uid": "d1909365a05ef6ef"
  },
  {
-  "rank": 2,
+  "rank": 3,
   "source": "reddit/r/SaaS",
   "source_id": "1wyqlev",
   "title": "Founders: what term do you actually search when you need help getting early distribution?",
@@ -48,7 +73,7 @@
   "uid": "d5f9264797821da5"
  },
  {
-  "rank": 3,
+  "rank": 4,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -71,7 +96,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -98,7 +123,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -121,7 +146,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -140,11 +165,11 @@
   "score": 22.16,
   "llm": null,
   "first_seen": "2026-10-07T06:08:32+00:00",
-  "last_seen": "2026-10-07T06:08:32+00:00",
+  "last_seen": "2026-10-07T13:33:29+00:00",
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -167,7 +192,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -190,7 +215,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -209,11 +234,11 @@
   "score": 17.12,
   "llm": null,
   "first_seen": "2026-10-05T14:50:30+00:00",
-  "last_seen": "2026-10-07T06:08:32+00:00",
+  "last_seen": "2026-10-07T13:33:29+00:00",
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 10,
+  "rank": 11,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -236,7 +261,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 11,
+  "rank": 12,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -259,7 +284,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 12,
+  "rank": 13,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
