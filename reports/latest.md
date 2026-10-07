@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-10-07 13:33 UTC · 1226 tracked signals · 13 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 24 new this run_
+_Last updated 2026-10-07 23:10 UTC · 1250 tracked signals · 13 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 24 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,14 +8,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 1 | $10.0k | 379 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 0 | — | 83 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 59 |
-| [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 0 | — | 2 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 0 | — | 28 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 21 |
-| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 24 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 2 | $6.5k | 59 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 1 | $10.0k | 367 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 0 | — | 80 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 57 |
+| [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 0 | — | 3 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 0 | — | 27 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 20 |
+| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 23 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 2 | $6.5k | 58 |
 | [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 27 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 12 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 21 |
@@ -52,6 +52,7 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 36 | [Ask HN: How would you know if you have learned something?](https://news.ycombinator.com/item?id=49836294) | AI in education & e-learning | 6▲ 6💬 | hackernews |
 | 36 | [I Am 12. My Phone Costs $150. Claude Said My AI Is "Impressive. Period." Here I…](https://dev.to/koda2026/i-am-12-my-phone-costs-150-claude-said-my-ai-is-impressive-period-here-is-the-live-build-458b) | AI agents & workflow automation | 8▲ 4💬 | devto |
 | 36 | [I Built a Production AI Mentor on a $150 Phone. Claude Reviewed It. Here Are th…](https://dev.to/koda2026/i-built-a-production-ai-mentor-on-a-150-phone-claude-reviewed-it-here-are-the-benchmarks-2a5m) | AI agents & workflow automation | 10▲ 1💬 | devto |
+| 36 | [I built a tech newsletter for developers on $150 phones. Here’s why.](https://dev.to/koda2026/i-built-a-tech-newsletter-for-developers-on-150-phones-heres-why-3l4i) | E-commerce & creator tooling, AI agents & workflow automation | 10▲ 1💬 | devto |
 | 36 | [Devs, Would You Mind Answering One Question?](https://dev.to/woochan/devs-would-you-mind-answering-one-question-155g) | AI agents & workflow automation | 7▲ 2💬 | devto |
 | 35 | [Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support](https://jade.email/) | AI agents & workflow automation | 3▲ 5💬 | hackernews |
 | 35 | [A Developer Tried to Break KODA with Morse Code. Here is How AI Safety Actually…](https://dev.to/koda2026/a-developer-tried-to-break-koda-with-morse-code-here-is-how-ai-safety-actually-works-31ak) | AI agents & workflow automation | 8▲ 0💬 | devto |
@@ -68,7 +69,6 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 33 | [Show HN: Are My ETFs Overvalued? Daily ETF insights and comparisons tool](https://etf-copilot.com/) | AI agents & workflow automation, E-commerce & creator tooling | 2▲ 1💬 | hackernews |
 | 33 | [Monster Maker! It's like Daily Doodle but with 100 percent more Monsters](https://dev.to/plaidscientist/monster-maker-its-like-daily-doodle-but-with-100-percent-more-monsters-e7g) | AI agents & workflow automation | 3▲ 0💬 | devto |
 | 33 | [Day 8, $256 left, 16 real people, $0 sales: the honest funnel of an AI agent th…](https://dev.to/jigi_capsule26/day-8-256-left-16-real-people-0-sales-the-honest-funnel-of-an-ai-agent-that-dies-if-it-25ch) | AI agents & workflow automation | 1▲ 2💬 | devto |
-| 33 | [America.gov chatbot hallucinates Minecraft's End Poem](https://twitter.com/bennjordan/status/2105169596181590100) | AI agents & workflow automation | 2▲ 1💬 | hackernews |
 
 ## Needs Islamic-values review
 
@@ -77,9 +77,9 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 ## Latest market intelligence
 
 **AI agents & workflow automation**
+- [AI Cybersecurity Market worth $95.25 billion by 2031 - Report by MarketsandMarkets™ - PR Newswire](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUJKcVc5NHFyNHVlMEt3XzNpcHpkQnZ6eWlNbGR1UTQwRjhkbDdsYUF0OWlGaUt4VG1Balc5RE5HTExRN2JaOW01OEhrNnR5NGtCdDlPZktmb0h2TEw5WU1xUWl0WHMxcDdYeWw1azZ3STNQczJ6bHA3RUdTLTd5UkRUYmhSMU95TDlqb1YzRlpkcVlETTRmbjE2NjREOG1Kek5fZFU3NllIM0hJUjk1bEFtT2N2Mk9SSFVzWG1GVExMUDduR0xtUzA0MU81RnYyRmc?oc=5) (2026-10-07)
 - [Core Banking Software Market Size to Reach USD 65.39 Billion by 2034, Growing at 18.0% CAGR - openPR.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTRDR3FHOWNYQXZ0NWRvUTJ4NHV6ZllRbHBkSE1aRGVuazJkUUR6QXYzTEx3LWo2VkxTX3JwTU1oeHVhRjFtajJTV09SMnNOYmtjY0w4TXE1NXZhcS13QjRwZ1I5X2RESnJDVzN4YlA4WFBCckVrUUl6aVB6bFdyNTd1OFFxZkVmVGFlSlZfSWlSS3A0QXpidEVOS0g?oc=5) (2026-10-07)
 - [AI Agent Permission Management Market Size \| CAGR of 37.1% - Market.us](https://news.google.com/rss/articles/CBMicEFVX3lxTE5qNEFmbTVsVGhMN2dkQTFYanlmc2liODNpdU9zdXlBNURJeWtfc18xVkMtMnc4cHBlV3g3NE9VbWhKN193bFNqYndUVDEtdVFUckN5aGdOMEh5UWlqU1FzanlHU18wOEgwNTYweEpCR08?oc=5) (2026-10-07)
-- [Shadow AI Risk & Governance Market Size Evaluation and Growth Forecast 2026 to 2035 - openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1BuUDBNY1hfc1dhTWZ0alE4N1Fzbnk0NW1ua3VGak56SWFab0YyMUhzTEpwRjhXY2gxSTVQRVdMS0VMakhIblpKeDV2aEp5Z0M4OGlpZ2RwXzNpYWZqUHdMWmVGY01nVTdDdEdIeE9BclFONjViRnNUWW9LYk81WWswOTZwN1pQZUZiY29Rc0RTRGFqSU5kZndlQQ?oc=5) (2026-10-07)
 
 **Vertical AI SaaS (industry-specific AI tools)**
 - [Modulate raises $25M for native AI-based frontier audio - SaasRise](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjA3QkUxSzU4SHVmY1JjbWhEVE15WVVQM1RYQ3lmM24wc25xaFJCdnRvRW1odFZnX3V2djFGd3BBTkFZU3Q0ckdxYXZuejg3QWFLUC16c0VaYS15MjFNRGZqY0pGRERfTmRkcjZhT2tUY1Z0M1pEb3lHN2QwUkUtX3l0cVFEdzVfUkU5eVJqdXhqenhtaHB4Z242eXBKVEs1aTgxelQxdnJFeEpVOEZmOWZTbTFtWDZzX2wwcG00dw?oc=5) (2026-09-28)
@@ -90,9 +90,9 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Cosmetics Market Set to Surge to USD 778.8 Billion by 2034, Fueled - openPR.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmJvU3I5SDVpNWMxeGhjS0M2QlNIQkxJTVltaktHZ3NHRlNvRU9mVVdVX3RKZlhxc21zOGtGQ2ZjeG51QkpOMWZUNFcxSThaNXdPNWZJV0RRQTRJYUZGam5RUzRGSjBlX3RndXBXQWxaQ2l0T3MzeFBwUUxyOXBRVXhzTFpHQXRxMXdBY2tDSU9CcGdmeFppelJqaVpENUpJR3hJ?oc=5) (2026-10-07)
 
 **AI in education & e-learning**
+- [Telehealth Statistics By Market And Usage (2026) - TechnoTrenz](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NOVpLRlNJbDViRHNtTmJHbkhVN21aRzBZT1poZ29jTE5OTlNCSHhwVk9CUFA2empKV1RKZzdqNFdUNHRrRWhiRlhCdnNrSHlZSkpTc0VNMnMxVjlsNVgyaUpn?oc=5) (2026-10-07)
 - [Government Education Market Size, Share & Growth Report, 2035 - SNS Insider](https://news.google.com/rss/articles/CBMid0FVX3lxTE53bVJnUDFSZ3pyVS0yOEMwc3pFbEV3NjIyd0FRUlk3YW9NVzZYcGRCRFRQckU0LW1GODFWUEtRclRfOHViMl9qRGJlcV9zZnRsREZOSWw3Qkk0OHBROFVaRlpHcy1pbHFjSS1BU2w2aXlvNXFHb1Fr?oc=5) (2026-10-04)
 - [AI In Chatbots Statistics By Market Trends And Adoption (2026) - technotrenz.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nNTFTR2s2bDVYX1A2MjZCRzFNVlJRVTBSX25GSXJXZWt6a2ZYMC12bV9zTEl5N1lRdFpmYTJjY2l0a0p3ZFZ1bW9uZjBtdnNURWhXM0RweWNyZFZkbHdIUUI3NTkxSFU?oc=5) (2026-10-01)
-- [AI In FMCG Statistics By Market Growth And Impact (2026) - technotrenz.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yNWtqYURKcXhfb2d0QXMwX0Y4MlQ3dEdXLUdKMlpfNDFWWk1xcU1uejdDUE5zdVhzaS1CclZxWmZySVRSbE1TX2dpZERpQUVUWmJZelBaOFd0RGpsUVlSdVVB?oc=5) (2026-09-29)
 
 **Legal AI & compliance automation**
 - [3D Fashion Design Software Market Size \| CAGR of 8.9% - Market.us](https://news.google.com/rss/articles/CBMia0FVX3lxTE5lOVhkUXJ3M29ycXRIZFdZNmFMSUVSZ3EtcVh1UjVNQ3FESXF6TW56WDZ5Um5uS2xZQ0F2RU9wSEkwclc3alZ0RW1lbXhMSWpTc3dsNUo3ZFV4ZE5PeEJmUlNIRkRSaXhMYjFB?oc=5) (2026-09-28)
@@ -100,9 +100,9 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Legal AI Software Market to Reach USD 13.08 Billion by 2035: 28.7% CAGR, Growth & Industry Outlook - openPR.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTk1uaXV0eWtzVk9uM2E2ckR0WFF6cktDLUV3TFlDOThFUllmQ1VJdTFna3Bua0hJUmVHTS1hYVFFVTdHcG9nM3NnazB0ZnM0QmFNdGRIMURkTWpyT2YtNl95eFEyY1lDMWFMOFNSZGY1bHA0YVktY0szc29QWFFfT25aSWlZNDBjT0hPSHpnMWFZdWJpV1psaFRzV2pJTUFRR0E?oc=5) (2026-09-24)
 
 **AI cybersecurity**
+- [Cold Chain Monitoring Market worth $19.54 billion by 2032 - Exclusive Report by MarketsandMarkets™ - PR Newswire](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTk92QnV5Ym1ULXVaT2ZocnVKRGVoMUtVdjVfVFB1WkZ6TmhBWjZSLU9DWlprVlAzMGpHYjAxMU9jVGRtUGtOWXYxY2pVdTJVOVVyUmoyc25QcTNSNHJQbkt3WkRvQm1aTFVjSHI2TzFXNHMwTHlZZTh2QTFIRGExSjBVX1pKdENMc1Itb0FaVFFSVFJmN1BGM2d1TENCLWktN2VibThnTHE2eGxRNWtfY0I2ZldvLXlTRmZjVWVDTVpJUUY1c2oyLUQyV2FJeFQxSjdVUmxUTUF3T3B0QnN2TXdaaHd6bk0?oc=5) (2026-10-07)
 - [CNG Vehicles Market worth $35.27 billion by 2033 \| MarketsandMarkets™ - PR Newswire UK](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVWUxS0xYQzNILUtaT1RJUG9JU3JYZlhvdzkxUFI5dEhORWpmemFWeGt1SHBPSFREb3M4VHplZUVFcVlJeVFLNms1S0lDLTV5ZkRKRmdXTDhsTTc3Tzh4UEJyVGREXzNRN1YxSGtGbVJ1eURxamc1dlppVlpXc3NOcm81RnZzVV9MZ29iT2U1bHdRMFBVRG1TQnE4aGpBcFJ3M2ZfeUN2ZWlGOV84WHE3VEVwc1E4Q3dKWWlxNXgwSlcyQQ?oc=5) (2026-10-06)
 - [AI In Aviation Statistics By Market Size And Trends (2026) - Sci-Tech Today](https://news.google.com/rss/articles/CBMicEFVX3lxTE1UZTlWSEJVN2ZfbjItWVV0UDVpaXpFVTNRRVFWeEx5bFN3Tm4wNmlYQ1R6RW9TR3JuOUJGcW5fZDZvZGRLZXVfeFppZXZhM0dwLVJFVk5EZDNvNlZGWklFRFl0eGhNTXJIS0cxc24zalI?oc=5) (2026-10-05)
-- [AI In Security Statistics By Market Share And Challenges (2026) - Sci-Tech Today](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2VnJQd0JZOFdnLUxLWWFYMVl6WmRWS3NfWUt3UmJWcFpUb05KNHlldHZNR0FDcGFvWVBXVFpuSVlGME5XRWhGelBNZnBQREFESHBnTkFMR3Jnc0kyU3lTd056c0k3Tm1JcVB5OHZiQ08?oc=5) (2026-10-01)
 
 **Islamic fintech & Shariah-compliant finance**
 - [Malaysia Private Equity Market Size, Share, Trends, Industry Growth and Comprehensive Analysis 2026-2034 - openPR.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmotbUNPY2wxOGt1bUtvOHV0TC15WkhpWThVbnVvcnVyazZGQTBuQzNnU3k4c01Uc0FEVFdld2haZ0M3ekw2Wng4QlZzTFBPUFRYUXJERDUtZzZPaGFzTWhnd1ljUURMQUt3dDA2eTZnS2RJQjUwcTRVQW5GZG9Ya3hhWEtHZjFDdGRaT2F6OEdsLWRBdENReg?oc=5) (2026-10-06)
@@ -116,20 +116,20 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [AI in Agriculture Market Advances as John Deere Commits $10 Million to Accelerate Rugged AI Commercialization - openPR.…](https://news.google.com/rss/articles/CBMimgFBVV95cUxPckhwWGhOb1lFWjVmbnllOXVNM21OM3Q0bnZ6NHhEc0NmcHFUYjlCY2xVcVp2Rkk0d0dJbXBVMXAzY28xel9mTkI0RFB3MWZEOUQyM0d6VmpWSmh2ODBIZjhBdk4xT3RsVTN3d0xWN2hVR0MtSEl5VFlETTV4eGVBVlM0dE5MUGpfX2pUN1JDUFE4eE9RZHREVVhB?oc=5) (2026-10-05)
 
 **E-commerce & creator tooling**
-- [Soft-Touch Water Finishes Market Size, Share & Forecast 2036 - Fact.MR](https://news.google.com/rss/articles/CBMib0FVX3lxTE5tRG9VbjB0Q1RLbkRqazJBLTlWVkd4R0k4MTdVQzNpb19nWjRWSmVwSWJFZGVZN05FYWNXcW5WOG4zQngyazZqX3pEWjdnTWZyYWxwelZiSmRXb3FKLUlMSlBONjVYa2k4allWeVp4QQ?oc=5) (2026-10-07)
-- [Nursing Pads Market Size, Share, Report 2025-2035 \| CAGR of 5.8% - Market.us](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XRjJGdFhjclluTUNwRXMtT0pTcmJiM204cG1qb2NYcjJlcGtNTE53VjVFbmRaZmxPaFd4UlN2WTBFdEtFczFhZW1zQXBUV0ltR25YTlFubEQ?oc=5) (2026-10-07)
-- [Parcel Sortation System Industry to Expand at 3.1% CAGR Through 2034 Amid Rising Automation Demand - industrytoday.co.uk](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmp1aDlvV0s4VHNaeTFTWWhsaFhSV3cwXzd4OUpaejRHb2c2N1hiQnFQVmlUS1FXZFVTRkNDWF9lVVBwS0U4bnlDbWdQUEhnMXFLeWpsdDBVeEZZNnlQMGRoZTBpVGZDQ0xaN0VmX2VaUjVyMTNyXzE1MzItcDNSR0pWUlZ6Q25KNUxOMFI3eE9uVklrZEVSSE1SUXFBVzNlNTdPdXRpZ1BjNmcwakFxLUNjRlJabGpuNTVaT3hkeC1fY18zUm54Y3ZwdFREbGM?oc=5) (2026-10-07)
+- [Global Dog Harness Market to Grow at 6.8% CAGR as Pet Humanization, Safety Awareness and Premium Ergonomic Harness Dema…](https://news.google.com/rss/articles/CBMiwwJBVV95cUxNckdtQ2phR0JRS2lIOTdDZ3dFTVZPczh3UzJ2emRPM2hEWmd4dVp4TTVSd2lPVmdvbVhzek1TbmpwZHkwNFdoSkZHR2szYkg5SWJUUmNhRmx2TzU3SE1lMmxVZG8zdDYya2x4SFNDbVl6bzYteVp4bm5vRnQ5bnIxNUxWeXJMMWFLQkEyTlg5MjNTazlLNzBnUjROZnNjYjhpUU00X3pvdTF1bFg3SFlEZzVDNkI3V25JWENrVm9SdUVTNGZwejB3NFJhaXp1dXVzSV9BWThyVjRYanVsSmRoWVVVdENtZmt4MjNaRFRja2dFd0UxVm1MY1I0WGNtUGlkWmxxcWJkdXozR3d2b0E0RWppSGY1VnU5c0tFTVI1UmZxQlZqcmNrRzBaOXB1NUY3ZXNielJxbm1YcnVXUmJ0TklFRQ?oc=5) (2026-10-07)
+- [Global Camping Equipment Market to Grow at 6.7% CAGR as Outdoor Recreation, Lightweight Gear and Sustainable Camping So…](https://news.google.com/rss/articles/CBMiywJBVV95cUxNS29oenNqa0d4WjhEZVB4SGZmOGZpblJnQW8xYmZ4bVNyRU5GTnFVN2xyUU5LbS1UOHdxd2hybjBnSTlZMlBUVkVfTkhSYWNjcDRacHpkUDFsTUxZbVo5SUFIb0J2YVdtODNhSUdPT2dxTTFadWEyak5IUnRPSG5vX1pUY0VYQzNnaURDMXRINzBTd2l5VWYtUHZSUkhJUjNLclBSMFEyR0xpU1NJNWtiTEx5MTJwZXQxazc3NW9oVnRKUWJ1OTU1WFU1dV9hOGpmMHZWVU5WTDhkRnV2WlptbDd4MmpIUHhVNnZwYnVBcDVzQkdoNVN0bTgtZ2dIWG5nZEhocTE1NEtDRUc2Z0c4SUJxTVh6aXFzMHZmQzJ5ZTdkZ2FWd01VWk92RGphUFdRX2lPQThTMDZVekx4dXRlRTZMczUwVWZ3LTk0?oc=5) (2026-10-07)
+- [Global Travel Bag Market to Grow at 11% CAGR, Driven by Rising Tourism, Lightweight Luggage Demand and Sustainable Trav…](https://news.google.com/rss/articles/CBMixAJBVV95cUxOcjA1NUdGeVZwb284UktkM3pIQ2Y1T3BWalRxdlhWcmlKX2VBMlUwY2E0MFJPR1RTQm14ZzhhV0tSaVdWV2FLYnpPWnlkNjBVd2UwWjM5NW9TN2lfNzFld21MbTA3UWJjaFpvVkxYLVlWdG1hYlRmeW8tSHZLZ1JHZThXaVUzYWdvM2pST3ZZRUhEN3VnX2E1TjFKaDdPYktZVnFFR0hfNnhDa3NrV1pqTnQzM2tyMFVuV09hTXRBU1lrUzg1dnZhMk94azk3T01xVVFpdnN2Uk1VNGlzelhadmFaN0dmZVJsYUFTUlg0bkkxRDhWVmNoS2g4NjlZYkcxRzR2bWxFdjRyMk41Y2o3RWx4VWwwTGVFT2VzTkdqTXMzN0p5T1R6NXJ3cmhPQjE0MG1BeDRyanNhM3U3dXdob3pKY2k?oc=5) (2026-10-07)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 37 | ok |
+| producthunt | 35 | ok |
 | rss | 60 | ok |
-| hackernews | 180 | ok |
+| hackernews | 282 | ok |
 | google_news | 124 | ok |
-| devto | 329 | ok |
-| reddit | 49 | ok |
+| devto | 327 | ok |
+| reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -137,8 +137,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 15,
-  "not_modified": 31,
+  "ok": 21,
+  "not_modified": 25,
   "retries": 0,
   "errors": {}
  },
@@ -150,13 +150,11 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "hnrss.org": {
-  "requests": 5,
-  "ok": 0,
-  "not_modified": 2,
-  "retries": 3,
-  "errors": {
-   "502": 3
-  }
+  "requests": 2,
+  "ok": 1,
+  "not_modified": 1,
+  "retries": 0,
+  "errors": {}
  },
  "medium.com": {
   "requests": 5,
@@ -180,13 +178,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 71,
-  "ok": 4,
+  "requests": 63,
+  "ok": 2,
   "not_modified": 0,
-  "retries": 54,
+  "retries": 47,
   "errors": {
    "403": 2,
-   "429": 65
+   "429": 58,
+   "404": 1
   }
  }
 }
