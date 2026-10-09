@@ -29,7 +29,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-in-education-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 62
+  "signals_7d": 85
  },
  {
   "key": "healthcare_ai",
@@ -45,7 +45,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 57
+  "signals_7d": 58
  },
  {
   "key": "vertical_ai_saas",
@@ -61,7 +61,7 @@
   "source": "https://marketintelo.com/report/vertical-ai-saas-platform-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 4
+  "signals_7d": 3
  },
  {
   "key": "legal_ai",
@@ -77,7 +77,7 @@
   "source": "https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 31
+  "signals_7d": 32
  },
  {
   "key": "agritech_ai",
@@ -93,7 +93,7 @@
   "source": "https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 25
+  "signals_7d": 27
  },
  {
   "key": "ai_cybersecurity",
@@ -109,7 +109,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 21
+  "signals_7d": 20
  },
  {
   "key": "ecommerce_tools",
@@ -123,8 +123,8 @@
   "hypergrowth": false,
   "halal_economy": false,
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
-  "qualified_ideas": 2,
-  "median_mrr": 6500.0,
+  "qualified_ideas": 3,
+  "median_mrr": 3000.0,
   "signals_7d": 59
  },
  {

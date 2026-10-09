@@ -21,7 +21,7 @@
   "score": 48.0,
   "llm": null,
   "first_seen": "2026-10-07T13:33:29+00:00",
-  "last_seen": "2026-10-09T06:17:47+00:00",
+  "last_seen": "2026-10-09T13:29:25+00:00",
   "uid": "19c0dcde46e43300"
  },
  {
@@ -92,11 +92,36 @@
   "score": 30.0,
   "llm": null,
   "first_seen": "2026-10-09T06:17:47+00:00",
-  "last_seen": "2026-10-09T06:17:47+00:00",
+  "last_seen": "2026-10-09T13:29:25+00:00",
   "uid": "5bcdb27de01ac8d1"
  },
  {
   "rank": 5,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x1kv73",
+  "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x1kv73/it_took_us_7_months_to_reach_1k_mrr_on_stripe/",
+  "text": "I keep seeing posts about AI startups going from $0 to $10K MRR in 30 days.\nWell, here's a slightly different story.\nWe just crossed $1K MRR on Stripe. It took us 7 months, a pivot, multiple redesigns, thousands of euros in failed marketing experiments, and a lot of questioning whether we were building the right thing.\nAnd technically, we'd already passed $1K MRR before this through customers paying outside Stripe. But there's something satisfying about finally seeing that number on the dashboard.\nAnyway, here's our story.\n1. We started by building AI for social media managers.\nOur original idea was essentially Buffer on steroids.\nA social media management platform where humans were still at the center of everything, but AI made them significantly more productive.\nAI would analyze your performance and recommend the best posting times, write captions with strategic hashtags, suggest new content ideas, and act as a sort of social media consultant.\nOur target audience was agencies and social media managers.\nWe thought it made perfect sense. These people manage social media professionally, so surely they'd want a tool that made their work easier?\nWell, not exactly.\n2. Our first marketing experiments were a reality check.\nWe spent almost €1,000 on Google and Meta Ads, generating roughly 500,000 impressions.\nAnd almost nobody wanted to pay.\nAfter talking to potential customers, we started understanding why.\nFirst, the AI angle was actually a turnoff for some professionals.\nSecond, most agencies already had established workflows and tools. Switching to an unknown platform wasn't particularly appealing.\nAnd third, some saw AI automation as potential competition rather than something that would help them.\nWe'd spent months building a product for people who weren't especially interested in adopting it.\nNot a great feeling.\n3. We decided to pivot.\nAfter discussing our situation with a mentor, we decided to embrace AI automation completely.\nInstead of helping social media managers do their jobs, what if we built something that could handle social media for businesses that couldn't afford a manager in the first place?\nThink about it.\nA marketing agency can cost thousands per month. Hiring a social media manager can cost hundreds or more.\nBut what about the small business owner who has €30–50 to spend and barely enough time to run their business?\nMost agencies aren't interested in serving that customer. The economics simply don't work.\nBut with AI, maybe they could.\nSo we changed our ICP to solo entrepreneurs and small business owners.\nWe spent another two months building automation features and completely redesigning the platform around this new direction.\nAt that point, we were making around €200–300 MRR from a few local companies testing our product.\nNot exactly the explosive growth you see on X.\n4. Then we spent almost €3,000 on UGC.\nWe thought that if people could actually see what the product did, we'd have a much easier time selling it.\nSo we partnered with around 20 UGC creators from different countries.\nThe campaign generated roughly 500,000 organic views.\nThe result?\nOne paying customer.\nYep. Almost €3,000 spent. Half a million views. One sale.\nOn the bright side, that customer is still subscribed, hahaha.\nWe learned the hard way that attention, signups, and actual paying customers are three very different things.\n5. Meanwhile, something unexpected happened locally.\nWhile the UGC campaign was running, our product won third place in a regional innovation competition.\nAround the same time, our MRR doubled.\nThat made us reconsider something we'd previously overlooked: our home market.\nWe'd been so focused on building an international SaaS that perhaps we weren't giving enough attention to the market where we already had customers, connections, and some credibility.\nSo we decided to give it another shot while continuing our international efforts.\n6. We went back to the drawing board. Again.\nWe reconsidered our positioning and marketing strategy.\nWe rebuilt our marketing pages, improved onboarding, changed how we presented the product, and removed the free trial.\nWe also launched a new Meta Ads campaign, this time targeting a much clearer audience with a much clearer message.\nWe stopped trying to sell AI features.\nWe started selling the outcome: having your business's social media handled without spending hours doing it yourself.\nAnd finally, something started clicking.\nIn the first month after launching the new campaign, we doubled our MRR again.\nWe started getting paying customers more consistently, and our growth began accelerating.\nAnd now we've finally passed $1K MRR on Stripe.\n7. So, did we figure everything out?\nAbsolutely not, lol.\nWe're growing faster than before, but there are still plenty of problems.\nWe spent so much time improving our marketing and onboarding that we've accumulated bugs and UX issues inside the app that need attention.\nChurn is another thing we need to improve.\nGetting customers through the door is great, but keeping them is what actually builds a sustainable business.\nOur next target is $5K MRR, but reaching it means continuing to improve the product, not just spending more on advertising.\nWhat I've learned so far\nProbably the biggest lesson is that building the technology is only part of the challenge.\nI'm a developer. Building features, integrating AI models, and automating workflows is the part I'm comfortable with.\nFinding the right customers, understanding what they're willing to pay for, and figuring out how to reach them?\nThat's been significantly harder.\nWe also learned that a pivot doesn't necessarily mean throwing away everything you've built. Sometimes the technology is fine, but you're selling it to the wrong people.\nAnd finally, impressions mean absolutely nothing if they don't translate into customers.\nWe've generated over a million impressions across our early paid campaigns and UGC experiments. Most of that attention didn't translate into revenue.\nBut the lessons from those failures helped us find an approach that's starting to work.\nAnyway, I wanted to share this because I think the AI startup space can give people a very distorted idea of what building a business looks like.\nNot everyone hits $10K MRR in their first month.\nSometimes it takes months of building, getting things wrong, changing direction, and trying again just to reach your first $1K.\nAnd even then, you're only getting started.\nWe're definitely not a massive success story. But we've managed to turn an idea into something people are willing to pay for, and that's worth celebrating.\nNext stop: $5K MRR.\nHappy to answer questions about anything we tried, failed at, or learned along the way.\nsubmitted by /u/termicrafter16\n[link] [comments]",
+  "author": "/u/termicrafter16 https://www.reddit.com/user/termicrafter16",
+  "created_at": "2026-10-09T13:06:01+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1000.0,
+  "revenue_evidence": "in 30 days. Well, here's a slightly different story. We just crossed $1K MRR on Stripe. It took us 7 months, a pivot",
+  "revenue_confidence": 1.0,
+  "industries": [
+   "ecommerce_tools"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 29.88,
+  "llm": null,
+  "first_seen": "2026-10-09T13:29:25+00:00",
+  "last_seen": "2026-10-09T13:29:25+00:00",
+  "uid": "4384632d3989beae"
+ },
+ {
+  "rank": 6,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -119,7 +144,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -146,7 +171,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -169,7 +194,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -192,7 +217,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -215,7 +240,30 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 10,
+  "rank": 11,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x1l0e7",
+  "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x1l0e7/i_worked_hard_for_this_so_im_posting_it_here_t_t/",
+  "text": "A few months ago I had no idea if this would ever make a single euro.\nI built the whole thing for about €1,000. No big budget and no team. Then I did what a lot of us do and wasted weeks marketing on platforms that were never going to work for me. Posting everywhere, getting nothing back.\nThen came the Product Hunt launch. It flopped. Hardly any upvotes, and for a day or two I was pretty gutted.\nBut the feedback I got from it was really good. Honest, specific, and sometimes a bit brutal. I didn't treat it as a failed launch. I treated it as free advice, and I went back and fixed things.\nAnd it worked.\nToday the dashboard says €3,278 MRR. Last month it was €2,378. It's profitable.\nIt's not a huge number, and I know a lot of you are doing way bigger. But to me it's the first time the graph actually points up, and that matters.\nI'm not going to pretend I figured it all out. I just kept building, kept listening, and stopped chasing the wrong things.\nThis post is partly a reminder for me. If you're sitting at €0 and it feels pointless, keep going.\nThanks for reading guys. :)\nsubmitted by /u/Extra-Donkey-9152\n[link] [comments]",
+  "author": "/u/Extra-Donkey-9152 https://www.reddit.com/user/Extra-Donkey-9152",
+  "created_at": "2026-10-09T13:12:24+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 3540.24,
+  "revenue_evidence": "I went back and fixed things. And it worked. Today the dashboard says €3,278 MRR. Last month it was €2,378. It's profita",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 19.75,
+  "llm": null,
+  "first_seen": "2026-10-09T13:29:25+00:00",
+  "last_seen": "2026-10-09T13:29:25+00:00",
+  "uid": "f8adb30ec01dc6a4"
+ },
+ {
+  "rank": 12,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -238,7 +286,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 11,
+  "rank": 13,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -257,11 +305,11 @@
   "score": 17.12,
   "llm": null,
   "first_seen": "2026-10-05T14:50:30+00:00",
-  "last_seen": "2026-10-09T06:17:47+00:00",
+  "last_seen": "2026-10-09T13:29:25+00:00",
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 12,
+  "rank": 14,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -284,7 +332,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 13,
+  "rank": 15,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -307,7 +355,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 14,
+  "rank": 16,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
