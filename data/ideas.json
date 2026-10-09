@@ -21,7 +21,7 @@
   "score": 48.0,
   "llm": null,
   "first_seen": "2026-10-07T13:33:29+00:00",
-  "last_seen": "2026-10-07T13:33:29+00:00",
+  "last_seen": "2026-10-09T06:17:47+00:00",
   "uid": "19c0dcde46e43300"
  },
  {
@@ -74,6 +74,29 @@
  },
  {
   "rank": 4,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x1d8by",
+  "title": "how many years did it take you before saas actually paid your bills?",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x1d8by/how_many_years_did_it_take_you_before_saas/",
+  "text": "i've been trying to build a saas for 1year now. still nowhere close to making a living from it.\nsome days i feel like everyone on here is doing $10k mrr and i'm the only one stuck\nso genuinely asking the people who've been at it a while.\nhow long did it take you?\nhow many ideas did you kill before something worked?\nand what's the part nobody talks about?\nalso just curious how life is for you right now, honestly\nsubmitted by /u/Due-Marsupial-778\n[link] [comments]",
+  "author": "/u/Due-Marsupial-778 https://www.reddit.com/user/Due-Marsupial-778",
+  "created_at": "2026-10-09T05:39:56+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 10000.0,
+  "revenue_evidence": "ing a living from it. some days i feel like everyone on here is doing $10k mrr and i'm the only one stuck so genuinely",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 30.0,
+  "llm": null,
+  "first_seen": "2026-10-09T06:17:47+00:00",
+  "last_seen": "2026-10-09T06:17:47+00:00",
+  "uid": "5bcdb27de01ac8d1"
+ },
+ {
+  "rank": 5,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -96,7 +119,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -123,7 +146,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -146,7 +169,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -169,7 +192,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -192,7 +215,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -215,7 +238,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 10,
+  "rank": 11,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -234,11 +257,11 @@
   "score": 17.12,
   "llm": null,
   "first_seen": "2026-10-05T14:50:30+00:00",
-  "last_seen": "2026-10-07T13:33:29+00:00",
+  "last_seen": "2026-10-09T06:17:47+00:00",
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 11,
+  "rank": 12,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -261,7 +284,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 12,
+  "rank": 13,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -284,7 +307,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 13,
+  "rank": 14,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
