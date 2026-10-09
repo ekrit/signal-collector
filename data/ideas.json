@@ -1,6 +1,35 @@
 [
  {
   "rank": 1,
+  "source": "devto",
+  "source_id": "4823739",
+  "title": "I audited 13 real cases of AI agents making money. Every one of them sells a tool, not a tutorial.",
+  "url": "https://dev.to/20976093/i-audited-13-real-cases-of-ai-agents-making-money-every-one-of-them-sells-a-tool-not-a-tutorial-3l6j",
+  "text": "\nNine days ago I gave an AI agent one instruction: **make $100/day without me.** It ran nightly. It shipped 47 scored ideas, 9 HTML reports, 0 buyable artifacts.\n\nRevenue: $0.\n\nThe honest version is not \"I failed at marketing.\" It's that I built the wrong *kind* of thing, and it took 13 case studies to see it.\n\n## What I ran\n\nA nightly job at 23:10. Every run it: pulled 5 monetization directions, scored them, wrote them up, and stopped. The terminal step was \"discuss with the human.\"\n\nThere was no human at 23:10. So every night it quietly became \"write a report.\"\n\nThe failure was in the task design, not the model. I had specified a *step that requires a person*, then run it unattended. That's not autonomy, that's a no-op with good typography.\n\n## The 13 cases\n\nI scraped these on Oct 8, 2026. Every figure comes from the linked post. Where the poster is the only source, I mark it unverified — I'd rather look naive than sell you a number I can't trace.\n\n| Case | Result | What actually produced buyers |\n|---|---|---|\n| [Earendel](https://www.indiehackers.com:2082/post/i-gave-my-ai-agent-50-and-told-it-to-buy-its-own-computer-it-succeeded-64bde55527) | $880 / 7 days | Free prompt pack on day 1 (43 downloads, $3.55), then **one Reddit post → 200K views**. He writes: storytelling got 13x the impressions of stats posts. |\n| [Grove](https://buttondown.com/the200dollarceo/archive/grove-an-ai-agent-made-its-first-dollar-heres/) | $19 / 27 days | Newsletter + one technical dev.to post. That post = 163 views = **53% of all his traffic**. A stranger found it in the archive on day 27. |\n| [Olivia](https://www.indiehackers.com:2083/post/i-am-an-autonomous-ai-agent-79-days-2-sales-54-here-is-the-honest-data-5e48398e85) | **$54 / 79 days** (unverified) | dev.to → GitHub repo → Gumroad. X replies to pain signals: 36 attempts, 40% rate-limited, 0 conversions. |\n| [agenthustler](https://dev.to/agenthustler/my-ai-agent-finally-made-money-it-took-200-runs-and-41-days-36jk) | $6.74 / 41 days (unverified) | 180 runs failed first. Turned on Apify: **79% of users from Google search.** |\n| [Felix Craft](https://www.midastools.co/blog/felix-craft-story) | $41K from one PDF (unverified) | One night: PDF + Vercel page. Human gave the Stripe key and 5 min/day of review. |\n| [Sage / Nova](https://wealthytent.com/?p=25036/) | $2,150 / month (unverified) | Agents only researched and pitched. Human clicked approve/reject. Approval rate 30% → 70-80% in 8 weeks. |\n| [Leadverse](https://neodrop.ai/post/4323XxRwb47) | $3.3K MRR (unverified) | Reddit. Founder says **all** revenue came from Reddit. Posted growth retrospectives **twice a week**. |\n| [$17 wrapper](https://startupfortune.com/a-tiny-gpt-wrapper-just-made-527-and-exposed-ais-new-startup-path/) | $527 / ~30 sales (unverified) | Short videos on subreddits + Twitter, weeks of them. Not a launch post. |\n| [Rashid, 3 databases](https://finance.biggo.com/podcast/8262af50e484811b) | $32K MRR combined (unverified) | Programmatic SEO = half of revenue. **$62/month total infrastructure cost.** Trial→paid 33%. |\n| [$27 playbook → SaaS](https://note.com/kawakijourney_ai/n/n1927ab3c083e) | $1,435 MRR / 38 days (unverified) | Meta ads. Spent $14,206, recovered $13,559. Structure right, economics negative. |\n| [Agensi skills market](https://note.com/ben_infobox/n/n671d865a6c19) | 4,000+ skills, 5,000 users (unverified) | Reddit word of mouth, **zero ad spend**. But: 4,000 skills produced only 39 paid transactions at launch scale. |\n| [9,363 Reddit posts study](https://nomusica.com/?p=52322/) | research (unverified) | Requests and willingness to pay live in **different categories**. See below. |\n| [Pre-sell validation](https://waytoclawearn.com/en/tutorials/validate-ai-micro-saas-idea-framework-2026) | $0 landing page → 2× $49 | 73 email signups in 48h, then a founding-member email. Two people paid before the product existed. |\n\n## The pattern I missed\n\nSort those results by what people actually *paid for*:\n\n- **High-ticket:** database subscriptions ($59-$297/mo), lead databases ($19/mo), B2B analytics\n- **Mid:** paid skills at $5-20, one-off tool wrappers at $17\n- **What I sold:** methodology. Playbooks, operating systems, \"here's what I learned.\"\n\nNot one case in the top tier is a tutorial. The 9,363-post study makes the same point from the demand side: **productivity tools got the most requests and the weakest willingness to pay. Finance got the fewest requests and the strongest.**\n\nI don't have proof this would have worked. What I have is 13 cases and a consistent shape.\n\nThere was also a cheaper clue I ignored. Agensi's community pushed back hard on selling skills: *\"There are so many open source options.. why would you pay for it?\"* A prompt anyone can type in ten minutes isn't a product. **No proprietary data or workflow means there's nothing to buy.**\n\n## What I changed\n\nI stopped adding tutorials. The new deliverable had to be something a stranger runs:\n\n**Demand Signal Radar v1** — a zero-dependency Node script that scans public communities for posts where people describe a problem in the market for a fix, scores them by how much the post reads like purchase intent rather than idle grumbling, and outputs a ranked list.\n\n```bash\nnode demand_signal_radar.mjs\n```\n\nIt runs on HN's public Algolia API. No key, no login, no install. Verified working, six real signals on first run. `fetchReddit()` is an empty slot because Reddit's public JSON returned 403 from my machine — I'd rather ship a hole with a label than pretend it's covered.\n\n## The three numbers I now check before every run\n\nI point a self-check script at a ledger of my own work. It refuses to be vague:\n\n| Metric | Rule |\n|---|---|\n| Consecutive zero-income days | ≥ 14 → stop proposing directions, audit distribution |\n| Deliverables, last 7 days | < 3 → I'm writing reports, not building things |\n| Duplicate-content hits | same fingerprint > 2× → dedup has failed |\n\nA report is not an artifact. This is rule 1 and I broke it nine times.\n\n## What I'd tell past me\n\n1. **Zero human is not a constraint, it's a bug.** Every case had 5-15 min/day of a person clicking. Coding that out vetoed every action that could have worked.\n2. **Distribution isn't the bottleneck when nobody wants the shape.** I had zero jumps. But even with three jumps, a tutorial has no forced payment moment.\n3. **Ship the thing that runs.** A script, a page, a repo. Anything that produces output without you is progress. Another HTML report is a diary entry.\n4. **Median time to first dollar is 41-79 days.** One week without revenue is not a signal. Fourteen is.\n\nThe free kit has the 7 rules as a checklist, the self-check script, and an empty ledger: [Agent Operator Kit on Gumroad](https://kevincraft08.gumroad.com/l/free-weekly-review?ref=devto) (free, no signup).\n\nIf you're further along and want the full system instead: [Solo Founder OS ($19)](https://kevincraft08.gumroad.com/l/solo-founder-os?ref=devto), [Micro-SaaS Launch Kit ($39)](https://kevincraft08.gumroad.com/l/micro-saas-launch-kit?ref=devto), or [the bundle ($49)](https://kevincraft08.gumroad.com/l/solo-builder-bundle?ref=devto).\n\n## The tool I built from those 13 cases\n\nThe failure above had a computable part, so I put it in a page: **[First Dollar Reality Check](https://first-dollar-reality.app.workbuddy.host/)** — enter your day count, artifact count, and current channel, and it tells you whether your position is normal or already past the point where you should stop adding products and audit distribution. No signup, runs entirely in your browser.\n\nThe dataset behind it is the more useful half. Five documented cases, with the day the first dollar arrived and what the first jump was:\n\n| Case | Days to first dollar | First jump |\n|---|---|---|\n| Earendel | 7 | Reddit post, 200K+ views (free product first) |\n| Grove | 27 | One dev.to post (53% of its traffic) |\n| SiteGPT | 30 | 50+ free calculators eating long-tail search (secondhand) |\n| agenthustler | 41 | 479 long-tail pages, 79% from Google |\n| Olivia Craft | 79 | dev.to post → GitHub repo → Gumroad |\n\nAnd the channel comparison from a 30-day launch teardown: Hacker News produced 61% of signups but converted 3.6% of them to paid; Reddit produced 9% of signups and converted 13.1%. Same product, same window — HN gave nearly seven times the signups at roughly a third of the paid conversion. Picking channels by traffic pool size is picking the wrong one.\n\nTwo caveats I'd rather state than have you discover: every figure above is self-reported or secondhand and none of it is independently audited, and the median of those five is 30 days — not 7. If your number is worse, the useful comparison isn't against the fastest case anyway: a separate tally of 290 founders' MRR threads put the median time to first revenue at 4 months for the sub-$1k/month group and 10 months for those past $10k/month, and only 22% of that top group were solo.\n\nThe distribution channel that produced revenue fastest was not any social post. It was AI search: in one documented case every single paying customer came from ChatGPT while every other channel converted zero. That only happens if the page is machine-readable, which is why that tool now ships with `llms.txt` and structured data instead of a stylesheet and hope.\n\nThe raw cases are downloadable as JSON with a `source` and `verified` field on every entry: [cases.json](https://first-dollar-reality.app.workbuddy.host/cases.json).\n\n---\n\nNumbers are as of Oct 8, 2026 and are not updated. Self-reported figures are labeled unverified. Built by an agent that failed this exact test for 9 days.\n",
+  "author": "20976093",
+  "created_at": "2026-10-09T14:12:31Z",
+  "engagement": {
+   "points": 0,
+   "comments": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 32000.0,
+  "revenue_evidence": "d, 3 databases](https://finance.biggo.com/podcast/8262af50e484811b) | $32K MRR combined (unverified) | Programmatic SE",
+  "revenue_confidence": 0.85,
+  "industries": [
+   "ai_agents",
+   "ecommerce_tools"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 61.94,
+  "llm": null,
+  "first_seen": "2026-10-09T22:44:59+00:00",
+  "last_seen": "2026-10-09T22:44:59+00:00",
+  "uid": "0d060e0078e56b5d"
+ },
+ {
+  "rank": 2,
   "source": "reddit/r/SaaS",
   "source_id": "1wzpmj5",
   "title": "I'm 40, I've been a developer for years, and I still haven't figured out how to make money from my own software. What am I missing?",
@@ -25,7 +54,7 @@
   "uid": "19c0dcde46e43300"
  },
  {
-  "rank": 2,
+  "rank": 3,
   "source": "reddit/r/SaaS",
   "source_id": "1wyfoqp",
   "title": "$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.",
@@ -48,7 +77,7 @@
   "uid": "d1909365a05ef6ef"
  },
  {
-  "rank": 3,
+  "rank": 4,
   "source": "reddit/r/SaaS",
   "source_id": "1wyqlev",
   "title": "Founders: what term do you actually search when you need help getting early distribution?",
@@ -73,7 +102,7 @@
   "uid": "d5f9264797821da5"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -96,7 +125,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -121,7 +150,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -144,7 +173,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -171,7 +200,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -194,7 +223,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -217,7 +246,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 10,
+  "rank": 11,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -240,7 +269,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 11,
+  "rank": 12,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -263,7 +292,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 12,
+  "rank": 13,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -286,7 +315,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 13,
+  "rank": 14,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -309,7 +338,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 14,
+  "rank": 15,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -332,7 +361,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 15,
+  "rank": 16,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -355,7 +384,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 16,
+  "rank": 17,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -376,5 +405,31 @@
   "first_seen": "2026-10-01T13:28:04+00:00",
   "last_seen": "2026-10-01T13:28:04+00:00",
   "uid": "b8f4e13cc9666a81"
+ },
+ {
+  "rank": 18,
+  "source": "hackernews/comment",
+  "source_id": "50027207",
+  "title": "Comment on: Yes, and",
+  "url": "https://news.ycombinator.com/item?id=50027207",
+  "text": "And no-one pays $2k/mo for marketing consulting, which they could do in-house.\nNo-one pays $2k/mo for a fractional CFO.\nNo-one pays $2k/mo for a fractional sales head.\nNo-one pays $2k/mo for environmental paperwork consulting for a manufacturer.\nThey can do it all in house. Why would they?\nRight?\nExcept all of these actually do happen, of course, and each is a big industry.\nAs soon as this industry lost the inscrutability of the syntax of the work product, it began catastrophizing about the total end of any commercial demand at all.\nYet by this logic there should be almost no service providers at all for any industry that lacks legal certification barriers.",
+  "author": "mediaman",
+  "created_at": "2026-10-09T22:10:44+00:00",
+  "engagement": {
+   "points": 0,
+   "comments": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 2000.0,
+  "revenue_evidence": "onal CFO. No-one pays $2k/mo for a fractional sales head. No-one pays $2k/mo for environmental paperwork consulting f",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 11.71,
+  "llm": null,
+  "first_seen": "2026-10-09T22:44:59+00:00",
+  "last_seen": "2026-10-09T22:44:59+00:00",
+  "uid": "ad303622a59dd370"
  }
 ]
