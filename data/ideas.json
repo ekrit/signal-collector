@@ -25,7 +25,7 @@
   "score": 61.94,
   "llm": null,
   "first_seen": "2026-10-09T22:44:59+00:00",
-  "last_seen": "2026-10-11T05:55:59+00:00",
+  "last_seen": "2026-10-11T12:59:35+00:00",
   "uid": "0d060e0078e56b5d"
  },
  {
@@ -50,11 +50,37 @@
   "score": 48.0,
   "llm": null,
   "first_seen": "2026-10-07T13:33:29+00:00",
-  "last_seen": "2026-10-10T12:40:32+00:00",
+  "last_seen": "2026-10-11T12:59:35+00:00",
   "uid": "19c0dcde46e43300"
  },
  {
   "rank": 3,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x2f4zk",
+  "title": "We spent €3,000 on UGC creators, got 500,000 views, and acquired ONE paying customer",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x2f4zk/we_spent_3000_on_ugc_creators_got_500000_views/",
+  "text": "A few months ago, we decided to go all-in on UGC marketing for our SaaS.\nI'm one of the co-founders of Picmim, an AI-powered social media management platform for small businesses.\nWe had recently pivoted from targeting marketing agencies to small business owners, and we needed a way to reach this new audience.\nUGC seemed like the perfect fit.\nOur product is quite visual. You give the AI information about your business, and it creates and schedules social media content for you.\nSurely seeing the product in action would convince people to try it?\nSo we partnered with around 20 UGC creators from different countries and started producing short-form videos for TikTok, Instagram, and other platforms.\nWe tested different hooks, formats, and approaches.\nSome videos did pretty well. Others completely flopped.\nBut eventually, we reached roughly 500,000 organic views .\nNot bad, right?\nWell, here's where things get interesting.\nOur results:\nMoney spent: ~€3,000\nUGC creators: ~20\nTotal organic views: ~500,000\nPaying customers: 1\nYes. One customer.\nHahahaha.\nThe funniest part is that this customer is actually still subscribed, so I guess the campaign wasn't a complete failure.\nBut financially, it was pretty terrible.\nSo what went wrong?\nLooking back, I think we made a few mistakes.\nFirst, we focused too much on reach.\nGetting 100,000 views on a video feels amazing until you realize that almost none of those viewers are potential customers.\nSecond, our targeting wasn't nearly specific enough.\nOur ideal customers are small business owners who don't have the time or expertise to manage their own social media.\nBut a video about a cool AI tool can attract just about anyone.\nStudents, AI enthusiasts, other developers, people who simply find the technology interesting...\nNone of those necessarily have a business or a reason to subscribe.\nThird, we underestimated how much trust matters.\nWe're asking people to let AI create content representing their business. That's a bigger commitment than simply trying a cool AI image generator.\nWhat happened next?\nWe eventually stopped the UGC experiment and went back to the drawing board.\nWe reworked our positioning, redesigned our marketing pages, improved onboarding, removed our free trial, and started running more focused Meta Ads.\nAnd for the first time, things started working.\nOur MRR doubled in the first month after launching the new campaign.\nWe've since crossed $1K MRR on Stripe, and growth is finally starting to look promising.\nOf course, we changed multiple things at once, so I can't pretend one specific change was responsible.\nBut we learned something important:\n500,000 views from the wrong audience are worth less than 500 visits from people who actually need your product.\nWe're still experimenting, and I certainly wouldn't claim UGC doesn't work for SaaS.\nMaybe our execution was wrong. Maybe our creators weren't the right fit. Maybe our messaging wasn't good enough.\nProbably a combination of all three.\nBut I'm curious: has anyone here successfully used UGC or influencer marketing to acquire paying B2B SaaS customers?\nAnd if so, how did you make sure you were reaching actual buyers rather than just generating views?\nsubmitted by /u/termicrafter16\n[link] [comments]",
+  "author": "/u/termicrafter16 https://www.reddit.com/user/termicrafter16",
+  "created_at": "2026-10-10T13:19:30+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1000.0,
+  "revenue_evidence": "the first month after launching the new campaign. We've since crossed $1K MRR on Stripe, and growth is finally starti",
+  "revenue_confidence": 1.0,
+  "industries": [
+   "ecommerce_tools",
+   "edtech_ai"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 45.0,
+  "llm": null,
+  "first_seen": "2026-10-11T12:59:35+00:00",
+  "last_seen": "2026-10-11T12:59:35+00:00",
+  "uid": "15dc30dadddb9b21"
+ },
+ {
+  "rank": 4,
   "source": "reddit/r/SaaS",
   "source_id": "1wyfoqp",
   "title": "$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.",
@@ -77,7 +103,7 @@
   "uid": "d1909365a05ef6ef"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/SaaS",
   "source_id": "1wyqlev",
   "title": "Founders: what term do you actually search when you need help getting early distribution?",
@@ -102,7 +128,7 @@
   "uid": "d5f9264797821da5"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/09cd81d71336",
   "title": "I Hit $27,400 MRR by Ignoring Standard Startup Advice. Here Is What I Did Instead.",
@@ -125,7 +151,7 @@
   "uid": "c65c4bb99f94447f"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -144,11 +170,11 @@
   "score": 30.0,
   "llm": null,
   "first_seen": "2026-10-09T06:17:47+00:00",
-  "last_seen": "2026-10-10T12:40:32+00:00",
+  "last_seen": "2026-10-11T12:59:35+00:00",
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -173,7 +199,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -196,7 +222,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -223,7 +249,30 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 10,
+  "rank": 11,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x2ytlu",
+  "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x2ytlu/day_60_building_in_public_2k_in_sales_24k_arr_and/",
+  "text": "Day 60 of building SignalSumo in public\nTraffic is growing, and we just crossed $2K in total sales!\nTwo months ago, I launched SignalSumo, my SEO SaaS, with a simple goal: build something useful,cheaper than the competitors offer more value get real customers, and eventually turn it into a sustainable business.\nToday, I wanted to share a small progress update.\nTraffic is finally moving in the right direction.\nOver the past week, I’ve been seeing more visitors coming to SignalSumo. I’m tracking everything through the analytics tool, Gotrace.site , and yesterday’s numbers were encouraging:\n1,011 visitors\n1,121 sessions (+7.1% compared to the previous period)\n1,563 pageviews (+10.5%)\n840 engaged sessions (+11%)\nGoogle organic search is driving most of the growth, which is particularly encouraging because that’s exactly the kind of traffic I want to build on.\n++We also crossed $2,000 in total sales.\nMy estimated ARR is now around $24K, and the next big milestone I’m working toward is $5K MRR .\nI’m not there yet, and I know there’s still a lot of work ahead. More traffic doesn’t automatically mean more paying customers, and getting consistent conversions is a challenge of its own.\nBut after spending months building features, fixing issues, working on SEO, and trying to get the product in front of the right people, seeing these numbers move in the right direction feels good.\nOne thing I’m learning is that building a SaaS isn’t just about writing code. It’s about distribution, understanding what customers actually need, and staying consistent long enough to see results.\nI’m sharing the journey as it happens, including the wins, the mistakes, and the things that don’t work.\nNext goal: $5K MRR. Let’s see how long it takes.\nFor those of you building SaaS products, I’d love to hear your thoughts:\nAt this stage, would you focus more on pushing organic traffic further or on improving conversion rates and getting more paying customers from the traffic you already have?\nsubmitted by /u/codebi\n[link] [comments]",
+  "author": "/u/codebi https://www.reddit.com/user/codebi",
+  "created_at": "2026-10-11T04:25:30+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 5000.0,
+  "revenue_evidence": "is now around $24K, and the next big milestone I’m working toward is $5K MRR . I’m not there yet, and I know there’s",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 25.48,
+  "llm": null,
+  "first_seen": "2026-10-11T12:59:35+00:00",
+  "last_seen": "2026-10-11T12:59:35+00:00",
+  "uid": "87d6c40ee5a0d407"
+ },
+ {
+  "rank": 12,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -246,7 +295,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 11,
+  "rank": 13,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -269,7 +318,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 12,
+  "rank": 14,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -292,7 +341,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 13,
+  "rank": 15,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -311,11 +360,11 @@
   "score": 19.75,
   "llm": null,
   "first_seen": "2026-10-09T13:29:25+00:00",
-  "last_seen": "2026-10-10T12:40:32+00:00",
+  "last_seen": "2026-10-11T12:59:35+00:00",
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 14,
+  "rank": 16,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -338,7 +387,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 15,
+  "rank": 17,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -357,11 +406,11 @@
   "score": 17.12,
   "llm": null,
   "first_seen": "2026-10-05T14:50:30+00:00",
-  "last_seen": "2026-10-10T12:40:32+00:00",
+  "last_seen": "2026-10-11T12:59:35+00:00",
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 16,
+  "rank": 18,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -384,7 +433,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 17,
+  "rank": 19,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -407,7 +456,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 18,
+  "rank": 20,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -430,7 +479,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 19,
+  "rank": 21,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -453,7 +502,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 20,
+  "rank": 22,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
