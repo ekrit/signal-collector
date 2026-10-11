@@ -13,7 +13,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
   "qualified_ideas": 2,
   "median_mrr": 21000.0,
-  "signals_7d": 340
+  "signals_7d": 361
  },
  {
   "key": "edtech_ai",
@@ -45,7 +45,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 49
+  "signals_7d": 52
  },
  {
   "key": "vertical_ai_saas",
@@ -61,7 +61,7 @@
   "source": "https://marketintelo.com/report/vertical-ai-saas-platform-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 3
+  "signals_7d": 4
  },
  {
   "key": "legal_ai",
@@ -93,7 +93,7 @@
   "source": "https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 27
+  "signals_7d": 28
  },
  {
   "key": "ai_cybersecurity",
@@ -125,7 +125,7 @@
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
   "qualified_ideas": 3,
   "median_mrr": 3000.0,
-  "signals_7d": 54
+  "signals_7d": 55
  },
  {
   "key": "climate_carbon",
