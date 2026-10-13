@@ -13,7 +13,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
   "qualified_ideas": 2,
   "median_mrr": 21000.0,
-  "signals_7d": 402
+  "signals_7d": 399
  },
  {
   "key": "edtech_ai",
@@ -29,7 +29,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-in-education-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 83
+  "signals_7d": 80
  },
  {
   "key": "healthcare_ai",
@@ -45,7 +45,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 40
+  "signals_7d": 37
  },
  {
   "key": "vertical_ai_saas",
@@ -77,7 +77,7 @@
   "source": "https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 25
+  "signals_7d": 29
  },
  {
   "key": "agritech_ai",
@@ -109,7 +109,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 33
+  "signals_7d": 34
  },
  {
   "key": "ecommerce_tools",
@@ -125,7 +125,7 @@
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
   "qualified_ideas": 4,
   "median_mrr": 2000.0,
-  "signals_7d": 53
+  "signals_7d": 52
  },
  {
   "key": "climate_carbon",
@@ -141,7 +141,7 @@
   "source": "https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 27
+  "signals_7d": 32
  },
  {
   "key": "islamic_fintech",
@@ -157,7 +157,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/islamic-fintech-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 7
+  "signals_7d": 8
  },
  {
   "key": "halal_economy",
