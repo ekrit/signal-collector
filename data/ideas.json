@@ -25,7 +25,7 @@
   "score": 61.94,
   "llm": null,
   "first_seen": "2026-10-09T22:44:59+00:00",
-  "last_seen": "2026-10-13T22:52:26+00:00",
+  "last_seen": "2026-10-14T05:02:15+00:00",
   "uid": "0d060e0078e56b5d"
  },
  {
@@ -152,6 +152,29 @@
  },
  {
   "rank": 7,
+  "source": "reddit/r/microsaas",
+  "source_id": "1x1fqnj",
+  "title": "I’m pouring my heart and soul into this project… subscriptions are trickling in, but I’ve got ADHD and I’m not going down without a fight, haha.",
+  "url": "https://www.reddit.com/r/microsaas/comments/1x1fqnj/im_pouring_my_heart_and_soul_into_this_project/",
+  "text": "I’ve spent almost a year developing an SEO tool on par with Semrush and Ahrefs, but 80% cheaper, and subscriptions are only trickling in.\nI’ve been building projects for over 25 years, some generating more than €1 million a year in revenue, without being anywhere near as good as this one.\nIt’s frustrating sometimes to compete against such established companies. For whatever reason, people find it incredibly hard to switch, even when they could save more than $3,000 a year.\nSometimes I wonder whether entering markets like this is worth all the frustration, or whether it makes more sense to focus on small, emerging niches… Finding them is the tricky part. Think of eSIMs, for example, which started taking off over the past few years.\nHow do you deal with this kind of frustration? Any advice? Hehe\nsubmitted by /u/Cartographer_Better\n[link] [comments]",
+  "author": "/u/Cartographer_Better https://www.reddit.com/user/Cartographer_Better",
+  "created_at": "2026-10-09T08:17:39+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 90000.0,
+  "revenue_evidence": "e been building projects for over 25 years, some generating more than €1 million a year in revenue, without being anywhere near as good as",
+  "revenue_confidence": 0.8,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 35.45,
+  "llm": null,
+  "first_seen": "2026-10-14T05:02:15+00:00",
+  "last_seen": "2026-10-14T05:02:15+00:00",
+  "uid": "2c8edf751e2adcca"
+ },
+ {
+  "rank": 8,
   "source": "reddit/r/SaaS",
   "source_id": "1x4310s",
   "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
@@ -174,7 +197,7 @@
   "uid": "6fda2f3d36e8a321"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -197,7 +220,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -222,7 +245,32 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 10,
+  "rank": 11,
+  "source": "reddit/r/microsaas",
+  "source_id": "1x3v6h7",
+  "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
+  "url": "https://www.reddit.com/r/microsaas/comments/1x3v6h7/we_were_so_focused_on_growing_our_saas/",
+  "text": "When we started building our SaaS, we had one thing in mind: going global.\nWe're based in Slovenia, a country with roughly 2 million people, and from the beginning, we wanted to build something that could compete internationally.\nSo naturally, most of our marketing efforts were focused outside our home market.\nWe ran Google and Meta Ads targeting international audiences, worked with UGC creators from around the world, and tried different approaches to acquire users.\nWe spent thousands of euros in the process.\nThe results?\nLots of impressions, plenty of views, some signups, but very few paying customers.\nMeanwhile, something interesting was happening back home.\nA handful of Slovenian businesses were actually using and paying for our product.\nFor context, we're building Picmim, an AI-powered social media management platform that helps small businesses automate their content creation and scheduling.\nAt the time, we were making around €200–300 MRR, mostly from local companies testing the platform.\nNothing crazy, but they were real businesses paying real money.\nThen two things happened.\nWe won third place in a regional innovation competition, which gave us some recognition locally.\nAnd around the same period, our MRR doubled.\nIt made us reconsider our approach.\nWe'd been so obsessed with building an international SaaS that we weren't giving enough attention to the people who were already willing to pay us.\nAnd honestly, selling locally had some pretty obvious advantages we'd overlooked.\nWe could speak directly with business owners, better understand their problems, get feedback in our native language, and build relationships that are much harder to establish through a random Facebook ad.\nWe also started getting customers from more established Slovenian businesses, which was encouraging for a small startup like ours.\nSo did we abandon our international ambitions?\nNot at all.\nWe still want to build a global company.\nBut we realized that starting small geographically doesn't necessarily mean thinking small.\nYour home market can be an excellent place to validate your product, improve it with real customers, and build credibility before trying to scale everywhere.\nWe've since improved our positioning, rebuilt onboarding, and started seeing better results from our international Meta campaigns as well.\nWe recently crossed $1K MRR on Stripe, alongside the customers paying through other arrangements.\nWe're still very early, and I'm definitely not claiming we've figured out distribution.\nBut one of the biggest lessons so far has been that the best early customers aren't necessarily in the biggest market. Sometimes they're the ones you can actually reach, understand, and learn from.\nI'm curious how other founders approach this.\nIf you're building a SaaS outside the US, did you start by targeting your home market, or did you go international from day one?\nAnd looking back, would you make the same decision?\nsubmitted by /u/termicrafter16\n[link] [comments]",
+  "author": "/u/termicrafter16 https://www.reddit.com/user/termicrafter16",
+  "created_at": "2026-10-12T07:09:16+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1000.0,
+  "revenue_evidence": "ts from our international Meta campaigns as well. We recently crossed $1K MRR on Stripe, alongside the customers payi",
+  "revenue_confidence": 1.0,
+  "industries": [
+   "ecommerce_tools"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 29.88,
+  "llm": null,
+  "first_seen": "2026-10-14T05:02:15+00:00",
+  "last_seen": "2026-10-14T05:02:15+00:00",
+  "uid": "cbe9ecfc0ee23897"
+ },
+ {
+  "rank": 12,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -245,7 +293,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 11,
+  "rank": 13,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -272,7 +320,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 12,
+  "rank": 14,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -295,7 +343,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 13,
+  "rank": 15,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -314,11 +362,11 @@
   "score": 22.97,
   "llm": null,
   "first_seen": "2026-10-11T22:04:56+00:00",
-  "last_seen": "2026-10-13T22:52:26+00:00",
+  "last_seen": "2026-10-14T05:02:15+00:00",
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 14,
+  "rank": 16,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -341,7 +389,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 15,
+  "rank": 17,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -364,7 +412,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 16,
+  "rank": 18,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -387,7 +435,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 17,
+  "rank": 19,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -410,7 +458,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 18,
+  "rank": 20,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -433,7 +481,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 19,
+  "rank": 21,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -456,7 +504,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 20,
+  "rank": 22,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -479,7 +527,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 21,
+  "rank": 23,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -502,7 +550,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 22,
+  "rank": 24,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -525,7 +573,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 23,
+  "rank": 25,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -548,7 +596,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 24,
+  "rank": 26,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -574,7 +622,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 25,
+  "rank": 27,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
