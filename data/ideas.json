@@ -25,11 +25,41 @@
   "score": 61.94,
   "llm": null,
   "first_seen": "2026-10-09T22:44:59+00:00",
-  "last_seen": "2026-10-14T21:47:36+00:00",
+  "last_seen": "2026-10-15T04:49:40+00:00",
   "uid": "0d060e0078e56b5d"
  },
  {
   "rank": 2,
+  "source": "devto",
+  "source_id": "4852752",
+  "title": "I pulled verified revenue for 5,596 startups. Here's exactly what to build in 2026 (11 benchmarks, 25 templates)",
+  "url": "https://dev.to/rudratosh/i-pulled-verified-revenue-for-5596-startups-heres-exactly-what-to-build-in-2026-11-benchmarks-4eij",
+  "text": "---\ntitle: I pulled verified revenue for 5,596 startups. Here's exactly what to build in 2026 (11 benchmarks, 25 templates)\npublished: true\ntags: startup, saas, indiehackers, data\ncover_image: https://rudratoshs.github.io/assets/what-to-build-2026/00-cover.png\n---\n\nEvery \"what should I build\" thread ends the same way: someone posts a screenshot of a $40k MRR dashboard, everyone says \"just ship\", and nobody mentions that the median product in the same marketplace makes **$186 a month**.\n\nI wanted the actual distribution, not the highlight reel. So I pulled every startup listed on TrustMRR, a marketplace where revenue is verified from the founder's connected payment provider (Stripe, RevenueCat, Paddle, Polar and friends) rather than typed into a form. 11,630 active listings. 5,596 of them earned anything in the last 30 days. 3,914 have enough monthly history to tell whether they're growing.\n\nThen I sliced them eleven ways: by category, age, audience, platform, price point, payment rail, tech stack, team size, country, traffic, and what's actually hiding inside \"AI\".\n\nWhat came out is less a leaderboard and more a map. If you're deciding what to build next, this is the map.\n\n> **How to read every chart below:** \"$/30d\" is verified revenue in the last 30 days. \"% ≥ $1k\" is the share of startups in that slice making at least $1,000 in those 30 days. \"% rising\" is the share whose 6-month revenue trend slopes upward. I use medians everywhere because means are hijacked by a handful of $500k/month outliers.\n\n---\n\n## Benchmark 1: The funnel nobody shows you\n\n![Funnel from 11,630 listings down to 105 making $50k+](https://rudratoshs.github.io/assets/what-to-build-2026/01-reality-funnel.png)\n\n| Tier | Startups | Share of all listings |\n|---|---:|---:|\n| Earning anything | 5,596 | 48% |\n| ≥ $100 / month | 3,311 | 28% |\n| ≥ $1,000 / month | 1,514 | 13% |\n| ≥ $5,000 / month | 656 | 5.6% |\n| ≥ $10,000 / month | 404 | 3.5% |\n| ≥ $50,000 / month | 105 | 0.9% |\n\nRead that again. **Half of all listed startups make $0.** Of the half that make something, the median is $186, the 75th percentile is $1,199, and you need to be in the top 10% of *earners* to clear $6,330 a month.\n\nThis isn't a pessimism post. It's calibration. Every benchmark below is more useful once you know that \"$1k/month\" puts you in the top 13% of people who tried.\n\n---\n\n## Benchmark 2: Age since launch (and how long $1k really takes)\n\n![Median revenue climbs with age, share rising falls](https://rudratoshs.github.io/assets/what-to-build-2026/02-launch-cohorts.png)\n\n| Launched | n | Median $/30d | % ≥ $1k | % rising |\n|---|---:|---:|---:|---:|\n| 0–6 months ago | 1,139 | $78 | 17% | **50%** |\n| 7–12 months | 1,438 | $152 | 22% | 49% |\n| 13–24 months | 1,056 | $294 | 32% | 45% |\n| 25–48 months | 642 | $469 | 39% | 32% |\n| 4+ years | 325 | **$1,582** | 57% | 25% |\n\nTwo curves moving in opposite directions. Revenue compounds with age; growth probability decays with it. A 4-year-old product earns 20× a 6-month-old one, but only a quarter of them are still growing.\n\nThe practical reading: **if you're choosing a category, look at what young launches are doing in it, not what the old incumbents earn.** The incumbents tell you the ceiling. The young launches tell you whether the door is still open.\n\n### How long to the first $1k month?\n\n![Distribution of months from launch to first $1,000 month](https://rudratoshs.github.io/assets/what-to-build-2026/04-time-to-1k.png)\n\nAmong 2,557 startups launched in the last 18 months with monthly history, **833 (33%) have had at least one $1,000 month.** For those that did:\n\n- **35%** got there in the launch month or the month after\n- **58%** within 3 months\n- **80%** within 6 months\n- Only 4% took more than a year\n\nBy category, the fastest to $1k are Mobile Apps, Marketplace and Entertainment (median 1 month). The slowest with a meaningful sample are Real Estate (7 months), Fintech and E-commerce (4 months).\n\nThe uncomfortable implication: **if you're 6 months in with no $1k month, the base rate says it's unlikely to arrive by waiting.** It's not impossible (20% of the eventual winners took longer), but something has to change, not just time pass.\n\n---\n\n## Benchmark 3: The category opportunity map\n\n![Bubble chart: median revenue vs share of young launches already at $1k](https://rudratoshs.github.io/assets/what-to-build-2026/03-category-map.png)\n\nThe x-axis is what the category earns (median across all earners). The y-axis is whether *new* entrants are earning (share of launches ≤12 months old already at $1k+). Bubble size is how crowded it is. Colour is share rising.\n\nThe top-right quadrant is where you want to be: proven revenue **and** recent launches are getting paid.\n\nFull table, sorted by median revenue:\n\n| Category | n | Median $/30d | p90 | % ≥ $1k | % rising | Recent launches (≤12m) | Recent % ≥ $1k | Solo % |\n|---|---:|---:|---:|---:|---:|---:|---:|---:|\n| **Marketplace** | 51 | $600 | $45,442 | 43% | 55% | 21 | 33% | 89% |\n| **Travel** | 48 | $504 | $12,697 | 44% | 29% | 20 | **45%** | 42% |\n| Entertainment | 73 | $400 | $6,430 | 36% | 46% | 36 | 31% | 100% |\n| No-Code | 31 | $383 | $5,325 | 42% | 25% | 8 | 25% | 50% |\n| Security | 29 | $372 | $3,982 | 34% | **61%** | 12 | 8% | 67% |\n| **Sales** | 56 | $368 | $13,497 | 36% | 36% | 26 | 23% | 60% |\n| Legal | 21 | $364 | $4,788 | 29% | 38% | 12 | 25% | 33% |\n| E-commerce | 124 | $346 | $20,282 | 37% | 37% | 47 | 19% | 86% |\n| Customer Support | 24 | $343 | $12,249 | 42% | 23% | 11 | 0% | 75% |\n| Real Estate | 45 | $287 | $5,420 | 40% | 34% | 19 | 32% | 67% |\n| Education | 244 | $286 | $6,833 | 30% | 30% | 95 | 23% | 81% |\n| Social Media | 103 | $284 | $6,252 | 33% | 27% | 43 | 21% | 67% |\n| Marketing | 307 | $205 | $12,258 | 29% | 32% | 174 | 18% | 75% |\n| Artificial Intelligence | **1,248** | $204 | $5,576 | 28% | 29% | 595 | 24% | 74% |\n| SaaS (generic) | 422 | $192 | $5,269 | 27% | 31% | 221 | 16% | 77% |\n| Mobile Apps | 368 | $175 | $7,274 | 25% | 35% | 182 | 22% | 87% |\n| Design Tools | 121 | $157 | $2,599 | 19% | 27% | 64 | 14% | 77% |\n| Content Creation | 256 | $156 | $4,566 | 26% | 30% | 131 | 17% | 71% |\n| Games | 70 | $151 | $4,791 | 17% | 40% | 32 | 12% | 80% |\n| Analytics | 124 | $133 | $6,384 | 28% | 25% | 60 | 20% | 82% |\n| Utilities | 140 | $132 | $1,363 | 16% | 45% | 82 | 15% | 88% |\n| Fintech | 132 | $127 | $2,663 | 19% | 35% | 48 | 12% | 55% |\n| Health & Fitness | 248 | $126 | $2,854 | 18% | 35% | 106 | 15% | 86% |\n| Recruiting & HR | 62 | $112 | $2,904 | 16% | 28% | 26 | **0%** | 64% |\n| Developer Tools | 272 | $98 | $4,239 | 22% | 40% | 132 | 13% | 75% |\n| **Productivity** | 401 | **$70** | $1,458 | 14% | 34% | 207 | 12% | 86% |\n\nThings that jumped out:\n\n- **Productivity is the worst category in the dataset by almost every measure.** 401 earners, $70 median, 14% at $1k, and the young launches aren't doing better. This is where \"I'll build a better todo app\" goes to die. It's also the category most exposed to being absorbed into the operating system or a platform feature.\n- **Developer Tools is a trap for developers.** $98 median, the second-lowest. We build what we understand, and we're the audience least willing to pay. Note the exceptions later: dev tools that sell *data* (APIs) do fine.\n- **AI is the biggest bubble and a perfectly average one.** 1,248 earners, median $204. It's not a category, it's a technology. Benchmark 9 splits it open.\n- **Travel and Marketplace are small but new entrants earn fast.** 45% of travel launches under a year old are already at $1k. That's double the overall rate.\n- **Recruiting & HR: zero recent launches at $1k.** Not one of 26. Hard pass unless you have distribution.\n- **Security has the highest share rising (61%)** but recent launches aren't converting yet (8%). Watch it; don't bet the house.\n\n---\n\n## Benchmark 4: Audience and platform\n\n![B2B vs B2C and web vs mobile comparison](https://rudratoshs.github.io/assets/what-to-build-2026/05-audience-platform.png)\n\n| Slice | n | Median $/30d | p90 | % ≥ $1k | % ≥ $10k | % rising |\n|---|---:|---:|---:|---:|---:|---:|\n| **B2B** | 1,460 | **$240** | $7,590 | 30% | 8.2% | 45% |\n| B2C | 2,827 | $123 | $2,959 | 20% | 3.7% | 41% |\n| Both | 282 | $198 | $4,791 | 28% | 5.0% | 40% |\n| Web | 4,238 | $200 | $6,821 | 28% | 7.8% | 44% |\n| Mobile app | 1,358 | $149 | $4,740 | 23% | 5.5% | 41% |\n\nB2B doubles the median and more than doubles the odds of $10k. Nothing new there. The part that's new to me: **twice as many people build B2C anyway** (2,827 vs 1,460). The crowd is on the wrong side of the odds.\n\n\"Both\" lands between the two on revenue and has the lowest share rising of the three. Pick one.\n\nWeb beats mobile on median, but mobile has one superpower that shows up in the next two benchmarks: **recent mobile launches have a higher median ($161) than recent web launches ($100).** Mobile gets paid faster; web gets paid more eventually.\n\n---\n\n## Benchmark 5: Price point (the strongest single predictor)\n\n![Median revenue and share at $1k rise steeply with entry price](https://rudratoshs.github.io/assets/what-to-build-2026/08-price-point.png)\n\nI parsed the cheapest monthly plan out of 1,329 startups that list pricing.\n\n| Cheapest monthly plan | n | Median $/30d | p90 | % ≥ $1k | % ≥ $10k |\n|---|---:|---:|---:|---:|---:|\n| under $5 | 269 | $70 | $1,248 | 12% | 1.5% |\n| $5–14 | 430 | $100 | $2,180 | 16% | 2.6% |\n| $15–29 | 351 | $208 | $3,872 | 27% | 4.6% |\n| $30–79 | 180 | $510 | $19,318 | 40% | 15% |\n| **$80+** | 99 | **$1,100** | $19,765 | **53%** | 21% |\n\nNothing else in the dataset separates winners from losers this cleanly. A product whose entry plan is $80+ is **4.4× more likely to be at $1k** than one priced under $5. And the $80+ bucket has the highest share rising (55%) too, so it's not just old enterprise products dragging the number up.\n\nThe usual objection is \"but cheaper products get more customers.\" The data on that: median revenue per customer across the whole dataset is **$9.26 per month**. Most products are not getting enough customers to make cheap work.\n\n### Subscription vs one-time\n\n| Model | n | Median $/30d | % ≥ $1k | % rising | Margin |\n|---|---:|---:|---:|---:|---:|\n| Subscription only | 1,853 | **$169** | 25% | 44% | 82% |\n| Sub + lifetime option | 354 | $127 | 16% | 41% | 90% |\n| One-time only | 209 | $76 | 18% | 37% | 95% |\n\nAdding a lifetime deal to a subscription product *lowers* the median by a quarter. It's the classic launch-week sugar rush: you cannibalise your best customers for cash now. One-time-only works for utilities (Benchmark 11 has examples) but it's a $76 median business.\n\n---\n\n## Benchmark 6: The payment rail as a tell\n\n![Median revenue by payment provider](https://rudratoshs.github.io/assets/what-to-build-2026/06-payment-provider.png)\n\n| Provider | n | Median $/30d | % ≥ $1k | % rising | Solo % |\n|---|---:|---:|---:|---:|---:|\n| Whop | 41 | **$1,031** | 51% | 50% | 75% |\n| Superwall | 73 | $698 | 42% | 35% | 50% |\n| Stripe | 3,217 | $290 | 32% | 43% | 70% |\n| RevenueCat | 1,198 | $136 | 21% | 41% | 87% |\n| Lemon Squeezy | 183 | $121 | 18% | 38% | 83% |\n| Paddle | 102 | $93 | 20% | 47% | 90% |\n| Creem | 61 | $80 | 11% | 37% | 75% |\n| Polar | 301 | $69 | 15% | 44% | 92% |\n| Dodo Payments | 385 | **$49** | 11% | 53% | 85% |\n\nThis isn't \"use Whop and get rich.\" Causation runs the other way. Whop products are communities and paid groups selling at $30–100/month; Superwall products are mobile apps that invested in paywall optimisation. Both are populated by people who took monetisation seriously before they wrote code.\n\nThe bottom of the table is the interesting signal. Polar, Dodo and Creem are the merchant-of-record rails indie devs adopted in 2025–26 because they're easy. Their median is $49–80. Easy-to-set-up billing is attracting easy-to-abandon products. **If your stack choice is \"whichever payment provider has the nicest onboarding\", you're pattern-matching with the bottom decile.**\n\nMeanwhile Dodo has the highest share rising (53%): a lot of new, small, growing products. Give it a year.\n\n---\n\n## Benchmark 7: Tech stack\n\n![Share at $1k by technology](https://rudratoshs.github.io/assets/what-to-build-2026/07-tech-stack.png)\n\nDoes the stack matter? Mostly no. Of the 29 technologies with 100+ earners, 20 sit within ±5 points of the 27% baseline. The stack is not the business.\n\nThe ones that break the pattern, and why:\n\n| Tech | n | % ≥ $1k | Median | What it's really telling you |\n|---|---:|---:|---:|---|\n| Redis | 106 | 40% | $304 | You have enough traffic to need a cache |\n| Anthropic API | 122 | 39% | $380 | Builders choosing it skew B2B |\n| AWS | 102 | 38% | $480 | Teams, not weekend projects |\n| Stripe | 2,599 | 35% | $318 | Web B2B baseline |\n| OpenAI API | 210 | 33% | $257 | |\n| Next.js | 1,054 | 26% | $173 | The default. Also default results |\n| Supabase | 550 | 22% | $147 | |\n| RevenueCat | 939 | 21% | $136 | Mobile baseline |\n| Flutter | 146 | 19% | $125 | Lowest of the mobile frameworks |\n| Polar | 245 | 15% | $67 | |\n| Dodo Payments | 308 | 10% | $49 | |\n\n\"AI API in stack\" vs not: $257 vs $193 median, 32% vs 28% at $1k. Using an LLM helps a little. It is not a moat.\n\n### What the recent winners are actually built on\n\nAmong the 514 startups launched in the last 12 months that are already at $1k+, the most common stacks (where the stack is listed):\n\n1. **Next.js + Stripe** (32), often with **Supabase** (26) or **PostgreSQL** (16)\n2. **SwiftUI + RevenueCat** (11)\n3. **React Native + RevenueCat** (9), with Supabase (6) or Postgres (5)\n4. **React + Stripe** (9)\n\nHosting among the same group: Vercel 51, Cloudflare 47, AWS 17, Railway 13, Google Cloud 13, Hetzner 8.\n\nAI provider among the same group: OpenAI 29, Anthropic 25. Nearly even.\n\nSo the boring answer is the right one: Next.js, Postgres (via Supabase or not), Stripe, deploy on Vercel or Cloudflare. Native Swift for iOS if you're going mobile. Nothing exotic in the winner set.\n\n---\n\n## Benchmark 8: Team size and funding\n\n![Solo founders vs small teams](https://rudratoshs.github.io/assets/what-to-build-2026/11-team-size.png)\n\n| Team | n | Median $/30d | % ≥ $1k | % ≥ $10k | % rising | Margin |\n|---|---:|---:|---:|---:|---:|---:|\n| 1 person | 725 | $149 | 24% | 5.5% | **56%** | 88% |\n| 2–5 people | 195 | $931 | 48% | 22% | 50% | 80% |\n| 6–10 people | 14 | $6,258 | 79% | 36% | 50% | 75% |\n\n| Funding | n | Median $/30d | % ≥ $1k | % rising | Margin |\n|---|---:|---:|---:|---:|---:|\n| Bootstrapped | 1,069 | $275 | 31% | 53% | 85% |\n| VC-backed | 19 | $1,199 | 53% | 65% | 65% |\n\nA second person is worth 6× the median. That's not a sample artefact: 2–5 person teams are also twice as likely to hit $1k and four times as likely to hit $10k. Solo founders have the highest share rising (56%), but from a much lower base.\n\nHonest reading: solo is where you *start*. The data says the step from one to two is the biggest multiplier available to you, bigger than any category or stack choice.\n\nThe margin column is the quiet good news. **Median profit margin is 85% across the whole dataset.** These are not businesses with cost problems. They have distribution problems.\n\n---\n\n## Benchmark 9: What's inside \"AI\"\n\n![AI sub-segments by median revenue](https://rudratoshs.github.io/assets/what-to-build-2026/09-ai-subsegments.png)\n\n1,248 startups call themselves AI. I split them by what they actually do, using keywords in their own descriptions:\n\n| Sub-segment | n | Median $/30d | p90 | % ≥ $1k | % ≥ $10k | % rising |\n|---|---:|---:|---:|---:|---:|---:|\n| **Sales / lead gen** | 75 | **$685** | $10,194 | 44% | 11% | 54% |\n| Companion / roleplay | 42 | $417 | $3,275 | 38% | 2.4% | 48% |\n| SEO / marketing | 158 | $334 | $9,685 | 39% | 10% | 44% |\n| Code / dev | 76 | $312 | $10,533 | 29% | 12% | 51% |\n| Agents / automation | 250 | $292 | $7,913 | 31% | 7.2% | 38% |\n| Video | 187 | $274 | $4,371 | 31% | 2.7% | 36% |\n| Chat / assistant | 155 | $270 | $5,475 | 28% | 5.2% | 38% |\n| Resume / career | 61 | $246 | $2,427 | 31% | 3.3% | 46% |\n| Voice / audio | 117 | $227 | $4,891 | 26% | 6.8% | 43% |\n| Writing / content | 188 | $199 | $5,513 | 31% | 5.9% | 38% |\n| Education / study | 57 | $148 | $2,352 | 23% | 1.8% | 36% |\n| **Image / photo** | 276 | **$146** | $3,502 | 23% | 2.9% | 38% |\n| Legal / docs | 44 | $133 | $1,636 | 14% | 0% | 29% |\n\nThe spread inside \"AI\" is bigger than the spread between most top-level categories. Sales/lead-gen AI earns 4.7× image/photo AI.\n\nThe pattern: **AI that produces a business outcome someone already pays for (leads, rankings, shipped code) earns. AI that produces an artefact (an image, a summary, a document) doesn't.** The artefact segments are also the most crowded (276 image tools) and the most exposed to the model providers shipping the same feature natively.\n\nCompanion/roleplay is the one B2C exception, and it's a tough business to be in for reasons that have nothing to do with revenue.\n\n---\n\n## Benchmark 10: Where founders are\n\n![Median revenue by founder country](https://rudratoshs.github.io/assets/what-to-build-2026/10-country.png)\n\n| Country | n | Median $/30d | % ≥ $1k | % rising |\n|---|---:|---:|---:|---:|\n| US | 1,176 | **$403** | 38% | 45% |\n| France | 396 | $343 | 33% | 45% |\n| Netherlands | 85 | $318 | 26% | 37% |\n| UAE | 57 | $308 | 30% | 45% |\n| Poland | 81 | $290 | 28% | 45% |\n| Brazil | 94 | $270 | 26% | 48% |\n| Singapore | 52 | $258 | 31% | 46% |\n| Canada | 155 | $255 | 32% | 44% |\n| Spain | 106 | $243 | 29% | 44% |\n| UK | 362 | $226 | 26% | 39% |\n| Hong Kong | 65 | $223 | 29% | **62%** |\n| Germany | 125 | $182 | 30% | 42% |\n| Italy | 73 | $96 | 19% | 43% |\n| **India** | 345 | **$71** | 14% | 42% |\n| Turkey | 52 | $60 | 19% | 46% |\n\nIndia is the third-largest founder base in the dataset and the second-lowest median. Share rising is normal (42%), so it isn't a motivation problem, and it isn't an audience problem either: Indian founders here are *less* B2C than US founders (49% vs 54%). Two things differ. **56% of Indian startups bill through Dodo Payments** (vs 12% on Stripe), because Stripe isn't available to Indian founders without a foreign entity, and Dodo's median across the whole dataset is $49. And the **median entry price is $10.99 vs $19.90 for US founders.** Half the price, on the rail with the lowest-earning cohort. The fix isn't \"be more B2B\"; it's charge US prices to US customers, and treat the payment rail as a serious decision rather than the one with the easiest signup.\n\nHong Kong has the highest share rising of any country at 62%. Small sample (65), but worth a look.\n\n---\n\n## Benchmark 11: Traffic efficiency\n\n1,288 startups report monthly visitors. The overall median is **$0.24 of revenue per visitor**.\n\n| Category | n | Median visitors/30d | $ per visitor | Median $/customer/30d |\n|---|---:|---:|---:|---:|\n| Health & Fitness | 42 | 396 | **$0.50** | |\n| Sales | 20 | 680 | $0.46 | |\n| Fintech | 31 | 882 | $0.43 | |\n| Utilities | 39 | 439 | $0.38 | |\n| Content Creation | 53 | 761 | $0.30 | |\n| Artificial Intelligence | 334 | 862 | $0.28 | $8 |\n| Marketing | 90 | 903 | $0.26 | |\n| SaaS | 126 | 963 | $0.22 | |\n| Education | 59 | 1,533 | $0.18 | |\n| Productivity | 108 | 648 | $0.17 | |\n| Social Media | 32 | 1,932 | $0.16 | |\n| Developer Tools | 65 | 794 | $0.15 | |\n| Mobile Apps | 49 | 2,021 | $0.13 | |\n| Recruiting & HR | 28 | 2,264 | **$0.03** | |\n\nBack-of-envelope: at $0.24/visitor you need **~4,200 visitors a month for $1k**. In Recruiting & HR you need 33,000. In Health & Fitness you need 2,000.\n\nThis is the number to carry into your launch plan. Multiply your realistic monthly traffic by your category's $/visitor and you have an honest revenue forecast before writing a line of code.\n\n---\n\n## So what should *you* build?\n\nEverything above collapses into a short set of rules:\n\n1. **B2B over B2C.** Doubles the median, doubles the odds.\n2. **Entry price $30 or higher.** The single strongest predictor. $80+ if the buyer is a business.\n3. **Subscription, no lifetime deal.**\n4. **Pick a category where recent launches are earning**, not where incumbents are: Travel, Marketplace, Sales, Real Estate, Entertainment, and the sales/SEO/code corners of AI.\n5. **Avoid**: Productivity, generic dev tools, image generators, Recruiting & HR, anything whose output is an artefact a platform can generate natively.\n6. **Stripe on web, RevenueCat or Superwall on iOS.** The rail you pick says who you are.\n7. **Find a second person** before you find a second product.\n8. **Forecast with $/visitor**, not with hope.\n\nAnd the decision matrix by who you are:\n\n| You are | Build | Price | Category to pick from | Stack |\n|---|---|---|---|---|\n| Solo dev, evenings & weekends | A one-job utility with a hard paywall, iOS-first | $5–8/week or $30–50/yr, or $10–40 one-time | Travel, Utilities, Health (specific body-metric niches), Entertainment | SwiftUI + RevenueCat/Superwall |\n| Solo dev, full-time, 6 months runway | A vertical B2B tool for one trade | $49–149/mo | Sales, Real Estate, Legal, Marketplace, compliance niches | Next.js + Postgres + Stripe |\n| 2–5 person team | A data or lead product businesses buy monthly | $79–799/mo tiers | Sales/lead-gen AI, SEO AI, Marketing ops | Next.js + Postgres + Stripe + an LLM API |\n| Backend engineer who hates frontend | A niche data API sold on credits | $14–47 per credit pack, $25–125/mo | Developer Tools (data sub-niche), Analytics | Any backend + Stripe or Polar |\n| Mobile dev | AI coach/tutor in a narrow domain | $9.99/mo, $59.99/yr | Education (language), Health (one body goal), Fitness | SwiftUI or React Native + RevenueCat |\n| Content / ops person who can hire a dev | Done-for-you service with software underneath | $54–284/mo | Content Creation, Marketing | Whatever the dev prefers + Stripe |\n\n---\n\n## 25 templates: recent launches already getting paid\n\nThese are all launched in the last 12 months, all at $1,000+ in the last 30 days, all flat or rising. I've skipped stealth listings and anything I wouldn't want my name on. Names are public on TrustMRR.\n\n**Sales & lead gen (B2B, the strongest segment)**\n- **unfair.so** · $351k/30d · launched Jul 2026 · 2–5 people · $79/$249/$799 per month · finds B2B conversations on X and turns replies into pipeline. Next.js + Python/FastAPI + Stripe.\n- **traxy.ai** · $49k/30d · Jan 2026 · 2–5 people · $149/mo · finds buyers already engaging in your market.\n- **coldcaller.pro** · $13.6k/30d · Apr 2026 · **solo** · €19/€49/€99 per month · qualified cold-call leads with direct mobile + email, built in Python + Stripe. 93% margin.\n- **Socialcrawl** · $33.6k/30d · Apr 2026 · £15 to £299 per month · unified social scraping API for devs and agents.\n\n**Marketing ops**\n- **Adspirer** · $70k/30d · Jan 2026 · **solo** · $485 to $2,000 per year · connects an LLM to your ad account. Next.js + Google Cloud + Anthropic + Stripe.\n- **overrank SEO** · $18.9k/30d · Apr 2026 · $25/mo billed annually · automated publishing for Google and AI search. 88% margin.\n- **Claim Avenue** · $25k/30d · Aug 2026 · **solo** · a pixel-city where businesses claim a building from $5 and can be bought out at 1.25×. Proof that a 2005 idea with a 2026 mechanic still works.\n\n**Vertical B2B (boring industries, real money)**\n- **FireCert** · $5.1k/30d · Feb 2026 · £79/£129 per month · fire-alarm, emergency-lighting and extinguisher compliance for contractors. 95% margin.\n- **BasinCheck** · $2.2k/30d · Dec 2025 · $125/$250/$500 per month · audits, JSAs and inspections for industrial contractors. Next.js + Supabase + Stripe.\n- **Vermieter1.de** · $4.2k/30d · Nov 2025 · German landlord service-charge statements in 15 minutes.\n- **Immopix** · $2.9k/30d · Jan 2026 · €0.80–1.00 per image · listing-photo optimisation for real-estate agents. Per-image credits, no subscription.\n- **VendPlacer** · $12.4k/30d · Apr 2026 · $69/mo · marketplace for retail/office/gym space.\n\n**Data APIs (the dev-tool exception)**\n- **Social Fetch** · $6.4k/30d · Mar 2026 · 2–5 people · $14 for 1,000 credits up to $47 for 25,000 · one API over 25 platforms.\n- **SportsApi Pro** · $4.5k/30d · Dec 2025 · live scores and odds across 25+ sports. 80% margin.\n- **PostPeer** · $7.6k/30d · Apr 2026 · 2–5 people · social posting API with free entry tier.\n\n**Mobile with a hard paywall**\n- **Brawler** · $60.6k/30d · May 2026 · $9.99/mo, $59.99/yr · AI boxing coach. Swift + Supabase + RevenueCat.\n- **AbMaxx** · $47.6k/30d · Mar 2026 · AI abs coach from physique photos. SwiftUI + RevenueCat.\n- **Verbi** · $64k/30d · Apr 2026 · 2–5 people · conversation-first language tutor. React Native + RevenueCat.\n- **Kori** · $26.9k/30d · Jun 2026 · Korean tutor, Swift + Superwall.\n- **GainFrame** · $3.3k/30d · Feb 2026 · **solo** · body-fat estimates from progress photos, $5.99–9.99/mo.\n- **Krato** · $3.2k/30d · Jun 2026 · workout tracker with form library, $7.99/week or $34.99/yr. React Native + Expo + Supabase + RevenueCat.\n\n**Travel micro-utilities (highest recent-launch hit rate)**\n- **Safeonward** · $2.8k/30d · Jun 2026 · **solo** · $11.90 one-time · verifiable onward flight reservation for visas. Laravel + Stripe. 100% margin.\n- **eSIMPal** · $4.9k/30d · Jan 2026 · reusable eSIM with family management, priced per country.\n- **JourneyFuse** · $18.2k/30d · Mar 2026 · $25/mo · B2B client-journey tool for travel agents.\n\n**Done-for-you with software underneath**\n- **White Glove Content** · $77k/30d · Apr 2026 · 2–5 people · $54/$124/$284 per month · faceless video production and publishing. Cloudflare + Vercel + OpenAI + Stripe.\n\nNotice what's absent from that list: no todo apps, no note-takers, no generic chatbots, no image generators, no \"ChatGPT for X\" wrappers, no dev productivity tools. Every one of these either sells to a business, sells a specific measurable personal outcome, or sells a dataset.\n\n---\n\n## Caveats, because this is a benchmark post and not a prophecy\n\n- **Survivorship and self-selection.** TrustMRR lists startups whose founders chose to connect a payment provider. Products that died before listing aren't here. Products doing very well with no reason to list aren't here either. The absolute numbers are a sample; the *relative* comparisons between slices are what I'd trust.\n- **Category, team size, pricing and descriptions are founder-entered.** Revenue is verified; the labels aren't. 488 startups are \"Uncategorised\" and I excluded them from the category table.\n- **Keyword splits are approximate.** The AI sub-segments use regex over self-descriptions. A product can land in two buckets.\n- **Some payment keys last synced months ago**, so a few trajectories understate recent months.\n- **\"Rising\" is a least-squares slope over up to 6 months.** It's a direction, not a forecast.\n- Snapshot date: 13 October 2026. The listing count will be different by the time you read this.\n\n---\n\nIf you want the full category table with every column, the stack combos, or the per-category time-to-$1k breakdown, say so in the comments and I'll post the extended tables.\n\n**The question I'd actually like answered:** which of the eleven benchmarks changed your mind about what you're building right now? Mine was price point. I'd been treating \"$9/month\" as the safe default. The data says it's the default for $100/month businesses.\n\nIf this was useful, follow for the next one. I'm going to do the same exercise on the 1,536 *declining* products and work out what they have in common.\n",
+  "author": "rudratosh",
+  "created_at": "2026-10-14T21:08:04Z",
+  "engagement": {
+   "comments": 2,
+   "points": 5
+  },
+  "kind": "idea",
+  "mrr_usd": 40000.0,
+  "revenue_evidence": "ld I build\" thread ends the same way: someone posts a screenshot of a $40k MRR dashboard, everyone says \"just ship\", a",
+  "revenue_confidence": 0.6,
+  "industries": [
+   "edtech_ai",
+   "ai_agents",
+   "vertical_ai_saas"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 58.44,
+  "llm": null,
+  "first_seen": "2026-10-14T21:47:36+00:00",
+  "last_seen": "2026-10-15T04:49:40+00:00",
+  "uid": "a6a92e01e251e9f5"
+ },
+ {
+  "rank": 3,
   "source": "reddit/r/SaaS",
   "source_id": "1wzpmj5",
   "title": "I'm 40, I've been a developer for years, and I still haven't figured out how to make money from my own software. What am I missing?",
@@ -54,7 +84,7 @@
   "uid": "19c0dcde46e43300"
  },
  {
-  "rank": 3,
+  "rank": 4,
   "source": "reddit/r/SaaS",
   "source_id": "1x2f4zk",
   "title": "We spent €3,000 on UGC creators, got 500,000 views, and acquired ONE paying customer",
@@ -80,7 +110,7 @@
   "uid": "15dc30dadddb9b21"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/SaaS",
   "source_id": "1wyfoqp",
   "title": "$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.",
@@ -103,7 +133,7 @@
   "uid": "d1909365a05ef6ef"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "reddit/r/SaaS",
   "source_id": "1wyqlev",
   "title": "Founders: what term do you actually search when you need help getting early distribution?",
@@ -128,7 +158,7 @@
   "uid": "d5f9264797821da5"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/09cd81d71336",
   "title": "I Hit $27,400 MRR by Ignoring Standard Startup Advice. Here Is What I Did Instead.",
@@ -151,7 +181,7 @@
   "uid": "c65c4bb99f94447f"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/microsaas",
   "source_id": "1x1fqnj",
   "title": "I’m pouring my heart and soul into this project… subscriptions are trickling in, but I’ve got ADHD and I’m not going down without a fight, haha.",
@@ -174,7 +204,7 @@
   "uid": "2c8edf751e2adcca"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1x4310s",
   "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
@@ -197,7 +227,7 @@
   "uid": "6fda2f3d36e8a321"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -220,7 +250,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 10,
+  "rank": 11,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -245,7 +275,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 11,
+  "rank": 12,
   "source": "reddit/r/microsaas",
   "source_id": "1x3v6h7",
   "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
@@ -270,7 +300,7 @@
   "uid": "cbe9ecfc0ee23897"
  },
  {
-  "rank": 12,
+  "rank": 13,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -291,32 +321,6 @@
   "first_seen": "2026-10-04T06:01:52+00:00",
   "last_seen": "2026-10-04T06:01:52+00:00",
   "uid": "9bb5d91d5b3143af"
- },
- {
-  "rank": 13,
-  "source": "devto",
-  "source_id": "4852752",
-  "title": "I pulled verified revenue for 5,596 startups. Here's exactly what to build in 2026 (11 benchmarks, 25 templates)",
-  "url": "https://dev.to/rudratosh/i-pulled-verified-revenue-for-5596-startups-heres-exactly-what-to-build-in-2026-11-benchmarks-4eij",
-  "text": "Every \"what should I build\" thread ends the same way: someone posts a screenshot of a $40k MRR...",
-  "author": "rudratosh",
-  "created_at": "2026-10-14T21:08:04Z",
-  "engagement": {
-   "points": 5,
-   "comments": 0
-  },
-  "kind": "idea",
-  "mrr_usd": 40000.0,
-  "revenue_evidence": "ld I build\" thread ends the same way: someone posts a screenshot of a $40k MRR...",
-  "revenue_confidence": 0.6,
-  "industries": [],
-  "halal_status": "ok",
-  "halal_reasons": [],
-  "score": 27.74,
-  "llm": null,
-  "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-14T21:47:36+00:00",
-  "uid": "a6a92e01e251e9f5"
  },
  {
   "rank": 14,
@@ -388,7 +392,7 @@
   "score": 22.97,
   "llm": null,
   "first_seen": "2026-10-11T22:04:56+00:00",
-  "last_seen": "2026-10-14T21:47:36+00:00",
+  "last_seen": "2026-10-15T04:49:40+00:00",
   "uid": "236b709e17095ac8"
  },
  {
