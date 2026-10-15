@@ -25,7 +25,7 @@
   "score": 61.94,
   "llm": null,
   "first_seen": "2026-10-09T22:44:59+00:00",
-  "last_seen": "2026-10-15T11:38:31+00:00",
+  "last_seen": "2026-10-15T17:08:05+00:00",
   "uid": "0d060e0078e56b5d"
  },
  {
@@ -38,8 +38,8 @@
   "author": "rudratosh",
   "created_at": "2026-10-14T21:08:04Z",
   "engagement": {
-   "comments": 11,
-   "points": 9
+   "comments": 18,
+   "points": 12
   },
   "kind": "idea",
   "mrr_usd": 40000.0,
@@ -52,10 +52,10 @@
   ],
   "halal_status": "ok",
   "halal_reasons": [],
-  "score": 60.76,
+  "score": 61.7,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-15T11:38:31+00:00",
+  "last_seen": "2026-10-15T17:08:05+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -129,7 +129,7 @@
   "score": 45.0,
   "llm": null,
   "first_seen": "2026-10-15T11:38:31+00:00",
-  "last_seen": "2026-10-15T11:38:31+00:00",
+  "last_seen": "2026-10-15T17:08:05+00:00",
   "uid": "4d5b2b054be00439"
  },
  {
@@ -223,7 +223,7 @@
   "score": 35.45,
   "llm": null,
   "first_seen": "2026-10-14T05:02:15+00:00",
-  "last_seen": "2026-10-14T05:02:15+00:00",
+  "last_seen": "2026-10-15T17:08:05+00:00",
   "uid": "2c8edf751e2adcca"
  },
  {
@@ -415,7 +415,7 @@
   "score": 22.97,
   "llm": null,
   "first_seen": "2026-10-11T22:04:56+00:00",
-  "last_seen": "2026-10-15T11:38:31+00:00",
+  "last_seen": "2026-10-15T17:08:05+00:00",
   "uid": "236b709e17095ac8"
  },
  {
@@ -581,6 +581,29 @@
  },
  {
   "rank": 25,
+  "source": "reddit/r/microsaas",
+  "source_id": "1x6bz8w",
+  "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
+  "url": "https://www.reddit.com/r/microsaas/comments/1x6bz8w/7_pricing_mistakes_that_quietly_cap_a_microsaas/",
+  "text": "Short version: most micro-SaaS doesn't have a traffic problem, it has a pricing problem. Seven fixes that take an afternoon:\n1、Charge from day one. Free users who never convert still cost you support time. A $9 plan filters for people who actually have the problem. 2、Price on outcome, not cost. Nobody cares that your hosting is $4/mo. They care that you save them 6 hours a week. 3、Kill the $1 tier. It attracts the highest-maintenance, lowest-margin users and anchors your whole page low. Start at $19. 4、Offer annual, discount 2 months. Cash upfront, lower churn, and it's the easiest upsell you'll ever sell. 5、Put a real limit on the free tier. \"Unlimited free\" trains people to never pay. Cap it at the thing they'll hit in week two. 6、Raise prices on new users only. Grandfather existing ones, change the page, move on. No announcement, no drama. 7、Charge for the second seat. Solo tools are a hobby. Teams are a business.\nRule of thumb: if nobody has ever complained your price is too high, it's too low.\nWhat was the pricing change that moved your MRR the most?\nsubmitted by /u/ConsiderationAny8897\n[link] [comments]",
+  "author": "/u/ConsiderationAny8897 https://www.reddit.com/user/ConsiderationAny8897",
+  "created_at": "2026-10-15T04:10:37+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 2000.0,
+  "revenue_evidence": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR Short version: most micro-SaaS doesn't",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 16.59,
+  "llm": null,
+  "first_seen": "2026-10-15T17:08:05+00:00",
+  "last_seen": "2026-10-15T17:08:05+00:00",
+  "uid": "0f2a1714ca916651"
+ },
+ {
+  "rank": 26,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -603,7 +626,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 26,
+  "rank": 27,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -626,7 +649,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 27,
+  "rank": 28,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -649,7 +672,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 28,
+  "rank": 29,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -672,7 +695,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 29,
+  "rank": 30,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -698,7 +721,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 30,
+  "rank": 31,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
