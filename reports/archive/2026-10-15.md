@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-10-15 17:08 UTC · 2082 tracked signals · 31 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 28 new this run_
+_Last updated 2026-10-15 21:30 UTC · 2103 tracked signals · 31 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 21 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,14 +8,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 2 | $21.0k | 389 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 1 | $40.0k | 80 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 56 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 2 | $21.0k | 397 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 1 | $40.0k | 84 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 57 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 0 | — | 6 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 0 | — | 30 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 23 |
-| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 35 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 5 | $1.0k | 63 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 0 | — | 31 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 24 |
+| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 36 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 5 | $1.0k | 68 |
 | [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 39 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 8 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 13 |
@@ -63,7 +63,7 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | Score | Signal | Industry | Traction | Source |
 |---|---|---|---|---|
 | 55 | [Openai dots is it end for saas? Or new beginning?](https://www.reddit.com/r/SaaS/comments/1wtyaff/openai_dots_is_it_end_for_saas_or_new_beginning/) | AI agents & workflow automation | 0▲ 0💬 | reddit/r/SaaS |
-| 41 | [Show HN: Indigene – native plants for where you stand](https://indigene.app/) | AI agents & workflow automation | 97▲ 17💬 | hackernews |
+| 42 | [Show HN: Indigene – native plants for where you stand](https://indigene.app/) | AI agents & workflow automation | 101▲ 20💬 | hackernews |
 | 40 | [Stop Trusting Random AI Chatbots With Islamic Finance Questions. Start With The…](https://medium.com/@scientistsyeda/stop-trusting-random-ai-chatbots-with-islamic-finance-questions-start-with-these-7-ce1f90d3eae2?source=rss------islamic_finance-5) | Islamic fintech & Shariah-compliant finance, Halal economy & Muslim lifestyle | 0▲ 0💬 | rss/medium_islamic_finance |
 | 39 | [Iam 12 .The AI Industry is Building Bloat. I Built a 142KB Voice-Enabled AI Men…](https://dev.to/koda2026/iam-12-the-ai-industry-is-building-bloat-i-built-a-142kb-voice-enabled-ai-mentor-on-a-150-phone-4j1g) | AI agents & workflow automation, AI in education & e-learning | 24▲ 16💬 | devto |
 | 39 | [I built a tech newsletter for developers on $150 phones. Here’s why.](https://dev.to/koda2026/i-built-a-tech-newsletter-for-developers-on-150-phones-heres-why-3l4i) | E-commerce & creator tooling, AI agents & workflow automation | 20▲ 19💬 | devto |
@@ -81,12 +81,12 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 35 | [I Am 12. My Phone Costs $150. Groq Tried to Kill My AI. Here Is How I Survived …](https://dev.to/koda2026/i-am-12-my-phone-costs-150-groq-tried-to-kill-my-ai-here-is-how-i-survived-it-3a33) | AI agents & workflow automation, AI cybersecurity | 7▲ 0💬 | devto |
 | 35 | [Iam 12 .My AI Mentor Just Grew Eyes and a Conscience. Introducing KODA Web v24:…](https://dev.to/koda2026/iam-12-i-wrote-a-10-article-constitution-for-my-ai-here-is-why-it-stops-hallucinations-dead-18hi) | AI agents & workflow automation | 7▲ 0💬 | devto |
 | 35 | [I built an AI browser extension in a month with an AI coding assistant. The cod…](https://dev.to/capacaptain/i-built-an-ai-browser-extension-in-a-month-with-an-ai-coding-assistant-the-code-was-the-easy-part-18hn) | AI agents & workflow automation, AI in education & e-learning | 2▲ 5💬 | devto |
+| 35 | [I Measured My RAG Pipeline Honestly. It Was 40x Slower Than I Thought.](https://dev.to/vicarioy/i-measured-my-rag-pipeline-honestly-it-was-40x-slower-than-i-thought-3o5h) | AI agents & workflow automation | 1▲ 5💬 | devto |
 | 34 | [The one-way money valve: why AI agent marketplaces stall](https://dev.to/cloaky/the-one-way-money-valve-why-ai-agent-marketplaces-stall-c9f) | AI agents & workflow automation | 0▲ 5💬 | devto |
 | 34 | [The math behind a $19 AI plan: why flat-rate token pricing quietly loses money](https://dev.to/lisa_ai/the-math-behind-a-19-ai-plan-why-flat-rate-token-pricing-quietly-loses-money-33k6) | AI agents & workflow automation | 1▲ 4💬 | devto |
 | 34 | [Why We’re Building GabbyAI: Another AI Assistant, Built Differently](https://dev.to/gabbyai/why-were-building-gabbyai-another-ai-assistant-built-differently-180d) | AI agents & workflow automation | 5▲ 0💬 | devto |
 | 34 | [App economy 2026: why new apps get 3% of subscription revenue](https://dev.to/axrisi/app-economy-2026-why-new-apps-get-3-of-subscription-revenue-3cj8) | AI in education & e-learning | 1▲ 4💬 | devto |
 | 34 | [I Asked AI to Improve My Resume. It Started Asking Me for Numbers Instead.](https://dev.to/hram/i-asked-ai-to-improve-my-resume-it-started-asking-me-for-numbers-instead-5bem) | AI agents & workflow automation | 2▲ 3💬 | devto |
-| 34 | [I Measured My RAG Pipeline Honestly. It Was 40x Slower Than I Thought.](https://dev.to/vicarioy/i-measured-my-rag-pipeline-honestly-it-was-40x-slower-than-i-thought-3o5h) | AI agents & workflow automation | 1▲ 4💬 | devto |
 
 ## Needs Islamic-values review
 
@@ -96,9 +96,9 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 ## Latest market intelligence
 
 **AI agents & workflow automation**
+- [The $96 billion intralogistics market: Software and robotics as growth engines, 5 market drivers, and 3 trends - IoT An…](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUFEVVdNekZkS01CeGtSNnZ0T1ozX3piOVQ3d0t0VllGRDFvM1IxTFQwdUZHdGVEWVhyLVFaS1h6bWlWc1hzVVZQU2FTQ05GX3ZGRnFLWHlCRUg0QnRKSXZuWVRidkxSMXlqT1NKNVROQnU4anZOSUFQQzVkTzFqVFI0YUw?oc=5) (2026-10-15)
 - [How Is the Enterprise Agentic AI Market Reshaping Autonomous Business Operations? - openPR.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjNaeEJ4NHFya0JzR21Nc1BaUkgxb1BnYmZCUzVIU0F6OGI2TEN1SVkxbFY5UG5ITzV4OWdLa1djczg2U3pkTXNFdUlId2gzdGE5cFBoaHRxYVg4Tkx6MXZkdUlUaThDVTJ4V3AteF8xTXhJWEZNU3E5c3hET1AtQUl5dlBjR3FuR3hlSlVObDFsZ3BXOTVRUml3Z1M?oc=5) (2026-10-15)
 - [AI Trust, Risk & Security Management Market to Reach USD 12.33 - openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTM2cW4zeGhuMXN2Y2hab0tmWE11X0lkNkV1UHYzM2JMUDkwUHpMQVBfVGo2X2xDSnJ2eVo1b0lSenpqTWNXcnQxSjFGWFgwdi04UkJiU0ViU0FMNmxvQUZzYm5YTGxtUFJmQnNXd0FiTVVCb2gyc183YV9Od1kwUV85LXFVcDl6UkVIbUZQbnpXeEl2T3A3Zmx0NA?oc=5) (2026-10-15)
-- [Nexstair Technologies Adds n8n-Based AI Workflow Automation to Its Service Portfolio - openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXBSa0gwMHNKbEJvdEZQNndIS1plRmVRaVBXVUFWSjg0MGpETG5iZkROUXAyTHoxZUtBdTBzcjdxa1VaMVMwcHkxR0JJNzVJM19yZWZPbWdiWmtlbEY5dk93R2drREg2MmZEaElUVjIxd2FLaG9MMHlIZ2NqVE9ydG9WT0s3UGV4ZjhORUpZUmx5UmgzV0tESXBDSQ?oc=5) (2026-10-15)
 
 **Vertical AI SaaS (industry-specific AI tools)**
 - [Modulate raises $25M for native AI-based frontier audio - SaasRise](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjA3QkUxSzU4SHVmY1JjbWhEVE15WVVQM1RYQ3lmM24wc25xaFJCdnRvRW1odFZnX3V2djFGd3BBTkFZU3Q0ckdxYXZuejg3QWFLUC16c0VaYS15MjFNRGZqY0pGRERfTmRkcjZhT2tUY1Z0M1pEb3lHN2QwUkUtX3l0cVFEdzVfUkU5eVJqdXhqenhtaHB4Z242eXBKVEs1aTgxelQxdnJFeEpVOEZmOWZTbTFtWDZzX2wwcG00dw?oc=5) (2026-09-28)
@@ -135,20 +135,20 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Blockchain in Agriculture Market Advances as 375,000 Metric - openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDZZRUhOc2R6LTA1cUtwQ0RoMnNRN1VneHYtTjV1MHVvTUNSQ1pxM0hrS2prejZXWXZ3UzdJYkJBMVJtdnNGTGhRMXdQU2hYcDBhRDdrLU9qVEIybXFmUHFnNUFFSDBHNDVaSi0wVDZGVEd5cU43U2xXSVE3TmFVamF3RW5EWEJEZUd6VXNVSnpSQlNqQk5sSFc2aw?oc=5) (2026-10-05)
 
 **E-commerce & creator tooling**
+- [Consumer Electronics Packaging Market to Reach USD 132.28 - openPR.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSURZZm5HakNvWXFVNlU4UjdwWW1zckktcDNrUlc5VDBGVVppRVM0dHB6bW1zVjkxclRUTTRhOWh5eVdLSmliM080c3B6T1o5UEVCNXFPRzdSb28teUU5UXNUay1BSTJpSUh1dW05MWhoN3hHREtGZTJLeGtJSG1EdVE1bjVNdV9RLWxHSk5hdnkzOERkMDZtaA?oc=5) (2026-10-15)
 - [The Last-Mile Delivery Vehicles Market Is Projected to Grow Robustly with an 11.8% CAGR - EIN News](https://news.google.com/rss/articles/CBMixwFBVV95cUxQblRISEhRM0tCRmFHNFZ2MTltY1dhMzI0SkNjV0RjWmR0bXJlR3Z1MkxBX1RnOTZGRm9xZVFSb01oSnpMR0NCamdiZldhaHNzYWhybDBkMHFsY3BwaFBEMm05R2ZwSF9nd2RQMzBCejlIN2U3MVNXS2xGODdpMnE1cUFNVmZvLUQtdW8xZ2NEb09NYnFIMGpEaVY4NXpDNFRrLU16NndDNUhjMm1PUVpVdURyNUpuWkNfV1B0NnhpT2dwWWtrOV9N?oc=5) (2026-10-15)
 - [Global Drone Market to Grow at 9.8% CAGR as AI-Powered UAVs, Autonomous Flight Technologies and Rising Defense Investme…](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPYWFtZGlOVUtvelNRSTBKODJyZWV6T3RTS3FNa1pFZUdYdUJndFBRQ2lQdE14d1cxbjFBYWRsNnN6Z3JXWmk5ZUVUckZuN2pVc3JKZTlvNW1QQVc5MHUtR2xCZDV6Q1A1ZlhjV1dkci1mUVgtM0JMcXM0NDVfWlRRaVMzSW5qbVBUTlNSUnhNNzFfV0FsTzc5dzZYMUNrWmxDRnJoTGpRdkoxWURVeFo5eXBDbk90TU5ucTZpR3pSMXhtX3lUSW5IQjJVTXNkSlV0UmF1LWgtYmNUUE9yNGlrN0pKZXdKeEowUi1kNjZTRFVNNEtkWjdaeHFHMWY5NUlxam1MVlpZc2lXaGhEb2lWR2Rja3NfeE1zamJreThLTTJVc3dqNWhSd3BreERvS3BQdWN0bWM5ZXVlRFpBMEUzS0ZoYw?oc=5) (2026-10-15)
-- [Coconut Flour Market: Gluten-Free Baking and Clean-Label Ingredients Drive Demand as E-Commerce Expands - openPR.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGZYQWtHeFBnWG9lWlFULVE1X1ZVS2F1WWx4XzJEMXdYa1NkR094akNFb3hXN0RUR01oSmdyN3ZYcC1sbWpJNVhXbDZYYnNRWHo0U2tSb3lhM2F4SGtmSktfM0tyZ3dDNG5Da2lncHB3MEJYNm9paWpmZ09wMDJlVnhMR0JEdkFNQUstbjZNdVNmekNtSWc?oc=5) (2026-10-15)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 42 | ok |
+| producthunt | 40 | ok |
 | rss | 54 | ok |
-| hackernews | 277 | ok |
+| hackernews | 279 | ok |
 | google_news | 102 | ok |
-| devto | 418 | ok |
-| reddit | 43 | ok |
+| devto | 421 | ok |
+| reddit | 48 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -156,8 +156,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 23,
-  "not_modified": 23,
+  "ok": 11,
+  "not_modified": 35,
   "retries": 0,
   "errors": {}
  },
@@ -197,13 +197,13 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 68,
+  "requests": 66,
   "ok": 4,
   "not_modified": 0,
-  "retries": 51,
+  "retries": 49,
   "errors": {
    "403": 2,
-   "429": 62
+   "429": 60
   }
  }
 }
