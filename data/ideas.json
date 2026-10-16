@@ -38,7 +38,7 @@
   "author": "rudratosh",
   "created_at": "2026-10-14T21:08:04Z",
   "engagement": {
-   "comments": 20,
+   "comments": 21,
    "points": 12
   },
   "kind": "idea",
@@ -52,10 +52,10 @@
   ],
   "halal_status": "ok",
   "halal_reasons": [],
-  "score": 61.86,
+  "score": 61.93,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-16T04:40:06+00:00",
+  "last_seen": "2026-10-16T11:33:23+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -129,7 +129,7 @@
   "score": 45.0,
   "llm": null,
   "first_seen": "2026-10-15T11:38:31+00:00",
-  "last_seen": "2026-10-16T04:40:06+00:00",
+  "last_seen": "2026-10-16T11:33:23+00:00",
   "uid": "4d5b2b054be00439"
  },
  {
@@ -438,7 +438,7 @@
   "score": 22.97,
   "llm": null,
   "first_seen": "2026-10-11T22:04:56+00:00",
-  "last_seen": "2026-10-16T04:40:06+00:00",
+  "last_seen": "2026-10-16T11:33:23+00:00",
   "uid": "236b709e17095ac8"
  },
  {
