@@ -55,7 +55,7 @@
   "score": 61.93,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-16T11:33:23+00:00",
+  "last_seen": "2026-10-16T16:46:02+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -129,7 +129,7 @@
   "score": 45.0,
   "llm": null,
   "first_seen": "2026-10-15T11:38:31+00:00",
-  "last_seen": "2026-10-16T11:33:23+00:00",
+  "last_seen": "2026-10-16T16:46:02+00:00",
   "uid": "4d5b2b054be00439"
  },
  {
@@ -251,6 +251,29 @@
  },
  {
   "rank": 11,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1x3dndd",
+  "title": "Four months from launch to exit. This is the new world of business.",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x3dndd/four_months_from_launch_to_exit_this_is_the_new/",
+  "text": "I write weekly case studies on interesting companies and boil down the lessons to share with others. This past week I went through (almost literally) everything publicly available for Base44 (the AI app builder bought by Wix last year), including a lot of the founder’s LinkedIn posts, and thought I’d share some of the most impactful takeaways with y’all.\nBackstory\nMaor Shlomo co-founded Explorium, a venture-backed data analytics company, and ran it as CEO for seven years. In late 2024 he stepped down because he wanted to get back to building products.\nHe tried to build a website and customer management system for his partner’s tattoo business in WordPress and kept getting stuck, even as the former CEO of a tech company. That frustration became Base44, an app builder where a user describes what they want in plain language and it builds the front end, back end, database, user logins and hosting.\nHe started with three friends sitting at a table every other day and let them build using the product, fixing any hiccups and bugs they uncovered. The launch in February 2025 went badly. Product Hunt brought in 15 users and a few thousand dollars spent on influencers and paid ads did nothing. Then he started building in public on LinkedIn, where he already had a following, and that’s when it landed. Just four months after launch, Wix acquired the brand and it had more than 140,000 users.\nThe Numbers\nLaunched in February 2025, sold in June 2025.\nFour months from launch to exit (the fastest I’ve seen so far).\nFunding: none, it was profitable shortly after launch.\n20,000 users by early March 2025, 140,000 by mid-April.\n$0 to $1M ARR within three weeks.\n$189,000 profit made in May 2025 (he expected $100K).\nThe announced sale price was $80M including cash and earnouts ($18.1M cash at close and $74.1M in estimated earnouts).\n$200M ARR surpassed in August 2026.\n10 million users by August 2026.\nThe founder is on track to receive more than $150M from earnouts + cash.\nLessons\n1. One distributon channel is plenty\nMaor tried the traditional route for a startup: A Product Hunt campaign and a few thousand dollars spent on influencer marketing and paid ads. Neither amounted to any traction for the brand. His last resort was LinkedIn, a place he had grown a meaningful following as a CEO and where competition for AI products wasn’t yet overwhelming like it was on X. He built in public from the start, the building, the wins and problems he faced in development. He didn’t go posting on X, Instagram, Facebook and Reddit. He focused on LinkedIn and gave it all his attention. Most businesses (and creators) spread themselves thin across many platforms and the results speak for themselves. Start where people already know and trust you and give it your full effort. Once that channel has grown sufficiently over several months, add another.\n2. Get inside the head of early users\nThis is such a gamechanger for builders. From the beginning, Maor worked with three close friends, sitting at the same table, that were building products of their own. Maor challenged them to build their products using Base44. Every bug, issue, and weakness they found was fixed until it ran and built apps seamlessly. He later moved to groups of 20 or so community members from LinkedIn and built alongside them every two weeks with the same aim. Maor knew that when he launched, it had to be perfect. He specifically targetted non-technical founders that couldn’t code, to make sure they were reliant on the product to build. The launch was better than expected, and because everything was optimized and ironed out, it achieved $1M ARR in just three weeks.\n3. Paying users > everything else\nMost of the founders I study are obsessed with users, followers or likes. Maor attributes much of Base44’s success to his obsession with paid users. Every build, feature, and enhancement was to optimize for the paid user, increase LTV, and make sure they had the support they needed. This matters even more for an AI product where free users cost the business money. You want paid users and to convert them quickly. Another interesting finding from Base44’s stats is the users that cancelled their subscription. Over one third of them came back within a month. If a product is genuinely useful and saves users time in their workflow, they will come back. Maor has also stated that a lot of work went into the experience provided in the first session. A user was quickly shown all of the capabilities and put to work building so that they could see the magic in action. What happened next? More often than not, a user would subscribe.\n4. Audit costs like the IRS\nMaor expected to make $100K profit in May 2025 but instead almost doubled it to $189K. This was partly attributed to paid user growth, but a significant portion came from the reduction of costs. Remember, a business is a two-pronged equation: revenue is only one of them. Here’s what he did:\nSwitched to a better and more efficient AI model that had less bugs and hallucinations (Base44 didn’t charge users when mistakes were made so every bug cost him)\nReduced the number of AI calls needed to build each app\nNarrowed down a single caching setting that was set to five minutes instead of an hour: something that had cost him almost $30k over the prior months\nTake a look at your three biggest costs and compare what you expected versus the actual cost to run the business. Sometimes something as simple as a setting or different supplier can cut costs in half.\n5. Bet on growth\nAlthough the final sale price was reported at $80M, just $18.1M was paid cash at closing. The earnouts made up the remaining estimate. Not even 18 months later, Maor was on track to make more than $150M in total with earnouts running quarterly until 2029. He knew the company would continue to grow in the age of AI and the rise of vibe coding but didn’t have the resources to do it himself. Wix provided a meaningful solution: he is now set for life and can continue to build Base44 alongside the resources Wix provides. In August 2026, Base44’s revenue increased tenfold in the year from March 2025 to March 2026 (from $1M to $100M ARR) and then doubled again by August 2026. I couldn’t find the exact revenue targets required for the earnout payments but they are certainly more than was expected. If you want to read more about him, I wrote a full case study. I also recommend reading through his LinkedIn posts, there are plenty of gold nuggets from his public build.\nMy question: Would you have raised capital and grown it yourself, or was selling with much of the proceeds tied to earnouts what you would have done as well?\nsubmitted by /u/investonomicsedu\n[link] [comments]",
+  "author": "/u/investonomicsedu https://www.reddit.com/user/investonomicsedu",
+  "created_at": "2026-10-11T17:11:52+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 83333.33,
+  "revenue_evidence": "launch. 20,000 users by early March 2025, 140,000 by mid-April. $0 to $1M ARR within three weeks. $189,000 profit mad",
+  "revenue_confidence": 0.8,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 35.05,
+  "llm": null,
+  "first_seen": "2026-10-16T16:46:02+00:00",
+  "last_seen": "2026-10-16T16:46:02+00:00",
+  "uid": "97e07dd067ecda2f"
+ },
+ {
+  "rank": 12,
   "source": "reddit/r/SaaS",
   "source_id": "1x4310s",
   "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
@@ -273,7 +296,30 @@
   "uid": "6fda2f3d36e8a321"
  },
  {
-  "rank": 12,
+  "rank": 13,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1x50la2",
+  "title": "I productized my old agency and got backed by Y Combinator. Here's 5 things I learnt along the way:",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x50la2/i_productized_my_old_agency_and_got_backed_by_y/",
+  "text": "when I first started out, we had around 10 VAs from the Philippines manually finding leads for us. their job was to go through LinkedIn, Reddit, Facebook, X, YouTube, and pretty much anywhere our potential customers were hanging out, find people who might need AI automations, and reach out to them.\nat the time, we were selling AI automations to businesses, but we were also slowly building our own internal systems to automate the work we were doing manually.\nfor example, we'd have someone go to Reddit, search for subreddits like r/entrepreneur or r/realestate , open relevant posts, and manually go through the comments to find people who might need what we were selling.\nthen we realized we could do a lot of this through the Reddit API. we could search for relevant conversations based on what a business was looking for and automate a huge chunk of the lead discovery process.\nwe started doing the same thing with other platforms and gradually built systems that could handle work we'd previously needed people to do manually.\neventually, we decided to productize these systems instead of keeping them as internal tools for our agency. that's how we started building the product we have today, and we've since grown it to $200k ARR and got backed by Y Combinator.\ni went from 2 standup meetings a day + 4 hours on the backend + 4 hours of talking to clients to productizing it and spending most of my time just talking to my leads. here's what I realized and learnt, so you could copy me.\nbefore hiring more people, figure out whether the work itself can be automated: sometimes you don't need a bigger team. you need a better system.\npay attention to the repetitive work your business does every single day: if someone is doing the same task hundreds of times, there's a good chance you can turn at least part of that process into software.\nbuild something you understand firsthand. we didn't randomly decide to build a lead generation tool. we'd spent months doing lead generation manually, so we knew exactly what was slow, frustrating, and worth automating.\ndon't be afraid to change your business model: we started as an agency selling AI automations, but the internal systems we built became valuable enough to turn into a product of their own.\nuse your own product to grow your own business: when your product is responsible for finding your leads, you get to experience its problems firsthand, and every improvement can make your own business better too.\ni think a lot of people starting SaaS businesses assume they need to come up with some revolutionary idea from scratch but sometimes, the product is hiding inside a service you're already doing manually, especially if you're a b2b agency.\nif you're an agency owner with repetitive tasks, what's stopping you from productizing your business?\nsubmitted by /u/namanyayg\n[link] [comments]",
+  "author": "/u/namanyayg https://www.reddit.com/user/namanyayg",
+  "created_at": "2026-10-13T16:01:31+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 16666.67,
+  "revenue_evidence": "arted building the product we have today, and we've since grown it to $200k ARR and got backed by Y Combinator. i went",
+  "revenue_confidence": 0.95,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 31.66,
+  "llm": null,
+  "first_seen": "2026-10-16T16:46:02+00:00",
+  "last_seen": "2026-10-16T16:46:02+00:00",
+  "uid": "8dc77651de734391"
+ },
+ {
+  "rank": 14,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -296,7 +342,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 13,
+  "rank": 15,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -321,7 +367,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 14,
+  "rank": 16,
   "source": "reddit/r/microsaas",
   "source_id": "1x3v6h7",
   "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
@@ -346,7 +392,32 @@
   "uid": "cbe9ecfc0ee23897"
  },
  {
-  "rank": 15,
+  "rank": 17,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1x58c6l",
+  "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/",
+  "text": "For months, our biggest challenge was getting people to actually pay for our product.\nWe tried Google Ads, Meta Ads, UGC campaigns, different audiences, different pricing, and rebuilt our onboarding more times than I'd like to admit.\nEventually, something started working.\nOur latest Meta campaigns started bringing in paying customers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe.\nGreat, right?\nWell, yes. But now we're starting to realize something.\nWe spent so much time figuring out how to get customers that we weren't paying enough attention to what happens after they subscribe.\nFor context, I'm one of the co-founders of Picmim, an AI-powered social media management platform for small businesses.\nOver the past few months, our priorities were almost entirely focused on growth.\nBetter landing pages. Better messaging. Better onboarding. Better conversion rates.\nAnd it worked.\nBut while we were busy improving the funnel, we accumulated quite a few UX issues and bugs inside the actual application.\nNothing particularly unusual for a startup, but definitely things that can affect whether people continue using the product.\nAnd now we're facing a different challenge.\nGetting someone to pay once is not the same as getting them to stay.\nEspecially with an AI product.\nPeople come in with pretty high expectations. They expect automation to work, content to be good, and the entire experience to be relatively effortless.\nIf something is confusing, breaks, or requires too much manual intervention, the whole value proposition starts falling apart.\nWe also have to consider that we're selling to small business owners.\nThese aren't people who want to spend hours learning a complicated platform. That's literally the problem we're trying to solve for them.\nSo we're starting to shift more attention toward the existing product experience.\nFixing bugs, simplifying confusing workflows, improving the quality of what our AI produces, and making sure customers actually get consistent value after onboarding.\nWe're also looking more seriously at churn.\nAt our current size, even losing a handful of customers can make a noticeable difference to our growth.\nAnd honestly, I think this is something that's easy to underestimate when you're celebrating your first revenue milestones.\nYour MRR can be growing while you're quietly building a retention problem.\nOur next goal is $5K MRR, but I don't want us to reach that point just by constantly replacing customers who leave.\nI'd much rather build something people genuinely want to keep paying for.\nFor those of you running early-stage SaaS businesses, when did you start prioritizing retention over acquisition?\nDid you deliberately slow down marketing to improve the product, or did you manage to balance both from the beginning?\nsubmitted by /u/termicrafter16\n[link] [comments]",
+  "author": "/u/termicrafter16 https://www.reddit.com/user/termicrafter16",
+  "created_at": "2026-10-13T20:49:32+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1000.0,
+  "revenue_evidence": "ers consistently, we doubled our MRR in a month, and recently crossed $1K MRR on Stripe. Great, right? Well, yes. But",
+  "revenue_confidence": 1.0,
+  "industries": [
+   "ecommerce_tools"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 29.88,
+  "llm": null,
+  "first_seen": "2026-10-16T16:46:02+00:00",
+  "last_seen": "2026-10-16T16:46:02+00:00",
+  "uid": "31469b887e85b4c2"
+ },
+ {
+  "rank": 18,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -369,7 +440,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 16,
+  "rank": 19,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -396,7 +467,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 17,
+  "rank": 20,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -419,7 +490,30 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 18,
+  "rank": 21,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1x3vko7",
+  "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x3vko7/my_solo_ios_app_made_76k_in_the_last_28_days_i/",
+  "text": "I'm a solo iOS developer, and my app recently made $7,591 in the last 28 days .\nNothing huge compared to established businesses, but seeing something I built alone reach this point has been pretty surreal.\nHere are the latest numbers:\n28-day revenue: $7,591\nMRR: $1,295\nActive subscriptions: 258\nThe revenue includes both subscriptions and lifetime purchases, so $7.6k isn't MRR.\nThe app is called LoroNote , and it's available on the App Store for iPhone and iPad.\nIt's an offline speech-to-text app that transcribes recordings, separates speakers, and helps turn meetings, lectures, and interviews into useful notes.\nBut the interesting part is how I ended up building it.\nI chose the harder technical route from the beginning.\nWhen I started, there were already plenty of AI transcription apps.\nThe easiest approach would have been to use a cloud API and focus on the interface.\nInstead, I wanted high-quality transcription that worked completely offline.\nI also didn't want to compromise on accuracy by switching to a smaller Whisper model just to make it easier to run on a phone.\nSo I chose Whisper Large V3 Turbo and developed my own Core ML inference engine to run it efficiently on Apple devices.\nThat decision made everything harder.\nMemory limitations, performance, heat, battery usage, long recordings, and differences between iPhone models all became things I had to solve.\nI also added on-device speaker separation, which brought a whole new set of challenges.\nBut something interesting happened.\nThe technical decision eventually became a business advantage.\nSince transcription happens on the device, I don't pay a cloud API provider every time someone transcribes another hour of audio.\nThat makes offering lifetime purchases alongside subscriptions much more practical.\nOf course, development, testing, and customer support still cost money. But usage doesn't generate additional cloud transcription API bills.\nThen came the harder part: getting people to use it.\nI'm building this alone, so I can't compete with bigger companies on marketing budgets.\nInstead, I focused heavily on ASO.\nI kept experimenting with keywords, localization, screenshots, and how I presented the app on the App Store.\nI also tried Apple Search Ads, but stopped when the campaigns weren't profitable.\nOne thing I've learned is that developers and customers see products very differently.\nI spent countless hours optimizing the inference engine.\nBut most users don't care what Core ML is.\nThey care about getting an accurate transcript, knowing who said what, and not having their private recordings uploaded to a server.\nSo I started focusing more on explaining those benefits rather than the technology itself.\nUser feedback changed the product more than I expected.\nThe first versions weren't perfect.\nSpeaker separation had issues. Long recordings exposed bugs. Different devices behaved differently.\nInstead of constantly chasing new features, I spent a lot of time fixing the problems users actually reported.\nThose small improvements have added up over time.\nI can't say one specific update or ASO change caused the recent growth. I've been improving both the product and the App Store page continuously.\nBut the experience has changed how I think about building a business.\nAt first, I was focused almost entirely on solving a difficult technical problem.\nNow I spend just as much time thinking about what users actually need, how they discover the app, and whether the experience is good enough to keep them using it.\nI'm still doing the development, support, updates, and marketing myself.\nAnd there's still plenty to improve.\nThe biggest lesson I've learned is that technical differentiation can give a small business an advantage, but listening to users is what helps turn that technology into a product people actually want.\nFor anyone interested, you can find the app by searching LoroNote on the Apple App Store.\nI'm curious if other solo founders have had a similar experience.\nDid you start out focused on building something technically impressive, only to realize that distribution and user experience were just as important?\nsubmitted by /u/Alternative_Tour1791\n[link] [comments]",
+  "author": "/u/Alternative_Tour1791 https://www.reddit.com/user/Alternative_Tour1791",
+  "created_at": "2026-10-12T07:34:15+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 7591.0,
+  "revenue_evidence": "has been pretty surreal. Here are the latest numbers: 28-day revenue: $7,591 MRR: $1,295 Active subscriptions: 258 The r",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 23.97,
+  "llm": null,
+  "first_seen": "2026-10-16T16:46:02+00:00",
+  "last_seen": "2026-10-16T16:46:02+00:00",
+  "uid": "846c975f08e8cc96"
+ },
+ {
+  "rank": 22,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -438,11 +532,11 @@
   "score": 22.97,
   "llm": null,
   "first_seen": "2026-10-11T22:04:56+00:00",
-  "last_seen": "2026-10-16T11:33:23+00:00",
+  "last_seen": "2026-10-16T16:46:02+00:00",
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 19,
+  "rank": 23,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -465,7 +559,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 20,
+  "rank": 24,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -488,7 +582,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 21,
+  "rank": 25,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -511,7 +605,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 22,
+  "rank": 26,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -534,7 +628,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 23,
+  "rank": 27,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -557,7 +651,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 24,
+  "rank": 28,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -580,7 +674,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 25,
+  "rank": 29,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -603,7 +697,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 26,
+  "rank": 30,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -626,7 +720,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 27,
+  "rank": 31,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -649,7 +743,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 28,
+  "rank": 32,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -672,7 +766,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 29,
+  "rank": 33,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -695,7 +789,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 30,
+  "rank": 34,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -718,7 +812,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 31,
+  "rank": 35,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -744,7 +838,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 32,
+  "rank": 36,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
