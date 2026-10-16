@@ -55,7 +55,7 @@
   "score": 61.86,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-15T21:30:04+00:00",
+  "last_seen": "2026-10-16T04:40:06+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -129,7 +129,7 @@
   "score": 45.0,
   "llm": null,
   "first_seen": "2026-10-15T11:38:31+00:00",
-  "last_seen": "2026-10-15T21:30:04+00:00",
+  "last_seen": "2026-10-16T04:40:06+00:00",
   "uid": "4d5b2b054be00439"
  },
  {
@@ -157,6 +157,29 @@
  },
  {
   "rank": 7,
+  "source": "reddit/r/Entrepreneur",
+  "source_id": "1wyfq2m",
+  "title": "12 years running a B2B company in the Caribbean, ~$1.6M ARR, and I've never had a mentor. How did you find yours?",
+  "url": "https://www.reddit.com/r/Entrepreneur/comments/1wyfq2m/12_years_running_a_b2b_company_in_the_caribbean/",
+  "text": "I've run a fleet tracking company for about 12 years. We sell GPS tracking and AI dashcams to commercial fleets, mostly across the Caribbean, with a smaller operation in Colombia. We have around 370 clients, roughly $1.6M ARR, and we're on track for about 30% growth in the Caribbean this year.\nOn paper it's going fine. But I've reached the point where I don't fully trust my own read on the business anymore. I built most of it by figuring things out as I went, and I'm starting to suspect some of what I see as normal is actually a blind spot.\nHere's a concrete example. Almost half our clients, about 170 of 370, pay late. They don't default, they're just consistently late. We get paid by wire transfer because that's how most businesses in the region pay, and we bill across 20+ territories with different banks and payment habits. I've lived with this for so long that I honestly can't tell anymore whether it's just the market or something I've been tolerating that a more experienced operator would have fixed years ago. I suspect it's the second.\nThat's the kind of outside perspective I'm looking for. I want someone who has been further down the road and can look at what I'm doing and tell me what I'm not seeing.\nA few questions for anyone who's been here:\nMentor or coach? I don't know if I need a founder who's done it, a paid coach, or both. If you've had both, what did each give you that the other couldn't?\nHow did you find yours? And if it was someone senior who didn't owe you anything, how did you make the ask?\nHas anyone dealt with late payments in a market where wire transfer is the default? What actually changed client behavior?\nLooking at my situation from the outside, what would you be asking me?\nI'm not selling anything and I'd rather not get coaching pitches in my DMs. I'm just trying to learn from people who've been in this spot. Happy to answer questions about selling B2B in the Caribbean if that's useful to anyone.\nsubmitted by /u/imjp\n[link] [comments]",
+  "author": "/u/imjp https://www.reddit.com/user/imjp",
+  "created_at": "2026-10-05T18:09:17+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 133333.33,
+  "revenue_evidence": "a smaller operation in Colombia. We have around 370 clients, roughly $1.6M ARR, and we're on track for about 30% growt",
+  "revenue_confidence": 0.95,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 42.75,
+  "llm": null,
+  "first_seen": "2026-10-16T04:40:06+00:00",
+  "last_seen": "2026-10-16T04:40:06+00:00",
+  "uid": "aadadb76ef91cb82"
+ },
+ {
+  "rank": 8,
   "source": "reddit/r/SaaS",
   "source_id": "1wyqlev",
   "title": "Founders: what term do you actually search when you need help getting early distribution?",
@@ -181,7 +204,7 @@
   "uid": "d5f9264797821da5"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/09cd81d71336",
   "title": "I Hit $27,400 MRR by Ignoring Standard Startup Advice. Here Is What I Did Instead.",
@@ -204,7 +227,7 @@
   "uid": "c65c4bb99f94447f"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/microsaas",
   "source_id": "1x1fqnj",
   "title": "I’m pouring my heart and soul into this project… subscriptions are trickling in, but I’ve got ADHD and I’m not going down without a fight, haha.",
@@ -227,7 +250,7 @@
   "uid": "2c8edf751e2adcca"
  },
  {
-  "rank": 10,
+  "rank": 11,
   "source": "reddit/r/SaaS",
   "source_id": "1x4310s",
   "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
@@ -250,7 +273,7 @@
   "uid": "6fda2f3d36e8a321"
  },
  {
-  "rank": 11,
+  "rank": 12,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -273,7 +296,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 12,
+  "rank": 13,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -298,7 +321,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 13,
+  "rank": 14,
   "source": "reddit/r/microsaas",
   "source_id": "1x3v6h7",
   "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
@@ -323,7 +346,7 @@
   "uid": "cbe9ecfc0ee23897"
  },
  {
-  "rank": 14,
+  "rank": 15,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -346,7 +369,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 15,
+  "rank": 16,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -373,7 +396,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 16,
+  "rank": 17,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -396,7 +419,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 17,
+  "rank": 18,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -415,11 +438,11 @@
   "score": 22.97,
   "llm": null,
   "first_seen": "2026-10-11T22:04:56+00:00",
-  "last_seen": "2026-10-15T21:30:04+00:00",
+  "last_seen": "2026-10-16T04:40:06+00:00",
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 18,
+  "rank": 19,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -442,7 +465,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 19,
+  "rank": 20,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -465,7 +488,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 20,
+  "rank": 21,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -488,7 +511,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 21,
+  "rank": 22,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -511,7 +534,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 22,
+  "rank": 23,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -534,7 +557,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 23,
+  "rank": 24,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -557,7 +580,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 24,
+  "rank": 25,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -580,7 +603,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 25,
+  "rank": 26,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -603,7 +626,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 26,
+  "rank": 27,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -626,7 +649,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 27,
+  "rank": 28,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -649,7 +672,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 28,
+  "rank": 29,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -672,7 +695,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 29,
+  "rank": 30,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -695,7 +718,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 30,
+  "rank": 31,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -721,7 +744,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 31,
+  "rank": 32,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
