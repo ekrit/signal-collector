@@ -55,7 +55,7 @@
   "score": 61.93,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-16T21:18:00+00:00",
+  "last_seen": "2026-10-17T04:36:31+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -129,7 +129,7 @@
   "score": 45.0,
   "llm": null,
   "first_seen": "2026-10-15T11:38:31+00:00",
-  "last_seen": "2026-10-16T21:18:00+00:00",
+  "last_seen": "2026-10-17T04:36:31+00:00",
   "uid": "4d5b2b054be00439"
  },
  {
@@ -491,6 +491,29 @@
  },
  {
   "rank": 21,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x7bh9i",
+  "title": "My side project is making more than my 9-5",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x7bh9i/my_side_project_is_making_more_than_my_95/",
+  "text": "Hi all, I am not sure if you remember my last post 2 months ago. I posed about my SaaS and it was at $3.5k MRR.\nWell, I just crossed $4k MRR and it's officially making more money than my 9-5 job which is crazy to think.\nI started it as a side project along with my 9-5, I needed a simple tool for myself only. I told one friend about it and he was interested to try. At that time I didn't even think anybody else would be interested into it. Today, 1 year later 250 people are subscribed, more than 10k people registered and it's doing fairly good so far.\nSo what changed to bring more money:\n- I increased the lowest price ($11 to $19)\n- I added bunch of AEO and SEO pages\n- I started talking with people (app is asking them to join my channels so I can take over and help)\nI was very skeptical about the price plan but it turns out people are happy to pay more + weirdly it's sign of a quality product.\nSEO and AEO pages is something that is constantly bringing new people, people find about my app in ChatGPT, Claude and other AI providers.\nTalking to my customers was the hardest part for me, it's time consuming, it's hard to get people to talk to you and you end up with bunch of small specific ideas/requests and you need to figure out how to implement it while keeping simplicity of the app.\nIt's still bootstrapped and I am not planning to add any VC money. It's still 0 ads.\nMRR proof is here: https://trustmrr.com/startup/opentweet\nsubmitted by /u/No-Firefighter-1453\n[link] [comments]",
+  "author": "/u/No-Firefighter-1453 https://www.reddit.com/user/No-Firefighter-1453",
+  "created_at": "2026-10-16T09:18:12+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 4000.0,
+  "revenue_evidence": ". I posed about my SaaS and it was at $3.5k MRR. Well, I just crossed $4k MRR and it's officially making more money t",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 24.03,
+  "llm": null,
+  "first_seen": "2026-10-17T04:36:31+00:00",
+  "last_seen": "2026-10-17T04:36:31+00:00",
+  "uid": "36be12bc82761ba0"
+ },
+ {
+  "rank": 22,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -513,7 +536,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 22,
+  "rank": 23,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -532,11 +555,11 @@
   "score": 22.97,
   "llm": null,
   "first_seen": "2026-10-11T22:04:56+00:00",
-  "last_seen": "2026-10-16T21:18:00+00:00",
+  "last_seen": "2026-10-17T04:36:31+00:00",
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 23,
+  "rank": 24,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -559,7 +582,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 24,
+  "rank": 25,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -582,7 +605,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 25,
+  "rank": 26,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -605,7 +628,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 26,
+  "rank": 27,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -628,7 +651,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 27,
+  "rank": 28,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -647,11 +670,11 @@
   "score": 19.75,
   "llm": null,
   "first_seen": "2026-10-15T11:38:31+00:00",
-  "last_seen": "2026-10-15T11:38:31+00:00",
+  "last_seen": "2026-10-17T04:36:31+00:00",
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 28,
+  "rank": 29,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -674,7 +697,30 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 29,
+  "rank": 30,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x7lvaz",
+  "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x7lvaz/my_saas_just_crossed_15k_mrr_and_i_just_cant/",
+  "text": "https://preview.redd.it/1kk47qdg2vvh1.png?width=847&format=png&auto=webp&s=b0f7c0084c9e3422e1c255e3f256312312e01dda\ni remember starting at $0 MRR and wondering if anyone would ever even use it let alone buy it\nit blows my mind to think i now have a business with a valuation of $50k from something i built with just a wifi connection and my laptop\nfor context my saas is a faceless video generator to monetise youtube channels. It's a pretty crowded niche but i've still been able to capture my share of the market, showing that you don't even need a crazy original business to still be able to compete in SaaS\ni went from hoping to ever get a sale to being able to go full time to now projecting when i can sell for $200k+\nto anyone that's still early stage, either pre-revenue or sub 1k mrr, these are key parts of my journey:\n- Guerilla marketing under 500 mrr; you don't have any acquisition channels yet. try everything, be active in communities and SPECIFICALLY reddit. Reddit alone got me my first 20 subscribers, just by posting the right thing in the right communities\n- Viciously reduce churn; saas doesn't stop at the sale. Churn is probably the biggest killer of any business. getting customers is no good if they never stay past a month. identify why customers leave, treat every single unsubscribe as a feature request / bug fix. I actually have a cursor automation tied to datafast that looks at everything a churned user did before they unsubbed, identifies if it was due to bugs or other, then automatically creates a PR with the recommended fixes. This has slashed churn for me and is the main reason I've grown 70%+ this month, simply by keeping the customers you've already done the hard work of getting.\n- Improve activation; once again, no point doing the work of finding customers if they never get value from your tool. Aggressively improve your onboarding with the sole goal of getting your customer to their 'aha moment' with your tool ASAP\n- Increase your prices; cheap products are a low quality signal. Not only do you not lose as many potential customers as you would imagine at higher prices, but every worthwhile metric goes up: ltv, arpu, rev, mrr, etc. Every customer you convert is worth more, for less work.\n- Add annual plans asap and price them correctly; annual subs do wonders for reducing churn and increasing cashflow, lets you have spare money that isn't tied to mrr that you can reinvest. Make sure you price the annual plan at about (Customer LTV + 1 month). That means, if your average customer stays 4 months, price your annual plan at 5x your monthly price. There's no point charging for 12 months with a 20% discount or whatever if you don't have any customers that stay that long. You lose nothing collecting the cheaper annual payment because your average customer doesn't stay for those 12 months, and you get to collect the cash upfront too. Annual plan conversion increased heavily for me after this change.\n- Start doing SEO as soon as you can. It is the holiest of marketing channels. No SEO work you have ever done goes unrewarded. People hesitate because 'it takes so long to see results'. Firstly, it actually doesn't. I've seen results in as little as a week. Secondly, the time you are so scared of will pass anyway. Start now.\n- Treat your 'project' as a business already. Give it the respect, time and attention a business deserves. The day I stopped calling it a 'side project' and called it my business, I started treating it like one.\n- Do a little, as much as you can. Everyone's situation is different, but do your best to avoid not working on your business for any more than 3 days. Being in the space gives you ideas, motivation, drive, forward motion and those little efforts will eventually compound.\n- Stay in the game as long as you can. I started my very first saas 3 years ago. I started this one a year ago. I've only reached $1.5k mrr now. It may seem slow, but solid roots always take long to form. It took me months to reach $100 mrr. Now I add it in a day. It always get easier the higher you rise. I'm positive I'll reach $5k mrr in less time than it took me to get to $500. My first subscriptions were annual payments at $12/year (12 dollars a year!!) I celebrated so hard. Now I don't blink at $77 monthly subs. It may not look like it on twitter and reddit, but this game is a long run. You are learning everyday. Your product is getting best. You are making choices faster. Your brand is growing exponentially. If there's one thing worth sticking with, it's this.\nGood luck to every brave person taking this beautiful risk. See you on the other side!!\nsubmitted by /u/Absolutelyphenomenal\n[link] [comments]",
+  "author": "/u/Absolutelyphenomenal https://www.reddit.com/user/Absolutelyphenomenal",
+  "created_at": "2026-10-16T17:06:48+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1500.0,
+  "revenue_evidence": "My SaaS just crossed $1.5k mrr and i just cant believe it https://prev",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 17.64,
+  "llm": null,
+  "first_seen": "2026-10-17T04:36:31+00:00",
+  "last_seen": "2026-10-17T04:36:31+00:00",
+  "uid": "5b533b21e4013bcd"
+ },
+ {
+  "rank": 31,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -697,7 +743,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 30,
+  "rank": 32,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -720,7 +766,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 31,
+  "rank": 33,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -743,7 +789,30 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 32,
+  "rank": 34,
+  "source": "reddit/r/SaaS",
+  "source_id": "1x7irze",
+  "title": "I vibe-coded my ass and now doing 1K MRR",
+  "url": "https://www.reddit.com/r/SaaS/comments/1x7irze/i_vibecoded_my_ass_and_now_doing_1k_mrr/",
+  "text": "Yes, I looked at Sydney Sweeney's ass and immediately realised that I can vibe code my own ass.\nIt looks and feels EXACTLY the same. It passes blind test.\nI showed a zoomed-in picture side by side, and non of my friends were able to differentiate (i asked Claude to trim my ass hair before the demo).\nI told them that it means s*x appeal is now a commodity. But my friends said it doesn't matter if my ass looks like hers, they ain't gonna pay a dime.\nThey aren't believing ass is dead, and everyone's ass is equally valuable now (same function, same look and feel).\nAfter some A/B testing I am finally at 1K MRR.\nSeeing analytics, it's clear that most of my users are also Grindr users (weird correlation). It doesn't matter; 1K MRR is enough of of a proof that ass is dead finally.\nMy users are first movers who decided to bet on my ass instead of Sydney's.\nPlease do NOT comment \"How? Tell me Now!\" for a link, I am not sharing my playbook.\nsubmitted by /u/PastPicture\n[link] [comments]",
+  "author": "/u/PastPicture https://www.reddit.com/user/PastPicture",
+  "created_at": "2026-10-16T15:09:55+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1000.0,
+  "revenue_evidence": "I vibe-coded my ass and now doing 1K MRR Yes, I looked at Sydney Sweeney's ass a",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 15.0,
+  "llm": null,
+  "first_seen": "2026-10-17T04:36:31+00:00",
+  "last_seen": "2026-10-17T04:36:31+00:00",
+  "uid": "a566898e7af52dc7"
+ },
+ {
+  "rank": 35,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -766,7 +835,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 33,
+  "rank": 36,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -789,7 +858,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 34,
+  "rank": 37,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -812,7 +881,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 35,
+  "rank": 38,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -838,7 +907,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 36,
+  "rank": 39,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
