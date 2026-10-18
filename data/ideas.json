@@ -26,7 +26,7 @@
   "score": 62.07,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-18T15:58:04+00:00",
+  "last_seen": "2026-10-18T20:52:00+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -516,6 +516,29 @@
  },
  {
   "rank": 22,
+  "source": "google_news/idea_2",
+  "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
+  "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR?oc=5",
+  "text": "This app is making $2,000 PER DAY｜Starter Story    finance.biggo.com",
+  "author": "",
+  "created_at": "2026-10-18T17:16:18+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 60000.0,
+  "revenue_evidence": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com This",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 25.0,
+  "llm": null,
+  "first_seen": "2026-10-18T20:52:00+00:00",
+  "last_seen": "2026-10-18T20:52:00+00:00",
+  "uid": "906e0e7c45fe4249"
+ },
+ {
+  "rank": 23,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -538,7 +561,7 @@
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 23,
+  "rank": 24,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -561,7 +584,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 24,
+  "rank": 25,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -584,7 +607,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 25,
+  "rank": 26,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -607,7 +630,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 26,
+  "rank": 27,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -630,7 +653,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 27,
+  "rank": 28,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -653,7 +676,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 28,
+  "rank": 29,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -676,7 +699,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 29,
+  "rank": 30,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -699,7 +722,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 30,
+  "rank": 31,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -722,7 +745,7 @@
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 31,
+  "rank": 32,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -745,7 +768,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 32,
+  "rank": 33,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -768,7 +791,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 33,
+  "rank": 34,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -791,7 +814,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 34,
+  "rank": 35,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -814,7 +837,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 35,
+  "rank": 36,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -837,7 +860,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 36,
+  "rank": 37,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -860,7 +883,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 37,
+  "rank": 38,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -883,7 +906,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 38,
+  "rank": 39,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -906,7 +929,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 39,
+  "rank": 40,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -929,7 +952,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 40,
+  "rank": 41,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -955,7 +978,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 41,
+  "rank": 42,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
