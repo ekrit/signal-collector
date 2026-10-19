@@ -26,7 +26,7 @@
   "score": 62.07,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-19T04:50:02+00:00",
+  "last_seen": "2026-10-19T13:27:52+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -60,6 +60,34 @@
  },
  {
   "rank": 3,
+  "source": "devto",
+  "source_id": "4875630",
+  "title": "The 5% MoR Illusion: Exact US LLC + Stripe Breakeven for Non-US SaaS Founders (2026)",
+  "url": "https://dev.to/600me/the-5-mor-illusion-exact-us-llc-stripe-breakeven-for-non-us-saas-founders-2026-1h2l",
+  "text": "A founder in Lisbon runs a B2B SaaS at **$8,000 MRR** with a **$40 average order value**. She sells to customers in forty countries, prices in US dollars, and pays a Merchant of Record 5% plus 50 cents per order. Her spreadsheet says the MoR costs $500 a month. Stripe's advertised 2.9% plus 30 cents looks like it would cost $292. The gap is $208 a month, or roughly $2,500 a year. She starts planning an escape.\n\nThen she reads a compliance invoice, discovers that 70% of her cards are issued outside the United States, and notices that Stripe charges extra for exactly the customers she has. The real Stripe cost is not $292. It is $459.33 once fixed fees and a $1,000 annual compliance budget are included. The saving is $488 a year, not $2,500. Still positive, but a different decision. If she also settles in euros or pounds and Stripe converts the payout to dollars, Stripe costs **$539.33** a month and the MoR is **$39.33 cheaper every month**.\n\nThat is the 5% illusion: the headline spread between two percentage rates is not the spread between two businesses. The correct question is not \"is 2.9% lower than 5%?\" It is \"at my card mix, my order size and my compliance bill, how much revenue do I need before the self-managed route actually wins?\" That question has an exact answer, and it moves.\n\n## Why the 2.9% versus 5% comparison fails\n\nTwo numbers are being compared as if they describe the same transaction. They do not.\n\n**First, the MoR rate is all-in for card processing.** Lemon Squeezy and Paddle quote roughly 5% plus 50 cents per transaction on their pay-as-you-go plans. That fee covers the payment, the billing layer and the indirect-tax handling the provider performs as the seller of record. There is no separate compliance budget line, because the provider is the merchant. The trade is real: you pay a premium for someone else to own sales-tax registration, collection and remittance on covered sales.\n\n**Second, Stripe's 2.9% is a domestic-card rate.** Stripe's US pricing adds **1.5%** when the card is issued outside the United States, and **1%** when a charge is made in another currency and converted. Neither surcharge appears in the headline. A globally distributed SaaS does not process domestic cards only. The observed international share is an input to the decision, not a footnote.\n\n**Third, the fixed fees differ.** The MoR charges 50 cents per order; Stripe charges 30 cents. That 20-cent spread favors Stripe per order, but it is dwarfed by a five-figure compliance budget at low order values.\n\n**Fourth, an LLC is not free.** Formation is a one-time cost. Keeping the company alive is annual: state reports or franchise tax, a registered agent, and for a foreign-owned single-member LLC the federal filings that carry a $25,000 penalty when missed. The model treats that as an annual budget `C`, divided by twelve so it can be compared with monthly processing fees.\n\nOnce those four facts are on the table, the comparison becomes arithmetic instead of vibes.\n\n## The algebra, written out\n\nLet `R` be monthly revenue, `A` the average order value, `N = R / A` the number of orders per month, `C` the annual compliance budget, and `r` the effective Stripe rate including international and FX surcharges.\n\n```text\nMoR    = 0.05 × R + 0.50 × N\nStripe = r × R + 0.30 × N + C / 12\nN      = R / A\n```\n\nSet them equal to find the break-even revenue `B`:\n\n```text\n0.05B + 0.50(B / A) = rB + 0.30(B / A) + C / 12\nB × [(0.05 − r) + (0.20 / A)] = C / 12\nB = (C / 12) / [(0.05 − r) + (0.20 / A)]\n```\n\nThe bracket is the **rate delta**: the percentage advantage of Stripe over the MoR, plus the fixed-fee advantage per dollar of average order value. If the bracket is zero or negative, Stripe never catches up, no matter how large the revenue. The break-even is not a number; it is a function of three inputs:\n\n- **Effective Stripe rate `r`** — 2.9% domestic, 3.95% at 70% international cards, 4.95% with a 1% FX conversion.\n- **Average order value `A`** — smaller orders make the 20-cent fixed-fee gap matter more.\n- **Annual compliance budget `C`** — higher overhead pushes the break-even to the right.\n\nThe monthly difference is simply `delta = MoR − Stripe`. A positive delta means the LLC route is cheaper this month; negative means the MoR is cheaper. Annualize the unrounded monthly difference, never the rounded display value.\n\n**The one-line rule:** break-even MRR = monthly compliance cost ÷ [(5% − effective Stripe rate) + $0.20 ÷ AOV]. If the denominator is not positive, there is no break-even.\n\n## Three tiers, three completely different answers\n\nThe same founder, the same $40 AOV and the same $1,000 annual compliance budget produce three different decisions as the card mix changes.\n\n| Tier | Card mix | Effective Stripe rate | Rate delta | Break-even MRR |\n|---|---|---|---|---|\n| **Tier 1** | 100% US domestic cards | 2.90% + $0.30 | 2.60% | **$3,205 / mo** |\n| **Tier 2** | 70% international cards (+1.5%) | 3.95% + $0.30 | 1.55% | **$5,376 / mo** |\n| **Tier 3** | 70% international + 1% FX | 4.95% + $0.30 | 0.55% | **$15,152 / mo** |\n\nThe mechanics are worth pausing on. Tier 1's denominator is 2.1% + 0.5% = 2.6%, so $83.33 of monthly overhead divided by 2.6% gives $3,205. Tier 2's denominator is 1.05% + 0.5% = 1.55%, so the same overhead divided by 1.55% gives $5,376. Tier 3's denominator collapses to 0.05% + 0.5% = 0.55%, and the break-even explodes to $15,152. Nothing about the company changed. The customers' card issuers and the settlement currency changed.\n\n## Tier 1: the US-domestic case\n\nAt $8,000 MRR and a $40 AOV, there are 200 orders. The MoR charges 5% of revenue plus 50 cents per order: $400 + $100 = **$500.00 per month**. Stripe charges 2.9% of revenue, 30 cents per order and one-twelfth of the compliance budget: $232 + $60 + $83.33 = **$375.33 per month**. The LLC route wins by $124.67 a month, or **$1,496 a year**.\n\n| At $8,000 MRR / $40 AOV / $1,000 a year | MoR | US LLC + Stripe | Difference |\n|---|---|---|---|\n| Revenue fee | $400.00 | $232.00 | +$168.00 |\n| Per-order fee | $100.00 | $60.00 | +$40.00 |\n| Compliance budget / 12 | $0.00 | $83.33 | −$83.33 |\n| **Monthly total** | **$500.00** | **$375.33** | **+$124.67** |\n| **Annual total** | **$6,000.00** | **$4,504.00** | **+$1,496.00** |\n\nThe break-even is $3,205 MRR. Below that, the $1,000 compliance budget cannot be recovered from a 2.6-point rate advantage and a 20-cent order advantage. Above it, every additional dollar of revenue widens the gap. That is the honest version of the \"2.9% is cheaper\" story: it is cheaper, but only after a revenue threshold, and only for a merchant whose customers pay with US-issued cards.\n\n## Tier 2: the global SaaS default\n\nMost non-US SaaS products do not have a 100% domestic card mix. A 70% international share is a realistic planning assumption for a product with customers across Europe, Asia and Latin America. Stripe's effective rate becomes 2.9% + (70% × 1.5%) = **3.95%**.\n\nAt $8,000 MRR the fee decomposition is $316 revenue fee + $60 per-order fee + $83.33 compliance = **$459.33 per month**. The MoR is still $500, so the LLC saves $40.67 a month, or **$488 a year**. The break-even rises to **$5,376 MRR** because the rate delta shrank from 2.6% to 1.55% while overhead stayed the same.\n\nScale changes the picture. At $20,000 MRR with the same $40 AOV, there are 500 orders. The MoR charges $1,000 + $250 = **$1,250 per month**. Stripe charges $790 + $150 + $83.33 = **$1,023.33 per month**. The saving is $226.67 a month, or **$2,720 a year**. The compliance overhead is now a rounding error against the revenue spread, which is why the decision flips decisively once a company is past the break-even and stays there.\n\n| 70% international cards, $40 AOV, $1,000 a year | MoR monthly | Stripe monthly | Monthly saving | Annual saving |\n|---|---|---|---|---|\n| $8,000 MRR (200 orders) | $500.00 | $459.33 | $40.67 | **$488.00** |\n| $20,000 MRR (500 orders) | $1,250.00 | $1,023.33 | $226.67 | **$2,720.00** |\n\nThis is the tier where the \"lazy tax\" argument becomes credible for a $60k ARR business. At $5,000 MRR the LLC route is only barely ahead; at $8,000 it saves $488 a year; at $20,000 it saves $2,720. Staying on a MoR is not irrational at $5,000 MRR. Staying on it at $20,000 MRR without doing the math is how founders donate thousands of dollars a year to convenience they no longer need.\n\n## Tier 3: the non-USD checkout trap\n\nNow add the currency conversion. If the product is priced in euros, pounds or another currency and Stripe converts the charge to US dollars, Stripe's US pricing adds **1%**. The effective rate becomes 4.95%, and the break-even jumps to **$15,152 MRR**.\n\nAt $8,000 MRR the numbers are $396 revenue fee + $60 per-order fee + $83.33 compliance = **$539.33 per month**. The MoR is **$500.00**. The self-managed route is now **$39.33 more expensive every month** — about $472 a year — and the founder who switched early would have paid for the privilege of doing more work.\n\nThis is the most important operational insight in the whole model. The LLC route is not a maturity badge. It is a bet that your effective Stripe rate stays far enough below 5% to repay a fixed compliance bill. A multi-currency product at low MRR can lose that bet even while its headline processing rate looks cheaper. At $20,000 MRR in Tier 3, the math flips again: Stripe costs $990 + $150 + $83.33 = $1,223.33 against the MoR's $1,250, a saving of just $26.67 a month. The company is above break-even but the margin is thin. At $8,000 MRR it is negative.\n\nThere are two honest responses. The first is to stay on the MoR until the revenue is high enough to clear the Tier 3 break-even. The second is to change the input: price and settle in USD, renegotiate the currency conversion, or use a payment setup that does not add the 1% conversion on every charge. The model does not tell you which is possible. It tells you what each choice costs.\n\n## The US LLC bill nobody puts in the headline\n\nFormation is the visible cost and the least interesting one. Firstbase lists a **$399** company-formation package; state filing fees and optional add-ons sit on top. That is a one-time expense, and it is not the number that decides the comparison. The recurring bill is.\n\n- **State annual report or franchise tax.** Wyoming's annual report carries a modest minimum; Delaware's franchise tax starts around $300 for a small LLC. Neither is zero, and both are due whether or not the company earns anything.\n- **Registered agent.** Typically $50 to $300 a year. A foreign founder without a US address needs one, and the address is also what keeps service of process and state mail from disappearing.\n- **IRS Form 5472 and pro forma Form 1120.** A foreign-owned single-member LLC is generally treated as a disregarded entity for income tax but is still a reporting corporation. It must file Form 5472 with a pro forma Form 1120. Missing or late filing can trigger a **$25,000** penalty. This is the compliance red line, not a paperwork preference.\n- **Bookkeeping and tax preparation.** A US return, a foreign owner's information reporting and a home-country filing do not prepare themselves. Even a lean DIY setup consumes hours that have a market price.\n- **Banking, mail and sales-tax registrations.** A US business bank account, a mail-forwarding address and any state sales-tax registrations add recurring cost. An LLC does not guarantee Stripe approval, and it does not make sales-tax obligations disappear; it moves them to you.\n\nThe model uses **$1,000 a year** as a planning allowance, which is deliberately lean: it covers a modest state bill, a registered agent and basic 5472 preparation in a good year. A founder with a Delaware LLC, professional bookkeeping and multiple state registrations should raise it. The point is not that $1,000 is the true cost for everyone. The point is that the comparison is sensitive to the number, and the calculator lets you change it.\n\n**Do not model the LLC as \"Stripe minus 2.1%\".** Model it as \"Stripe at my effective rate, plus a fixed annual overhead, plus my own time\". The break-even formula only works when the overhead is in the equation.\n\n## What to do with this on a Monday morning\n\n1. **Measure your international share.** Export a month of charges from Stripe or your MoR and count cards by issuer country. Do not guess. A 70% assumption is a planning default, not a measurement.\n2. **Check your settlement currency.** If you price in USD and receive USD, the FX input is zero. If your checkout charges in local currencies and converts, enable the 1% line and watch the break-even move.\n3. **Price the compliance year honestly.** Add state fees, registered agent, Form 5472 preparation and the hours you will spend. Use that number, not a vendor's formation package price.\n4. **Compute the break-even, then compare it with your actual MRR.** Below it, the MoR is doing useful work. Above it, the annual gap is real money.\n5. **Re-run the model when the mix changes.** A product that shifts from US early adopters to global customers can cross a break-even in the wrong direction. The decision is not permanent.\n\nThe calculator on the site implements the formulas above exactly. The `intl` slider sets the international card share from 0% to 100% in 5-point steps, the `fx` switch adds the 1% conversion, and both are written to the URL so a scenario can be shared or bookmarked. The three presets load the three tiers in this article at $8,000 MRR, $40 AOV and $1,000 annual compliance.\n\n- [Tier 2 at $8,000 MRR](https://pay.mybskm.top/?mrr=8000&aov=40&intl=70) — 70% international cards, no FX: break-even $5,376, saving $488 a year.\n- [Tier 2 at $20,000 MRR](https://pay.mybskm.top/?mrr=20000&aov=40&intl=70) — the same mix at scale: saving $2,720 a year.\n- [Tier 3 at $8,000 MRR](https://pay.mybskm.top/?mrr=8000&aov=40&intl=70&fx=1) — add FX and the MoR becomes $39.33 a month cheaper.\n\nIf the numbers say the LLC route is worth it, the formation step is the next decision, not the first one. Firstbase's $399 package is a reasonable starting point for a foreign founder who wants a US entity without assembling the paperwork alone. Compare the state fee, the registered-agent renewal and the 5472 preparation quote before you pay for anything, and keep the annual compliance budget in the model even after the company exists.\n\n## The decision is a threshold, not an identity\n\nThe 5% MoR fee is not a scam, and Stripe is not automatically cheaper. Each is a bundle of services with a different cost structure. The MoR bundles processing, billing and indirect-tax handling into a revenue percentage. The LLC route unbundles them: you get a lower variable rate, but you buy compliance, filings and administrative attention separately, and you pay for them whether or not the revenue arrives.\n\nFor a non-US founder, the correct sequence is unglamorous. Measure the card mix. Put the real compliance bill in the model. Compute the break-even. Compare it with the revenue you actually have, not the revenue you hope to have next year. Then choose the cheaper bundle for the next twelve months and revisit when the inputs change.\n\nAt $8,000 MRR with US cards, that exercise says the LLC saves $1,496 a year. At the same revenue with 70% international cards, it says $488. With a non-USD checkout, it says the MoR wins by $39.33 a month. Three different answers from the same headline rates. The only way to know which one is yours is to stop comparing 2.9% with 5% and start comparing the two complete businesses.\n\n---\n\n**Run your own numbers:** [open the payment calculator](https://pay.mybskm.top/) or start with the [70% international scenario](https://pay.mybskm.top/?mrr=8000&aov=40&intl=70).\n\n**Form a US LLC:** [Firstbase ($399 formation package)](https://go.272738.xyz/firstbase?src=devto_mor_breakeven). State fees and optional add-ons are extra.\n\n**FTC disclosure:** some links above are affiliate links. If you buy through them, I may earn a commission at no extra cost to you. A commission never changes the price you pay and does not buy a ranking. This is a planning model with stated assumptions, not financial, tax or legal advice. Verify current provider pricing and filing duties before you commit.\n",
+  "author": "600me",
+  "created_at": "2026-10-19T06:03:18Z",
+  "engagement": {
+   "points": 0,
+   "comments": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 8000.0,
+  "revenue_evidence": "*. The LLC route wins by $124.67 a month, or **$1,496 a year**. | At $8,000 MRR / $40 AOV / $1,000 a year | MoR | US LL",
+  "revenue_confidence": 1.0,
+  "industries": [
+   "legal_ai"
+  ],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 53.31,
+  "llm": null,
+  "first_seen": "2026-10-19T13:27:52+00:00",
+  "last_seen": "2026-10-19T13:27:52+00:00",
+  "uid": "e7b8a5339abde94f"
+ },
+ {
+  "rank": 4,
   "source": "reddit/r/SaaS",
   "source_id": "1wzpmj5",
   "title": "I'm 40, I've been a developer for years, and I still haven't figured out how to make money from my own software. What am I missing?",
@@ -84,7 +112,7 @@
   "uid": "19c0dcde46e43300"
  },
  {
-  "rank": 4,
+  "rank": 5,
   "source": "reddit/r/SaaS",
   "source_id": "1x2f4zk",
   "title": "We spent €3,000 on UGC creators, got 500,000 views, and acquired ONE paying customer",
@@ -110,7 +138,7 @@
   "uid": "15dc30dadddb9b21"
  },
  {
-  "rank": 5,
+  "rank": 6,
   "source": "rss/medium_indie_hackers",
   "source_id": "https://medium.com/p/7957a0def699",
   "title": "I Analyzed 228+ Solo-Founder Apps Making $10K to $500K/mo MRR.",
@@ -133,7 +161,7 @@
   "uid": "4d5b2b054be00439"
  },
  {
-  "rank": 6,
+  "rank": 7,
   "source": "reddit/r/SaaS",
   "source_id": "1wyfoqp",
   "title": "$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on finding a mentor or coach.",
@@ -156,7 +184,7 @@
   "uid": "d1909365a05ef6ef"
  },
  {
-  "rank": 7,
+  "rank": 8,
   "source": "reddit/r/Entrepreneur",
   "source_id": "1wyfq2m",
   "title": "12 years running a B2B company in the Caribbean, ~$1.6M ARR, and I've never had a mentor. How did you find yours?",
@@ -179,7 +207,7 @@
   "uid": "aadadb76ef91cb82"
  },
  {
-  "rank": 8,
+  "rank": 9,
   "source": "reddit/r/SaaS",
   "source_id": "1wyqlev",
   "title": "Founders: what term do you actually search when you need help getting early distribution?",
@@ -204,7 +232,7 @@
   "uid": "d5f9264797821da5"
  },
  {
-  "rank": 9,
+  "rank": 10,
   "source": "reddit/r/microsaas",
   "source_id": "1x7furi",
   "title": "Looking to feature founders on my youtube channel",
@@ -229,7 +257,7 @@
   "uid": "2fee8a343cd01a42"
  },
  {
-  "rank": 10,
+  "rank": 11,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/09cd81d71336",
   "title": "I Hit $27,400 MRR by Ignoring Standard Startup Advice. Here Is What I Did Instead.",
@@ -252,7 +280,37 @@
   "uid": "c65c4bb99f94447f"
  },
  {
-  "rank": 11,
+  "rank": 12,
+  "source": "devto",
+  "source_id": "4876037",
+  "title": "Firstbase vs Stripe Atlas vs Doola (2026): True 3-Year US LLC, Registered Agent & IRS Form 5472 Cost for Non-US Founders",
+  "url": "https://dev.to/600me/firstbase-vs-stripe-atlas-vs-doola-2026-true-3-year-us-llc-registered-agent-irs-form-5472-3fcd",
+  "text": "The three formation fees look like $399 versus $500 versus $297. Over three years the same three choices cost **$876**, **$1,600** and **$6,177** — because the fee buys a company, and the state, the agent and the tax filing decide what keeps it alive.\n\n*Affiliate disclosure (FTC): some links in this article are affiliate links, including the Firstbase link. If you form a company through them I may earn a commission at no extra cost to you. A commission does not change the price you pay and does not buy a ranking or a recommendation. The tables below are a transparent planning model built from published provider prices and published state and IRS fee schedules — not a quote, not a tax opinion, and not a promise of savings. Nothing here is legal, tax or accounting advice for your specific facts.*\n\n## The trap: a formation fee is not a holding cost\n\nEvery comparison post on the internet is built on the same three numbers. Firstbase charges **$399** for a company formation package. Stripe Atlas charges **$500**. Doola's Starter plan is **$297**. Sort ascending and Doola looks like the cheapest way to own a US company, Firstbase looks mid-market, and Stripe Atlas looks like the premium option you buy when you already have investors.\n\nThat sort is useless, and the reason is arithmetic, not opinion. A US company has three recurring obligations that are completely independent of the person who filed the paperwork: the state wants an annual report or franchise tax, the state wants a registered agent physically present in the state, and the IRS wants a Form 5472 attached to a pro forma Form 1120 if the owner is a non-resident alien. Only the first of those is a one-time event, and the cheapest headline fee can select the most expensive state.\n\nHere is the asymmetry in one sentence: **Wyoming charges $60 a year and has no state income tax; Delaware charges $300 a year for an LLC and $450 or more for a C-Corp.** Choose the state, and you have chosen two-thirds of your three-year bill, no matter whose checkout page you used.\n\nThe founder who compares formation fees alone therefore makes a decision about year one while signing up for years two and three. A $101 cheaper formation fee is worth nothing if it locks in $240 a year of extra state cost. That is exactly what the Delaware-only rule at Stripe Atlas does.\n\n## What each provider actually sells\n\nBefore the tables, the product shapes have to be on the table, because they are not comparable line items.\n\n- **Firstbase, $399 one-time formation.** A formation package priced once, not a subscription. You choose the entity type and — crucially — the state. Wyoming LLC is available. Registered agent service is an optional add-on at roughly **$99 a year**, and tax filing is quoted separately rather than bundled. The structure is modular: you pay for what the company actually needs this year.\n- **Stripe Atlas, $500 one-time formation.** A tightly engineered pipeline that produces a Delaware entity, an EIN, and a Stripe account that works. The first year of registered agent is included; renewals land at roughly **$100 a year** from year two. The state is Delaware. There is no Wyoming option, and the package is designed around companies that intend to raise venture capital and issue equity.\n- **Doola, $297 a year Starter, or $1,999 a year Total Compliance.** A subscription, not a one-time fee. Starter covers the formation workflow and ongoing registered agent and address service; Total Compliance bundles the tax and bookkeeping work, including the federal filings a foreign-owned LLC needs. The $297 is an annual number, and the state fee is added on top in both plans.\n\nThat difference in shape — one-time versus annual — is where the marketing comparison dies. Three years of $297 is $891 before a single state fee. Three years of $1,999 is $5,997. Neither number appears next to the $399 and $500 in a \"formation cost\" column.\n\n## 3-year total cost of ownership, computed line by line\n\nFive scenarios, identical founder, identical revenue, identical filing duty. Only the provider and the state change. Every figure is a published rate multiplied by the number of years it repeats for. No discounts, no promo codes, no \"first year free\" framing.\n\n| Scenario | Formation | State, 3 years | Registered agent, 3 years | 3-year total | Average / year |\n|---|---|---|---|---|---|\n| **Firstbase · Wyoming LLC** | $399 | $180 ($60×3) | $297 ($99×3) | **$876** | $292 |\n| Firstbase · Delaware LLC | $399 | $900 ($300×3) | $297 ($99×3) | $1,596 | $532 |\n| **Stripe Atlas · Delaware LLC** | $500 | $900 ($300×3) | $200 ($100×2) | **$1,600** | $533 |\n| Stripe Atlas · Delaware C-Corp | $500 | $1,350 ($450×3) | $200 ($100×2) | $2,050 | $683 |\n| Doola Starter · Wyoming LLC | $891 ($297×3) | $180 ($60×3) | included | $1,071 | $357 |\n| Doola Total Compliance · Wyoming | $5,997 ($1,999×3) | $180 ($60×3) | included | $6,177 | $2,059 |\n\n*Assumptions: Firstbase $399 formation, $99/yr registered agent add-on; state fees at published Wyoming ($60/yr annual report) and Delaware ($300/yr LLC franchise tax, $450/yr C-Corp minimum) rates; Stripe Atlas $500 with first-year agent included and $100/yr renewal thereafter; Doola Starter $297/yr and Total Compliance $1,999/yr, each plus state fees. Verified against provider and state publications in October 2026.*\n\nThe gap between the cheapest and the most common choice is **$724 over three years** — $1,600 for the Delaware-only route against $876 for the Wyoming route. Nothing about the founder's product changed. The state changed, and the state repeats every single year.\n\n### The same numbers, year by year\n\n| Scenario | Year 1 | Year 2 | Year 3 | 3-year total |\n|---|---|---|---|---|\n| Firstbase · Wyoming LLC | $558 | $159 | $159 | $876 |\n| Stripe Atlas · Delaware LLC | $800 | $400 | $400 | $1,600 |\n| Doola Starter · Wyoming LLC | $357 | $357 | $357 | $1,071 |\n| Doola Total Compliance · Wyoming | $2,059 | $2,059 | $2,059 | $6,177 |\n\nLook at the year-two column. A Firstbase Wyoming LLC renews for **$159**: $60 to the state, $99 to the agent. A Stripe Atlas Delaware LLC renews for **$400**: $300 to the state, $100 to the agent. That is a **2.5×** difference in the cost of simply continuing to exist, and it is the only number that matters once the formation is behind you.\n\nThe subscription model has the opposite profile. Doola Starter is the flattest line in the table — $357 every year, with no spike and no renewal surprise. If what you want is predictable annual cost and someone else holding the agent and address, flat is a feature. If what you want is the lowest three-year total, flat is a $195 premium over the modular route.\n\n## Why Stripe Atlas cannot give you Wyoming\n\nThe Delaware-only rule is not laziness. Stripe Atlas exists to produce a company that can open a Stripe account, issue equity and pass an investor's diligence checklist, and Delaware is the jurisdiction that ecosystem is built on. Investors' standard documents assume Delaware corporate law, the Delaware Court of Chancery produces predictable precedent, and a C-Corp's stock plan, 83(b) elections and preferred-share mechanics all have well-worn templates there. If you intend to raise a priced round from US funds, paying $300 to $450 a year for that predictability is not waste. It is the cost of the asset you are selling.\n\nThe problem is that most non-US founders buying a formation package are not raising a US round. They are an indie developer or a two-person SaaS team who needs a US entity for one reason: to accept card payments as a US business, hold a US business bank account and stop paying a Merchant of Record 5%. That founder is paying a Delaware franchise tax for a legal infrastructure they will never use.\n\n> **The decision rule:** choose Delaware when a priced equity round, a US stock plan or a US acquirer is on the roadmap within 24 months. Choose Wyoming when you are optimising for a low, predictable annual bill and privacy — Wyoming does not publish member names in its public filings. Do not choose Delaware because a formation page defaulted to it.\n\nThere is a second-order cost that the fee tables never show: converting later. A Wyoming LLC can convert into a Delaware C-Corp when a round actually happens, and the conversion is a normal, well-documented exercise. Paying for Delaware for three years in case a round materialises in year four is paying insurance against a decision you can simply make later.\n\n## IRS Form 5472 and pro forma Form 1120: the $25,000 line\n\nThis is the part of the cost model that decides whether any of the above is affordable, and it is identical for all three providers. A single-member LLC owned by a non-resident alien is a *disregarded entity* for income tax, but it is still a reporting corporation. It must file **IRS Form 5472** together with a **pro forma Form 1120**, disclosing reportable transactions between the foreign owner and the US company — including contributions, distributions, and amounts paid on the owner's behalf.\n\nThe penalty for failing to file, or for filing an incomplete form, is **$25,000 per form, per year**. It is not a percentage of revenue and it is not waived because the company had no profit or no activity. Additional penalties can accrue for continuing failures after IRS notice. This single line item dwarfs the entire three-year difference between every provider in the table above, which is why \"cheap formation\" is a meaningless claim if the filing is not handled.\n\n| Filing duty | Who | Deadline | Cost if ignored |\n|---|---|---|---|\n| Form 5472 + pro forma Form 1120 | Foreign-owned single-member LLC (disregarded entity) | 15 April (calendar year); 15 October with Form 7004 | $25,000 per form |\n| State annual report / franchise tax | Every LLC or corporation in the state of formation | Anniversary or fixed state date | State penalty + dissolution risk |\n| Registered agent renewal | Every entity; the agent must have a physical state address | Annual | Administrative dissolution |\n\nThree things are worth stating precisely, because they are the usual sources of a five-figure surprise:\n\n- **No activity is not an exemption.** A dormant LLC with a foreign owner still has a filing obligation. Zero revenue generates a zero-information return, not a skipped one.\n- **The form is attached to a pro forma 1120.** Sending a 5472 alone is an incomplete filing. The two documents travel together.\n- **Reasonable cause is a defence, not a plan.** The IRS can abate the penalty where the failure was due to reasonable cause and the taxpayer acted in good faith, but that is an argument made after a notice arrives, with professional fees attached, and it is not something to budget around.\n\n### What the filing actually costs\n\nThere are three legitimate routes, and their price differences explain most of the spread in the market:\n\n- **Do it yourself:** $0 in fees, several hours of learning, and the full $25,000 exposure if you get the transaction categories wrong.\n- **A specialist preparer or CPA:** typically a few hundred dollars a year for a straightforward single-member LLC with a handful of owner transactions. This is the route most first-time foreign founders should price.\n- **A bundled compliance subscription:** Doola's Total Compliance at $1,999 a year covers the tax preparation and bookkeeping alongside the agent and address. It is the most expensive route per year and the one with the fewest moving parts.\n\n| 3-year basket | Formation + state + agent | 5472 preparation (3 years) | 3-year total |\n|---|---|---|---|\n| Firstbase Wyoming + independent preparer | $876 | $1,200 | **$2,076** |\n| Stripe Atlas Delaware LLC + independent preparer | $1,600 | $1,200 | $2,800 |\n| Doola Total Compliance Wyoming (filing bundled) | $6,177 | included | $6,177 |\n\n*Preparer allowance: $400 per year for a straightforward single-member LLC 5472 plus pro forma 1120. Substitute your own quote; the ranking of the formation routes does not change, only the totals.*\n\nOnce the tax filing is priced in, the honest comparison is **$2,076 versus $2,800 versus $6,177**. The formation fee is 19% of the first basket, 18% of the second, and 32% of the third, because a subscription that already includes the tax work has no separate preparer line.\n\n## Three founder profiles, three correct answers\n\n**The solo SaaS founder with no funding plans.** $8,000 MRR, one product, customers in forty countries, no intention of raising. Wyoming LLC, modular agent, independent 5472 preparer. Three-year basket $2,076, or $692 a year. This is the configuration the $876 row exists for, and it is the one that makes the US LLC route obviously cheaper than a 5% Merchant of Record.\n\n**The founder who will raise in 18 months.** Delaware C-Corp, standard equity documents, the full Atlas pipeline. Three-year basket $3,250 with a preparer, plus the corporate and franchise filings a C-Corp adds. The extra $300 to $450 a year is the entry ticket to the financing market, and it is cheap relative to a botched conversion.\n\n**The founder who wants one invoice and no admin.** Doola Total Compliance at $1,999 a year, or Starter at $297 if the tax work is handled elsewhere. You are buying the removal of a monthly admin task, not the lowest total. That is a legitimate purchase, as long as you know you are paying roughly $5,000 over three years for it compared with the modular route.\n\n## The payback, in revenue terms\n\nThe whole entity decision only makes sense against the processing bill it is meant to reduce. At $8,000 MRR with a $40 average order value, a 5% Merchant of Record costs 5% plus about 50 cents per order: **$500 a month**, which is $6,000 a year. Stripe's US card rate plus the 1.5% international surcharge on a 70% international card mix charges **$376 a month** in processing fees on the same volume.\n\nSpread the three-year totals over three years and add the $400 preparer allowance, and the annual holding cost of each route is: Firstbase Wyoming **$692**, Stripe Atlas Delaware LLC **$933**, Doola Total Compliance **$2,059**.\n\n| Route at $8,000 MRR, $40 AOV, 70% international | Annual holding cost | Monthly all-in | Annual result vs 5% MoR |\n|---|---|---|---|\n| Firstbase · Wyoming LLC + preparer | $692 | $433.67 | +$796 saved |\n| Stripe Atlas · Delaware LLC + preparer | $933 | $453.78 | +$555 saved |\n| Doola Total Compliance · Wyoming | $2,059 | $547.58 | −$571 lost |\n| Stay on the 5% Merchant of Record | $0 | $500.00 | baseline |\n\n*Processing: Stripe rate = 2.9% + 70% × 1.5% international = 3.95%, plus $0.30 × 200 orders. MoR = 5% × $8,000 + $0.50 × 200 orders. Annual holding cost = three-year total ÷ 3, plus $400 per year of Form 5472 preparation (included in the Doola Total Compliance basket).*\n\nThe same arithmetic runs backwards into a break-even. With a 3.95% processing rate and a $40 average order, each dollar of monthly revenue contributes 1.55 cents of advantage to the self-managed route: 1.05 points of rate plus 20 cents of fixed-fee difference spread across $40. Divide a structure's monthly holding cost by 0.0155 and you get the revenue at which that structure starts to pay for itself.\n\n| Structure | Monthly holding cost | Break-even MRR | Verdict at $8,000 MRR |\n|---|---|---|---|\n| Firstbase · Wyoming LLC + preparer | $57.67 | $3,720 | clears by $4,280 |\n| Stripe Atlas · Delaware LLC + preparer | $77.78 | $5,018 | clears by $2,982 |\n| Doola Total Compliance · Wyoming | $171.58 | $11,070 | $3,070 short |\n\nRead the last column as a sentence: the state and package you choose decides which revenue levels make a US company rational at all. Wyoming plus a modular agent starts paying at **$3,720 MRR**. Delaware-only starts at **$5,018**. A **$1,999** all-in compliance subscription needs **$11,070 MRR** before the structure is cheaper than simply paying a Merchant of Record 5%.\n\nThat is the entire argument in one paragraph: the entity is a cost centre attached to a processing saving. Pick the cheapest structure that legally supports the saving you are chasing, and spend the difference on the filing that carries the $25,000 penalty.\n\n## Run your own card mix before you choose a state\n\nThe calculator uses the same formulas as this article and rewrites its URL as you move the sliders, so the link you share is the scenario you priced. Load the 70% international, $8,000 MRR case below and change one input at a time.\n\n- **[Load $8,000 MRR / 70% international →](https://pay.mybskm.top/?mrr=8000&aov=40&intl=70)**\n- **[Open the live payment calculator →](https://pay.mybskm.top/)**\n- **[Read the full teardown with every table and source note →](https://pay.mybskm.top/blog/firstbase-vs-stripe-atlas-vs-doola.html)**\n\nFree, no signup, no analytics.\n\n## If the arithmetic says form the company\n\nFormation is the next decision, not the first one. Verify the state fee, the agent renewal and the 5472 quote for your own facts before paying for anything.\n\n**[Start a US LLC with Firstbase ($399 + state fee) ↗](https://go.272738.xyz/firstbase?src=devto_firstbase_atlas)**\n\n*Affiliate link: a commission may be paid at no extra cost to you. Firstbase's $399 package excludes state fees and optional add-ons such as the registered agent service.*\n\n## Method and sources\n\nEvery number in this article is a multiplication of a published rate by the number of years it recurs. The model is deliberately boring: no promotional pricing, no first-year discounts, no referral credits, and no assumption that any provider waives a renewal. Where a provider publishes a range, the model uses the conservative end for that provider.\n\n- Firstbase formation package and registered agent add-on: Firstbase published pricing, verified October 2026.\n- Stripe Atlas formation package and registered agent renewal: Stripe published pricing, verified October 2026.\n- Doola Starter ($297/year) and Tax and Compliance ($1,999/year, plus state fees): Doola published pricing, verified October 2026.\n- Wyoming annual report ($60 minimum), Delaware LLC franchise tax ($300) and C-Corp minimum franchise tax ($450): state fee schedules, verified October 2026.\n- Form 5472 with pro forma Form 1120 for foreign-owned disregarded entities, and the $25,000 penalty: IRS instructions and published guidance.\n\nIf your facts differ — multiple states, employees, sales tax nexus, a conversion, a real funding round — replace the inputs. The structure of the calculation does not change, and it will still tell you which line is dominating your bill.\n\n*Related research on this site: [The 5% MoR Illusion: exact US LLC + Stripe breakeven](https://pay.mybskm.top/blog/mor-vs-us-llc-breakeven.html), and the [live payment calculator](https://pay.mybskm.top/).*",
+  "author": "600me",
+  "created_at": "2026-10-19T07:13:01Z",
+  "engagement": {
+   "points": 0,
+   "comments": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 11070.0,
+  "revenue_evidence": "ts at **$5,018**. A **$1,999** all-in compliance subscription needs **$11,070 MRR** before the structure is cheaper than",
+  "revenue_confidence": 0.85,
+  "industries": [
+   "legal_ai"
+  ],
+  "halal_status": "review",
+  "halal_reasons": [
+   "needs review: insurance"
+  ],
+  "score": 35.58,
+  "llm": null,
+  "first_seen": "2026-10-19T13:27:52+00:00",
+  "last_seen": "2026-10-19T13:27:52+00:00",
+  "uid": "c16ec379ad69fea7"
+ },
+ {
+  "rank": 13,
   "source": "reddit/r/microsaas",
   "source_id": "1x1fqnj",
   "title": "I’m pouring my heart and soul into this project… subscriptions are trickling in, but I’ve got ADHD and I’m not going down without a fight, haha.",
@@ -275,7 +333,7 @@
   "uid": "2c8edf751e2adcca"
  },
  {
-  "rank": 12,
+  "rank": 14,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3dndd",
   "title": "Four months from launch to exit. This is the new world of business.",
@@ -298,7 +356,7 @@
   "uid": "97e07dd067ecda2f"
  },
  {
-  "rank": 13,
+  "rank": 15,
   "source": "reddit/r/SaaS",
   "source_id": "1x4310s",
   "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
@@ -321,7 +379,7 @@
   "uid": "6fda2f3d36e8a321"
  },
  {
-  "rank": 14,
+  "rank": 16,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x50la2",
   "title": "I productized my old agency and got backed by Y Combinator. Here's 5 things I learnt along the way:",
@@ -344,7 +402,7 @@
   "uid": "8dc77651de734391"
  },
  {
-  "rank": 15,
+  "rank": 17,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -367,7 +425,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 16,
+  "rank": 18,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -392,7 +450,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 17,
+  "rank": 19,
   "source": "reddit/r/microsaas",
   "source_id": "1x3v6h7",
   "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
@@ -417,7 +475,7 @@
   "uid": "cbe9ecfc0ee23897"
  },
  {
-  "rank": 18,
+  "rank": 20,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x58c6l",
   "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
@@ -442,7 +500,7 @@
   "uid": "31469b887e85b4c2"
  },
  {
-  "rank": 19,
+  "rank": 21,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -465,7 +523,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 20,
+  "rank": 22,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -492,7 +550,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 21,
+  "rank": 23,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -515,7 +573,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 22,
+  "rank": 24,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
   "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
@@ -534,11 +592,11 @@
   "score": 25.0,
   "llm": null,
   "first_seen": "2026-10-18T20:52:00+00:00",
-  "last_seen": "2026-10-19T04:50:02+00:00",
+  "last_seen": "2026-10-19T13:27:52+00:00",
   "uid": "906e0e7c45fe4249"
  },
  {
-  "rank": 23,
+  "rank": 25,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -561,7 +619,7 @@
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 24,
+  "rank": 26,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -584,7 +642,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 25,
+  "rank": 27,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -607,7 +665,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 26,
+  "rank": 28,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -630,7 +688,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 27,
+  "rank": 29,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -653,7 +711,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 28,
+  "rank": 30,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -676,7 +734,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 29,
+  "rank": 31,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -699,7 +757,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 30,
+  "rank": 32,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -722,7 +780,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 31,
+  "rank": 33,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -745,7 +803,7 @@
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 32,
+  "rank": 34,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -768,7 +826,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 33,
+  "rank": 35,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -791,7 +849,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 34,
+  "rank": 36,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -814,7 +872,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 35,
+  "rank": 37,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -837,7 +895,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 36,
+  "rank": 38,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -860,7 +918,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 37,
+  "rank": 39,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -883,7 +941,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 38,
+  "rank": 40,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -906,7 +964,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 39,
+  "rank": 41,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -929,7 +987,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 40,
+  "rank": 42,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -952,7 +1010,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 41,
+  "rank": 43,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -978,7 +1036,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 42,
+  "rank": 44,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",

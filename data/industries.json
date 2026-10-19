@@ -13,7 +13,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
   "qualified_ideas": 2,
   "median_mrr": 21000.0,
-  "signals_7d": 364
+  "signals_7d": 349
  },
  {
   "key": "edtech_ai",
@@ -75,9 +75,9 @@
   "hypergrowth": false,
   "halal_economy": false,
   "source": "https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html",
-  "qualified_ideas": 0,
-  "median_mrr": null,
-  "signals_7d": 34
+  "qualified_ideas": 2,
+  "median_mrr": 9535.0,
+  "signals_7d": 35
  },
  {
   "key": "agritech_ai",
@@ -109,7 +109,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 30
+  "signals_7d": 28
  },
  {
   "key": "ecommerce_tools",
@@ -125,7 +125,7 @@
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
   "qualified_ideas": 6,
   "median_mrr": 1000.0,
-  "signals_7d": 68
+  "signals_7d": 69
  },
  {
   "key": "climate_carbon",
@@ -141,7 +141,7 @@
   "source": "https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 88
+  "signals_7d": 89
  },
  {
   "key": "islamic_fintech",
@@ -173,6 +173,6 @@
   "source": "https://www.dinarstandard.com/insights/sgier-2024-25",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 8
+  "signals_7d": 7
  }
 ]
