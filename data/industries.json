@@ -13,7 +13,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
   "qualified_ideas": 2,
   "median_mrr": 21000.0,
-  "signals_7d": 349
+  "signals_7d": 351
  },
  {
   "key": "edtech_ai",
@@ -29,7 +29,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-in-education-market",
   "qualified_ideas": 2,
   "median_mrr": 20500.0,
-  "signals_7d": 56
+  "signals_7d": 55
  },
  {
   "key": "healthcare_ai",
@@ -45,7 +45,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 60
+  "signals_7d": 59
  },
  {
   "key": "vertical_ai_saas",
@@ -61,7 +61,7 @@
   "source": "https://marketintelo.com/report/vertical-ai-saas-platform-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 6
+  "signals_7d": 8
  },
  {
   "key": "legal_ai",
@@ -77,7 +77,7 @@
   "source": "https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html",
   "qualified_ideas": 2,
   "median_mrr": 9535.0,
-  "signals_7d": 35
+  "signals_7d": 32
  },
  {
   "key": "agritech_ai",
@@ -109,7 +109,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 28
+  "signals_7d": 24
  },
  {
   "key": "ecommerce_tools",
@@ -125,7 +125,7 @@
   "source": "estimate \u2014 Shopify-app & creator-economy tooling (refresh from market-intel signals)",
   "qualified_ideas": 6,
   "median_mrr": 1000.0,
-  "signals_7d": 69
+  "signals_7d": 67
  },
  {
   "key": "climate_carbon",
@@ -141,7 +141,7 @@
   "source": "https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 89
+  "signals_7d": 81
  },
  {
   "key": "islamic_fintech",
@@ -157,7 +157,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/islamic-fintech-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 4
+  "signals_7d": 5
  },
  {
   "key": "halal_economy",
