@@ -24,7 +24,7 @@
   "score": 66.72,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-21T17:19:34+00:00",
+  "last_seen": "2026-10-21T21:49:03+00:00",
   "uid": "9294271293706082"
  },
  {
@@ -54,7 +54,7 @@
   "score": 62.07,
   "llm": null,
   "first_seen": "2026-10-14T21:47:36+00:00",
-  "last_seen": "2026-10-21T17:19:34+00:00",
+  "last_seen": "2026-10-21T21:49:03+00:00",
   "uid": "a6a92e01e251e9f5"
  },
  {
@@ -136,7 +136,7 @@
   "score": 53.31,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-21T17:19:34+00:00",
+  "last_seen": "2026-10-21T21:49:03+00:00",
   "uid": "e7b8a5339abde94f"
  },
  {
@@ -407,7 +407,7 @@
   "score": 35.58,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-21T17:19:34+00:00",
+  "last_seen": "2026-10-21T21:49:03+00:00",
   "uid": "c16ec379ad69fea7"
  },
  {
@@ -671,6 +671,29 @@
  },
  {
   "rank": 28,
+  "source": "reddit/r/microsaas",
+  "source_id": "1xbcsd4",
+  "title": "I stopped building AI apps and started doing Reddit marketing by hand. $17k MRR, two YC clients and a $1B enterprise.",
+  "url": "https://www.reddit.com/r/microsaas/comments/1xbcsd4/i_stopped_building_ai_apps_and_started_doing/",
+  "text": "Hi folks,\nI want to share a personal story for anyone trying to get a business off the ground.\nThe short version: I don’t think you can make money with just code anymore. You have to move into something with real labor in it, something that can’t be automated.\nFor me that’s Reddit marketing. I run a small AI-native agency that helps businesses show up on Reddit. I picked it because you can’t automate it. Reddit bans automation on sight.\nHow I got here\nI spent two years building Writingmate. Before 2025 we got crazy traffic from free tools. Then AI search arrived and the traffic dried up.\nSo I went to figure out Reddit. Remember when everyone said ChatGPT cites Reddit? I tried it and flopped completely. The people I hired got banned almost immediately.\nEventually I learned how to actually engage there, and Reddit grew to 25% of our customers. That still wasn’t enough to get back to pre-AI-search numbers, and Writingmate’s margins were thin.\nI figured what I’d learned about Reddit was worth something. First I built a tool to automate Reddit posting. It didn’t work, especially after the latest wave of bans. That’s when it clicked: automation isn’t what matters. What matters is engaging with Reddit in a genuine way.\nSo I started offering done-for-you Reddit marketing, and it took off.\nThe numbers\nMonth one: 2 clients at $2k each\nRaised the price to $3k, then kept going\nNow at $17k MRR\nOne client cancelled, and they still bring in $8k\nClients now include two YC companies and an enterprise doing over $1B in revenue\nWhat we actually do\nWe write deep, thoughtful product reviews, like YouTube reviews but on Reddit. Not every subreddit wants that, but some really do. When a post works, Google indexes it.\nWe also grow brand subreddits for our customers. Something we learned: a brand subreddit gets indexed just as well as any other subreddit, and it’s fully within Reddit’s rules.\nResults\nFor one customer, our posts are the #2 most-cited source in Google’s AI Overviews for their main category keyword\nFor another, we completely own their main keyword\nHow I pick clients\nMy one rule: I don’t sell what I can’t deliver. So I only take on companies I’m confident will do well, and that comes down to two groups.\nGenerative AI products. I’ve done this myself. We promoted Writingmate’s video and image features on Reddit and it worked, so I know what lands and which subreddits welcome it.\nDev tools. I’m an engineer, and Reddit is full of engineers. I know how they talk, what they find useful and what they’ll call out as marketing. That makes the posts better and makes it easier to tell early whether a product will work.\nPersonal finance is where I broke the rule. I had no firsthand experience there, and it shows in the results.\nWhy the market is there\nOrganic marketing is broken. SEO is down and GEO is unpredictable, so marketers will spend money on almost anything just to test it.\nAs a software engineer this makes me a little sad. But we have to adapt. I stopped chasing AI projects, built the thing I needed myself, and it’s working.\nHappy to answer questions.\nsubmitted by /u/Evening_Hawk_7470\n[link] [comments]",
+  "author": "/u/Evening_Hawk_7470 https://www.reddit.com/user/Evening_Hawk_7470",
+  "created_at": "2026-10-21T03:44:39+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 17000.0,
+  "revenue_evidence": "stopped building AI apps and started doing Reddit marketing by hand. $17k MRR, two YC clients and a $1B enterprise. H",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 28.44,
+  "llm": null,
+  "first_seen": "2026-10-21T21:49:03+00:00",
+  "last_seen": "2026-10-21T21:49:03+00:00",
+  "uid": "964e4ca93ab0cffc"
+ },
+ {
+  "rank": 29,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -697,7 +720,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 29,
+  "rank": 30,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -720,7 +743,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 30,
+  "rank": 31,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
   "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
@@ -743,7 +766,7 @@
   "uid": "906e0e7c45fe4249"
  },
  {
-  "rank": 31,
+  "rank": 32,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -766,7 +789,7 @@
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 32,
+  "rank": 33,
   "source": "reddit/r/SideProject",
   "source_id": "1x9h1yz",
   "title": "My side project outgrew my 9-5 salary",
@@ -789,7 +812,7 @@
   "uid": "71a93d238e3d6175"
  },
  {
-  "rank": 33,
+  "rank": 34,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -812,7 +835,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 34,
+  "rank": 35,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -835,7 +858,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 35,
+  "rank": 36,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -858,7 +881,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 36,
+  "rank": 37,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -881,7 +904,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 37,
+  "rank": 38,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -904,7 +927,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 38,
+  "rank": 39,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -927,7 +950,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 39,
+  "rank": 40,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -950,7 +973,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 40,
+  "rank": 41,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -969,11 +992,11 @@
   "score": 18.26,
   "llm": null,
   "first_seen": "2026-10-18T15:58:04+00:00",
-  "last_seen": "2026-10-19T04:50:02+00:00",
+  "last_seen": "2026-10-21T21:49:03+00:00",
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 41,
+  "rank": 42,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -996,7 +1019,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 42,
+  "rank": 43,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -1019,7 +1042,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 43,
+  "rank": 44,
   "source": "reddit/r/SideProject",
   "source_id": "1xase0i",
   "title": "I made a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live",
@@ -1042,7 +1065,7 @@
   "uid": "8e8171f07db7e4c7"
  },
  {
-  "rank": 44,
+  "rank": 45,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -1065,7 +1088,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 45,
+  "rank": 46,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -1088,7 +1111,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 46,
+  "rank": 47,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -1111,7 +1134,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 47,
+  "rank": 48,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -1134,7 +1157,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 48,
+  "rank": 49,
   "source": "hackernews/comment",
   "source_id": "50169017",
   "title": "Comment on: Facebook now charging to post more than 2 links a month",
@@ -1160,7 +1183,7 @@
   "uid": "d5ae04bec44b4200"
  },
  {
-  "rank": 49,
+  "rank": 50,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -1183,7 +1206,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 50,
+  "rank": 51,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -1206,7 +1229,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 51,
+  "rank": 52,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -1229,7 +1252,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 52,
+  "rank": 53,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -1255,7 +1278,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 53,
+  "rank": 54,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
