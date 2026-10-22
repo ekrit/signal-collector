@@ -24,7 +24,7 @@
   "score": 66.72,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-21T21:49:03+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
   "uid": "9294271293706082"
  },
  {
@@ -108,7 +108,7 @@
   "score": 57.0,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-20T21:43:36+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
   "uid": "508fb182e14c770e"
  },
  {
@@ -136,7 +136,7 @@
   "score": 53.31,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-21T21:49:03+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
   "uid": "e7b8a5339abde94f"
  },
  {
@@ -331,7 +331,7 @@
   "score": 38.75,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-20T21:43:36+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
   "uid": "aeb9d96eb36e6cf8"
  },
  {
@@ -407,7 +407,7 @@
   "score": 35.58,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-21T21:49:03+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
   "uid": "c16ec379ad69fea7"
  },
  {
@@ -744,6 +744,29 @@
  },
  {
   "rank": 31,
+  "source": "reddit/r/SaaS",
+  "source_id": "1xbst67",
+  "title": "When did you move beyond Stripe for usage based SaaS billing?",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xbst67/when_did_you_move_beyond_stripe_for_usage_based/",
+  "text": "We're building usage based billing on top Stripe and the edge cases are taking much longer than expected.\nWe're running into issues around usage reconciliation, webhook, retries , billing period timestamps, refunds and mid cycle plan changes.\nAt around $5k MRR, I'm wondering whether it makes more sense to keep engineering around those edge cases or move to a dedicated billing system.\nFor those running usage based SaaS when did you decide Stripe was no longer enough, and what approach worked for you?\nsubmitted by /u/TheRealRobbie_04\n[link] [comments]",
+  "author": "/u/TheRealRobbie_04 https://www.reddit.com/user/TheRealRobbie_04",
+  "created_at": "2026-10-21T17:01:30+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 5000.0,
+  "revenue_evidence": "ling period timestamps, refunds and mid cycle plan changes. At around $5k MRR, I'm wondering whether it makes more se",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 25.48,
+  "llm": null,
+  "first_seen": "2026-10-22T04:58:36+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
+  "uid": "7f4c3587b8f2df37"
+ },
+ {
+  "rank": 32,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
   "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
@@ -766,7 +789,7 @@
   "uid": "906e0e7c45fe4249"
  },
  {
-  "rank": 32,
+  "rank": 33,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -785,11 +808,11 @@
   "score": 24.03,
   "llm": null,
   "first_seen": "2026-10-17T04:36:31+00:00",
-  "last_seen": "2026-10-20T21:43:36+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 33,
+  "rank": 34,
   "source": "reddit/r/SideProject",
   "source_id": "1x9h1yz",
   "title": "My side project outgrew my 9-5 salary",
@@ -812,7 +835,7 @@
   "uid": "71a93d238e3d6175"
  },
  {
-  "rank": 34,
+  "rank": 35,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -835,7 +858,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 35,
+  "rank": 36,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -858,7 +881,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 36,
+  "rank": 37,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -881,7 +904,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 37,
+  "rank": 38,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -904,7 +927,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 38,
+  "rank": 39,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -927,7 +950,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 39,
+  "rank": 40,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -950,7 +973,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 40,
+  "rank": 41,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -973,7 +996,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 41,
+  "rank": 42,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -996,7 +1019,7 @@
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 42,
+  "rank": 43,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -1019,7 +1042,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 43,
+  "rank": 44,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -1042,7 +1065,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 44,
+  "rank": 45,
   "source": "reddit/r/SideProject",
   "source_id": "1xase0i",
   "title": "I made a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live",
@@ -1065,7 +1088,7 @@
   "uid": "8e8171f07db7e4c7"
  },
  {
-  "rank": 45,
+  "rank": 46,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -1088,7 +1111,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 46,
+  "rank": 47,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -1111,7 +1134,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 47,
+  "rank": 48,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -1134,7 +1157,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 48,
+  "rank": 49,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -1157,7 +1180,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 49,
+  "rank": 50,
   "source": "hackernews/comment",
   "source_id": "50169017",
   "title": "Comment on: Facebook now charging to post more than 2 links a month",
@@ -1183,7 +1206,7 @@
   "uid": "d5ae04bec44b4200"
  },
  {
-  "rank": 50,
+  "rank": 51,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -1206,7 +1229,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 51,
+  "rank": 52,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -1229,7 +1252,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 52,
+  "rank": 53,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -1252,7 +1275,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 53,
+  "rank": 54,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -1278,7 +1301,32 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 54,
+  "rank": 55,
+  "source": "reddit/r/SaaS",
+  "source_id": "1xblvsx",
+  "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xblvsx/from_0_to_1k_mrr_how_fixing_my_seo_funnel_turned/",
+  "text": "Hey r/SaaS ,\nFor the past 7 months, I’ve been building RPGMapEditor.com - a web-based map editor for tabletop RPGs and D&D players.\nUp until august, the project was generating $0. I had built free generators (fantasy maps, dungeons, cities) which started bringing in organic search traffic (around 1,000+ monthly clicks from Google), but nobody was converting to the paid tier.\n2 weeks ago, I redesigned the conversion flow between the free tools and the premium editor ($3/mo tier & €14.99 lifetime license).\nHere is what happened in October:\n- 📈 MRR: €1.000+ (First recurring subscribers!)\n- 🔍 100% Organic traffic (0 spent on ads) all comes from Bing, and Google Search!\nKey takeaways that moved the needle:\nFree tools are great for SEO, but you MUST give users a clear reason to save/export in the editor.\nMicro-pricing ($3/mo) works insanely well for hobbyist niches (D&D/gaming) where people hesitate to spend $20+/mo.\nOrganic search traffic compound interest is real – it took 3 months of low clicks before Search Console shot up.\nIt’s small money, but going from absolute zero to actual validated revenue feels incredible.\nHappy to answer any questions about the tech stack, SEO strategy, or conversion tweaks!\nsubmitted by /u/ExistentialHugger\n[link] [comments]",
+  "author": "/u/ExistentialHugger https://www.reddit.com/user/ExistentialHugger",
+  "created_at": "2026-10-21T12:31:57+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1080.0,
+  "revenue_evidence": "From 0 to €1k MRR: How fixing my SEO funnel turned my fre",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "review",
+  "halal_reasons": [
+   "needs review: gaming"
+  ],
+  "score": 10.85,
+  "llm": null,
+  "first_seen": "2026-10-22T04:58:36+00:00",
+  "last_seen": "2026-10-22T04:58:36+00:00",
+  "uid": "50e65bdd6af2fc12"
+ },
+ {
+  "rank": 56,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
