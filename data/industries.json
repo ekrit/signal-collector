@@ -13,7 +13,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/ai-agents.asp",
   "qualified_ideas": 4,
   "median_mrr": 22947.0,
-  "signals_7d": 351
+  "signals_7d": 344
  },
  {
   "key": "edtech_ai",
@@ -45,7 +45,7 @@
   "source": "https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 36
+  "signals_7d": 33
  },
  {
   "key": "vertical_ai_saas",
@@ -93,7 +93,7 @@
   "source": "https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 25
+  "signals_7d": 26
  },
  {
   "key": "ai_cybersecurity",
@@ -109,7 +109,7 @@
   "source": "https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 60
+  "signals_7d": 59
  },
  {
   "key": "ecommerce_tools",
@@ -141,7 +141,7 @@
   "source": "https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 87
+  "signals_7d": 67
  },
  {
   "key": "islamic_fintech",
@@ -173,6 +173,6 @@
   "source": "https://www.dinarstandard.com/insights/sgier-2024-25",
   "qualified_ideas": 0,
   "median_mrr": null,
-  "signals_7d": 25
+  "signals_7d": 24
  }
 ]
