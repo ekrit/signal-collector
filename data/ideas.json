@@ -24,7 +24,7 @@
   "score": 66.72,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T20:57:14+00:00",
   "uid": "9294271293706082"
  },
  {
@@ -108,7 +108,7 @@
   "score": 57.0,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-24T04:45:16+00:00",
+  "last_seen": "2026-10-25T20:57:14+00:00",
   "uid": "508fb182e14c770e"
  },
  {
@@ -136,7 +136,7 @@
   "score": 53.31,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T20:57:14+00:00",
   "uid": "e7b8a5339abde94f"
  },
  {
@@ -165,7 +165,7 @@
   "score": 49.29,
   "llm": null,
   "first_seen": "2026-10-23T11:47:08+00:00",
-  "last_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T20:57:14+00:00",
   "uid": "f445303feb73f3ec"
  },
  {
@@ -484,7 +484,7 @@
   "score": 35.58,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T20:57:14+00:00",
   "uid": "c16ec379ad69fea7"
  },
  {
@@ -1399,6 +1399,29 @@
  },
  {
   "rank": 59,
+  "source": "reddit/r/SaaS",
+  "source_id": "1xenqz6",
+  "title": "Why is every \"$10k MRR in 30 days\" thread written by someone selling a course?",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xenqz6/why_is_every_10k_mrr_in_30_days_thread_written_by/",
+  "text": "I've been building for a couple of years. The founders I actually know are at $2-4k MRR after 18 months, and they're proud of it.\nBut my feed is all \"how I hit $10k MRR in 30 days\" followed by a link to a $497 playbook.\nNot hating, people gotta eat. I'd just love more honest posts about slow growth, churn, and the months nothing worked.\nsubmitted by /u/Top-Try419\n[link] [comments]",
+  "author": "/u/Top-Try419 https://www.reddit.com/user/Top-Try419",
+  "created_at": "2026-10-25T00:03:40+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 4000.0,
+  "revenue_evidence": "uilding for a couple of years. The founders I actually know are at $2-4k MRR after 18 months, and they're proud of i",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 14.42,
+  "llm": null,
+  "first_seen": "2026-10-25T20:57:14+00:00",
+  "last_seen": "2026-10-25T20:57:14+00:00",
+  "uid": "31efc38746053407"
+ },
+ {
+  "rank": 60,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -1421,7 +1444,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 60,
+  "rank": 61,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -1444,7 +1467,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 61,
+  "rank": 62,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -1470,7 +1493,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 62,
+  "rank": 63,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -1495,7 +1518,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 63,
+  "rank": 64,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
