@@ -24,7 +24,7 @@
   "score": 66.72,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-25T11:41:04+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
   "uid": "9294271293706082"
  },
  {
@@ -136,7 +136,7 @@
   "score": 53.31,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-25T11:41:04+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
   "uid": "e7b8a5339abde94f"
  },
  {
@@ -165,7 +165,7 @@
   "score": 49.29,
   "llm": null,
   "first_seen": "2026-10-23T11:47:08+00:00",
-  "last_seen": "2026-10-25T11:41:04+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
   "uid": "f445303feb73f3ec"
  },
  {
@@ -436,6 +436,29 @@
  },
  {
   "rank": 18,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1xavtx9",
+  "title": "I turned my biggest frustration with Squarespace into a $400K ARR SaaS. Here’s how.",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xavtx9/i_turned_my_biggest_frustration_with_squarespace/",
+  "text": "Five years ago, I was working as a freelance web designer, mostly building Squarespace websites for clients.\nI kept running into the same problem.\nSquarespace made building websites easy, but whenever a client wanted something outside the standard templates, I’d spend hours writing custom CSS and finding workarounds.\nEventually, I got frustrated enough to build a drag-and-drop customization tool for Squarespace.\nIt took me four months to build the first version.\nToday, that project has grown into a bootstrapped SaaS doing $400K ARR.\nNo investors. No full-time employees. Just me and four part-time freelancers.\nHere are the biggest lessons I’ve learned.\n1. My first 10 customers came from helping strangers on a forum.\nWhen I launched, I started helping people on the Squarespace forum.\nPeople were already asking questions about the exact problems my product solved.\nBy helping them, I learned what they struggled with, built trust, and eventually got my first paying customers.\nFind where your potential customers are already asking for help, and become genuinely useful there.\n2. My biggest product mistake was assuming I knew what customers wanted.\nBecause I’d been building Squarespace websites myself, I thought I understood what people needed.\nSo I built features based on assumptions. Some were wrong.\nEventually, I started collecting more feedback and focusing on features people were actually requesting.\nIf I were starting again, I’d spend much more time talking to customers before deciding what to build.\n3. I’ve never hired a full-time employee.\nToday, I work with four freelancers, all working less than half-time.\nI’ve found people through Upwork, but also on platforms where they showcase their work.\nFor example, I found my designer through Awwwards and my social media manager on Instagram.\nSome have worked with me for years.\nHaving a small team of specialists gives me flexibility without needing to build a traditional organization.\n4. My most expensive hiring mistake was committing too early.\nEarly on, I hired freelancers for several months based on impressive portfolios and good first impressions.\nThen I’d discover their actual work didn’t match their presentation.\nThat cost me a lot of money.\nNow I always prefer starting with a small, paid test project before committing to anything longer.\n5. SEO was a goldmine, but I wouldn’t rely on it today.\nBetween 2021 and 2024, SEO was one of our strongest growth channels.\nPeople were searching for solutions to specific Squarespace problems, and we could help them.\nBut if I were starting the same business in 2026, I’d focus much more on YouTube.\nEspecially for visual products. Showing someone how to customize a website is often more compelling than explaining it in an article.\n6. SaaS growth feels painfully slow at first.\nOne thing I underestimated was how long it takes for recurring revenue to build.\nIn the beginning, you’re putting in a lot of work for relatively little revenue.\nBut as your subscriber base grows, things start to compound.\nWork you did months or years ago can continue generating revenue as long as you keep delivering value.\nIf I could go back to 2021, I’d tell myself three things: Stop guessing what customers want. Ask them.\nTest freelancers before committing to long-term contracts.\nBuild a business that can eventually operate without you doing everything.\nI started because I was frustrated with how difficult it was to customize Squarespace websites.\nFive years later, that frustration has turned into a $400K ARR business.\nFor other founders here: What’s one mistake you made early on that completely changed how you run your business?\nsubmitted by /u/Rasmusi\n[link] [comments]",
+  "author": "/u/Rasmusi https://www.reddit.com/user/Rasmusi",
+  "created_at": "2026-10-20T15:53:03+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 33333.33,
+  "revenue_evidence": "I turned my biggest frustration with Squarespace into a $400K ARR SaaS. Here’s how. Five years ago, I was",
+  "revenue_confidence": 0.95,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 35.95,
+  "llm": null,
+  "first_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
+  "uid": "6a372a89830c2d39"
+ },
+ {
+  "rank": 19,
   "source": "devto",
   "source_id": "4876037",
   "title": "Firstbase vs Stripe Atlas vs Doola (2026): True 3-Year US LLC, Registered Agent & IRS Form 5472 Cost for Non-US Founders",
@@ -461,11 +484,11 @@
   "score": 35.58,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-25T11:41:04+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
   "uid": "c16ec379ad69fea7"
  },
  {
-  "rank": 19,
+  "rank": 20,
   "source": "reddit/r/microsaas",
   "source_id": "1x1fqnj",
   "title": "I’m pouring my heart and soul into this project… subscriptions are trickling in, but I’ve got ADHD and I’m not going down without a fight, haha.",
@@ -488,7 +511,7 @@
   "uid": "2c8edf751e2adcca"
  },
  {
-  "rank": 20,
+  "rank": 21,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3dndd",
   "title": "Four months from launch to exit. This is the new world of business.",
@@ -511,7 +534,7 @@
   "uid": "97e07dd067ecda2f"
  },
  {
-  "rank": 21,
+  "rank": 22,
   "source": "reddit/r/SaaS",
   "source_id": "1x4310s",
   "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
@@ -534,7 +557,7 @@
   "uid": "6fda2f3d36e8a321"
  },
  {
-  "rank": 22,
+  "rank": 23,
   "source": "reddit/r/SaaS",
   "source_id": "1xaunb0",
   "title": "I checked 46 AI startups with \"verified\" revenue. The top 2 haven't updated their numbers in month",
@@ -557,7 +580,7 @@
   "uid": "82ac292c1b9e7ce9"
  },
  {
-  "rank": 23,
+  "rank": 24,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x50la2",
   "title": "I productized my old agency and got backed by Y Combinator. Here's 5 things I learnt along the way:",
@@ -580,7 +603,30 @@
   "uid": "8dc77651de734391"
  },
  {
-  "rank": 24,
+  "rank": 25,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1xdjnlc",
+  "title": "Entrepreneurs, for the love of god, stop contributing to AI slop. Here's what we do instead at a $200K ARR business:",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdjnlc/entrepreneurs_for_the_love_of_god_stop/",
+  "text": "It's not groundbreaking to say that most of the posts on this subreddit as well have been lazily written with AI and people have been generating so much founder led content because that seems to be the new meta.\nWhile Founder-led content is something that I personally do a lot, there are a couple of things that simply don't translate to views for your product or startup.\nAnd the number one thing on that list is AI slop. My goodness, if I see another post that says \"You don't have a X problem, you have a Y problem,\" I am going to absolutely crash out.\nMarketing lazily is the number one reason why anybody gets ignored at all. Do not expect to write a tweet or a thread or a post or an article with AI and expect it to blow up because you WILL be downvoted or disliked to oblivion.\nOur KPIs for my product have been X and Reddit and there are a very strict couple of guidelines that we tell our content team to follow. Here are a few of them which you could also implement:\nUse speech-to-text tools. Now this could be anything. It could be Wispr Flow and there are thousands of open-source speech-to-text tools out there. If you cannot write a whole post by yourself, at least do the bare minimum by dictating it using Wispr Flow. Now this is again the bare minimum. You would still need to do a little bit of editing yourself but this is definitely a good start.\nUsing text formatting when it's not necessary. I'm talking about random italics, bold, and strikethrough text when it definitely could be avoided. Nobody is going to believe that you're somebody who uses bold text for headings on a Reddit post man. Seriously who even uses it anymore? It doesn't sound authentic. It looks ugly as if I'm reading straight out of a software website.\nWriting 10 sentences when it could be communicated in one. Now I totally understand that going into detail would help people understand what you're trying to say better but the majority of the time it is such a vanity metric. If you can compress it as if it were an elevator pitch, then just do that. There is absolutely no reason to explain every single feature of your product because I guarantee you nobody is reading all of that.\nABSOLUTELY NO Antithesis phrasing: this is what makes people instantly guess that you've been writing posts with AI, contributing to the million other sloppy posts on the internet. Antithesis phrasing is when you say stuff like, \"It's not an X problem, it's a Y problem.\" Or \"don't do this, Instead do this.\" If you're going to use AI either way to write content for you, you might as well ask it to never use antithesis phrasing.\nFor example this is a before-and-after for what we personally do in a sentence, after applying all of these rules:\nBefore: PumpGTM turns buying signals into revenue, finding the people who need your product, not just filling a spreadsheet with leads, and turning intent into conversations through AI-powered outreach across LinkedIn, X, and email.\nAfter: PumpGTM finds your ICP in places where your competitors aren't looking for them. Likes, comments, tweets, LinkedIn posts, Reddit comments, etc, and DMs them and follows up until they book a meeting with you.\nDoesn't that instantly sound better? It looks like a human wrote it because I myself just did that. Here's the amazing thing: I did not have to type that. I just used Wispr Flow to write it. The first one was completely generated with ChatGPT.\nNow here is a small content strategy that you could be using for your business:\nDay 1: Ideate based off of what is working on a couple of Reddit subreddits, or Twitter hashtags, or anywhere where it is a topic cluster.\nDay 2: Write content in a very brief manner. This is writing very similarly to what has been written before that has been blowing up, but adding your own twist to it.\nDay 3: Dictating it on Reddit with Wispr Flow because you want to sound like a human.\nThese are some of the non-negotiables my team follows and I hope you're able to take away a little change to your content strategy from this post. For transparency I'm Namanyay, founder of PumpGTM.\nsubmitted by /u/namanyayg\n[link] [comments]",
+  "author": "/u/namanyayg https://www.reddit.com/user/namanyayg",
+  "created_at": "2026-10-23T17:00:27+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 16666.67,
+  "revenue_evidence": "of god, stop contributing to AI slop. Here's what we do instead at a $200K ARR business: It's not groundbreaking to sa",
+  "revenue_confidence": 0.95,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 31.66,
+  "llm": null,
+  "first_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
+  "uid": "100f52a299ebe8d0"
+ },
+ {
+  "rank": 26,
   "source": "reddit/r/SaaS",
   "source_id": "1xajfa0",
   "title": "Why does our infrastructure keep breaking, and should a startup just outsource it?",
@@ -603,7 +649,7 @@
   "uid": "e3c0669b9dfe86c7"
  },
  {
-  "rank": 25,
+  "rank": 27,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -626,7 +672,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 26,
+  "rank": 28,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -651,7 +697,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 27,
+  "rank": 29,
   "source": "reddit/r/microsaas",
   "source_id": "1x3v6h7",
   "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
@@ -676,7 +722,7 @@
   "uid": "cbe9ecfc0ee23897"
  },
  {
-  "rank": 28,
+  "rank": 30,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x58c6l",
   "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
@@ -701,7 +747,7 @@
   "uid": "31469b887e85b4c2"
  },
  {
-  "rank": 29,
+  "rank": 31,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -724,7 +770,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 30,
+  "rank": 32,
   "source": "reddit/r/microsaas",
   "source_id": "1xbcsd4",
   "title": "I stopped building AI apps and started doing Reddit marketing by hand. $17k MRR, two YC clients and a $1B enterprise.",
@@ -747,7 +793,30 @@
   "uid": "964e4ca93ab0cffc"
  },
  {
-  "rank": 31,
+  "rank": 33,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1xbtpt8",
+  "title": "I thought I had a $799/month SaaS business figured out. Then 3 potential customers told me they wouldn't pay for it.",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xbtpt8/i_thought_i_had_a_799month_saas_business_figured/",
+  "text": "I've been building an AI product that helps founders find potential customers and run outbound campaigns without having to figure out prospecting, messaging, and all the tools themselves.\nThe original business model seemed pretty straightforward.\nI'd sell it to around 200 outbound agencies at $799/month. They'd use it to run campaigns for their clients, and I'd have a business doing roughly $160K MRR if everything went according to plan.\nI was pretty confident about it until I showed it to 3 agency owners I knew.\nAll three of them gave me essentially the same feedback - why would I pay you $800/month for something I can build with Claude Code and manage myself?\nOne of them even estimated that he could do it in about 2 hours per week per client.\nNot exactly the response I was hoping for lol but I spent the next day questioning the entire business model.\nThe third agency owner said something that made me reconsider who I was actually building for.\nHe basically told me that agencies already know how to do outbound. They have their own prospecting methods, messaging frameworks, campaign strategies, and years of experience figuring out what works.\nThey don't necessarily need another tool to help them do what they're already good at.\nBut the founders paying these agencies thousands of dollars every month?\nThey need that expertise and most of them have no idea how to replicate it themselves.\nThat conversation completely changed how I thought about the product.\nInstead of selling software to 200 agencies at $799/month, what if I could take the strategies these agencies have developed and make them accessible to thousands of founders at a much lower price?\nThe agencies wouldn't be my customers anymore.\nThey'd be the experts whose knowledge powers the product.\nI liked this model a lot more. It also felt like a much bigger opportunity but there was one problem I hadn't really thought through.\nGetting agencies to share the strategies that make them money is incredibly difficult.\nSome of these agencies charge clients around $5K/month.\nTheir campaign data, messaging frameworks, and prospecting strategies are a big part of what makes them valuable.\nAnd here I was asking them to license that knowledge to a product that would eventually sell access to it for a fraction of what they charge.\nEven when someone likes the idea, getting an agreement signed can take weeks.\nThere are questions about data ownership, confidentiality, how their knowledge will be used, and what happens as the product improves.\nOriginally, I thought we'd have around 100 experts contributing their playbooks.\nRight now, we have 40.\nAnd almost every conversation eventually comes back to the same question:\n\"If I give you everything I've learned about outbound, what stops your AI from replacing the need for me next year?\"\nIt's a fair question. And one I don't think you can answer with a generic promise about AI helping people rather than replacing them.\nThe funny thing is, when I started building this, I thought my biggest challenge would be convincing customers to pay for the product.\nNow I'm spending much more time convincing experts to help build the thing customers would actually pay for.\nI'm still figuring out how to make that relationship work for both sides.\nCurious if anyone here has built a business around licensing expert knowledge or proprietary workflows. How did you convince people to share something that was already making them money?\nsubmitted by /u/Capable_Document3744\n[link] [comments]",
+  "author": "/u/Capable_Document3744 https://www.reddit.com/user/Capable_Document3744",
+  "created_at": "2026-10-21T17:34:14+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 160000.0,
+  "revenue_evidence": "un campaigns for their clients, and I'd have a business doing roughly $160K MRR if everything went according to plan. I",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 27.0,
+  "llm": null,
+  "first_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
+  "uid": "92614843dde9ba11"
+ },
+ {
+  "rank": 34,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -774,7 +843,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 32,
+  "rank": 35,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -797,7 +866,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 33,
+  "rank": 36,
   "source": "reddit/r/SaaS",
   "source_id": "1xbst67",
   "title": "When did you move beyond Stripe for usage based SaaS billing?",
@@ -820,7 +889,7 @@
   "uid": "7f4c3587b8f2df37"
  },
  {
-  "rank": 34,
+  "rank": 37,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
   "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
@@ -843,7 +912,7 @@
   "uid": "906e0e7c45fe4249"
  },
  {
-  "rank": 35,
+  "rank": 38,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -866,7 +935,7 @@
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 36,
+  "rank": 39,
   "source": "reddit/r/SideProject",
   "source_id": "1x9h1yz",
   "title": "My side project outgrew my 9-5 salary",
@@ -889,7 +958,7 @@
   "uid": "71a93d238e3d6175"
  },
  {
-  "rank": 37,
+  "rank": 40,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -912,7 +981,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 38,
+  "rank": 41,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -935,7 +1004,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 39,
+  "rank": 42,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -958,7 +1027,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 40,
+  "rank": 43,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -981,7 +1050,30 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 41,
+  "rank": 44,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1xf6g7v",
+  "title": "I recently launched my 8th product and scaled to $8000 purely organic. Here's the playbook.",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xf6g7v/i_recently_launched_my_8th_product_and_scaled_to/",
+  "text": "My process is pretty simple:\n1. Can this product actually sell?\nI look for 3 things:\nA similar product doing >$20k MRR → people will pay (I borrowed my friend's Sensortower account)\nProduct interactions that are interesting to watch → social-friendly (Use Mobbin to identify others' UI)\n10+ TikToks/Reels with 100k+ views → the category can go viral (Just doomscroll on Tiktok/IG)\n2. Watch 300 videos\nI study ~300 videos in the niche and look for patterns:\nWhat hooks work? Curiosity? Fear? Ego?\nWhat scenes keep appearing?\nHow is the product shown?\nWhere does the ad/product placement happen?\nThen I use ONE phone and keep testing combinations until I get my first breakout video.\n3. Stop copying others. Copy yourself.\nEvery product has its own viral formula. So don't just copy other's content pixel by pixel. Copy your own stuff. I use Codex and Skill from Taku to reverse-engineer my own winners, when my video hit 20000+ views.\n80% of new content = variations of proven winners.\n20% = new hooks, text, and formats.\n4. Scale it\nOnly after the content works do I scale accounts and distribution.\nYou can't really scale with real phones, so you have to place some bets on cloudphones.\n5. Optimize the funnel\nOnce traffic comes in, I focus on:\nApp Store CPP conversion\nOnboarding conversion\nPaywall conversion\nD7 retention\nThen A/B test everything.\nThat's basically the playbook:\nValidate demand → find a viral formula → multiply it with AI → scale distribution → optimize conversion.\nThe hardest part is getting the first winner.\nEverything after that is multiplication.\nHope this playbook helps.\nsubmitted by /u/Amazing_Skill_6080\n[link] [comments]",
+  "author": "/u/Amazing_Skill_6080 https://www.reddit.com/user/Amazing_Skill_6080",
+  "created_at": "2026-10-25T16:14:23+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 20000.0,
+  "revenue_evidence": "product actually sell? I look for 3 things: A similar product doing >$20k MRR → people will pay (I borrowed my friend",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 20.71,
+  "llm": null,
+  "first_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
+  "uid": "138ff969b020b3be"
+ },
+ {
+  "rank": 45,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -1004,7 +1096,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 42,
+  "rank": 46,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -1027,7 +1119,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 43,
+  "rank": 47,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -1050,7 +1142,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 44,
+  "rank": 48,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -1073,7 +1165,7 @@
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 45,
+  "rank": 49,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -1096,7 +1188,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 46,
+  "rank": 50,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -1119,7 +1211,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 47,
+  "rank": 51,
   "source": "reddit/r/SideProject",
   "source_id": "1xase0i",
   "title": "I made a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live",
@@ -1142,7 +1234,7 @@
   "uid": "8e8171f07db7e4c7"
  },
  {
-  "rank": 48,
+  "rank": 52,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -1165,7 +1257,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 49,
+  "rank": 53,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -1188,7 +1280,30 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 50,
+  "rank": 54,
+  "source": "reddit/r/EntrepreneurRideAlong",
+  "source_id": "1xf5jvv",
+  "title": "Been doing this since I was 19, now trying to figure out how to find the right long-term fit, how’d you approach that?",
+  "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xf5jvv/been_doing_this_since_i_was_19_now_trying_to/",
+  "text": "Hey all. Quick background before the actual question: I’ve been building and running businesses since I was 19, 6 years now. Founded multiple ventures over that time, one of them has been generating consistent profit, around $60K a year, for 6 years straight. Alongside running my own stuff, I’ve also worked part-time as a growth/ops expert for a few different startups, and done auditing and strategy work for small businesses. I’m also trilingual (English, French, Arabic), which has come in handy working across different markets.\nWhat I’m actually looking for isn’t a task list, it’s ownership. I’ve handled operations end-to-end, built marketing and growth strategy from scratch, gotten first customers through the door with zero budget, scaled what worked, managed teams, and built and ran a communities from nothing. What I want now is to bring that same instinct to a team with a real vision, not clock in and wait for a paycheck, but actually be invested, wake up thinking about the problem, go to sleep still chewing on it, and genuinely help turn what a founder’s building into something real.\nIf you’ve made that kind of move, from running your own thing to finding a team and a problem worth being that invested in, how’d you approach it? Genuinely curious how others navigated this.\nsubmitted by /u/AltruisticProduct286\n[link] [comments]",
+  "author": "/u/AltruisticProduct286 https://www.reddit.com/user/AltruisticProduct286",
+  "created_at": "2026-10-25T15:39:30+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 5000.0,
+  "revenue_evidence": "that time, one of them has been generating consistent profit, around $60K a year, for 6 years straight. Alongside runnin",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 15.29,
+  "llm": null,
+  "first_seen": "2026-10-25T16:31:21+00:00",
+  "last_seen": "2026-10-25T16:31:21+00:00",
+  "uid": "4f844cf7c91045cc"
+ },
+ {
+  "rank": 55,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -1211,7 +1326,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 51,
+  "rank": 56,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -1234,7 +1349,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 52,
+  "rank": 57,
   "source": "hackernews/comment",
   "source_id": "50169017",
   "title": "Comment on: Facebook now charging to post more than 2 links a month",
@@ -1260,7 +1375,7 @@
   "uid": "d5ae04bec44b4200"
  },
  {
-  "rank": 53,
+  "rank": 58,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -1283,7 +1398,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 54,
+  "rank": 59,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -1306,7 +1421,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 55,
+  "rank": 60,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -1329,7 +1444,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 56,
+  "rank": 61,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -1355,7 +1470,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 57,
+  "rank": 62,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -1380,7 +1495,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 58,
+  "rank": 63,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
