@@ -24,7 +24,7 @@
   "score": 66.72,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-25T20:57:14+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "9294271293706082"
  },
  {
@@ -108,7 +108,7 @@
   "score": 57.0,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-25T20:57:14+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "508fb182e14c770e"
  },
  {
@@ -136,7 +136,7 @@
   "score": 53.31,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-25T20:57:14+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "e7b8a5339abde94f"
  },
  {
@@ -165,7 +165,7 @@
   "score": 49.29,
   "llm": null,
   "first_seen": "2026-10-23T11:47:08+00:00",
-  "last_seen": "2026-10-25T20:57:14+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "f445303feb73f3ec"
  },
  {
@@ -484,7 +484,7 @@
   "score": 35.58,
   "llm": null,
   "first_seen": "2026-10-19T13:27:52+00:00",
-  "last_seen": "2026-10-25T20:57:14+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "c16ec379ad69fea7"
  },
  {
@@ -845,6 +845,29 @@
  {
   "rank": 35,
   "source": "reddit/r/SaaS",
+  "source_id": "1xfgq2w",
+  "title": "Dumber Ideas Get Better Reach",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xfgq2w/dumber_ideas_get_better_reach/",
+  "text": "Guy A: I'm going to build this outreach tool which will have email marketing, email warm-up, you can buy aged emails, you can buy domains, you can also do LinkedIn automation, and then Reddit automation, and a gazzillion other things. 'Easier apps can be built by claude on a weekend, nobody will buy my shit if I build super simple apps. AI has ruined SaaS.'\nTakes 12 months to build some shit which barely works because its doing 1000 things all at once. The message sucks too. Lander sucks. Socials don't have any posts. Marketing doesn't exist.\nChases 'customers' for 6 months and wonders 'did AI kILL aLL sAAs??' and posts on Reddit 'GuYs I fUcked Up, wHat Do I dO?'\nGuy B: Makes a period tracking app. 1 week its done. Its simple as shit, even a bit bare bones. Spends next 2 months marketing it + improving it to perfection. 3rd month he's understood how to really drive traffic ... its by targetting REALLY tiny creators about women's health on Instagram/TikTok. Ones that have like 2000 followers, and are happy to do a video for peanuts. Does that, it starts to work. DING DING DING! Scales it heavily. $1 in = $2 out kinda deal (its a brutal simplification, but you get the point). He's even built a really good social following on IG/TikTOk, gets like 5k views per reel which drives sign-ups. It took months to 'crack' the method to get reels, but, he did post like 4 times a day without giving up for 90 days before he saw real results.\nBy month 6 this guy doing $10k/mo. By month 12, he doing $50k/mo. (true story btw)\nThe other guy? 1.5 years later he's still wondering ... 'Hmm, maybe I should add Quora automation to the mix, maybe that's why I failed'.\nNobody gives a fuck that 'you can build this in claude over a weekend'. I'm sorry your time is worth nothing. But for most people they'd rather pay $9 a month for a period tracking app, than to build it and maintain it and waste their precious time.\nYes I can build Notion, AirTable, this and that, and everything on a 'weekend' there's probably a Git repo of opensource version of it. I'm sorry you can't afford it. But there's millions of people who'd rather pay the $10/mo on Notion per seat than to build it. Their time is worth more than saving that $10 or $100 or even $1000/mo. They'd rather focus that time on building their business or spending time with family.\nYou were just being a smartass all in your head. While the dumb guy with a simple app is making bank.\nGET DUMBER! Do simpler ideas. Don't overcomplicate shit.\nGo see trustMRR you'd find the simplest ideas doing bank. A guy doing a simple link in bio making a fuck ton of money. Just a 'link in bio'.\nAll these posts in this sub of all kinds of 'space rocketing, earth shattering, time bending' ideas ... I have so much rage reading these posts. My God. WTF you guys doing.\nGET DUMBER! DO DUMB SHIT.\nDon't chase the $10m MRR when you aren't even doing $10k MRR. Get that $10k first. Do something stupidly simple. Don't go hyper specific niche. Think of something that is used by everyone. A link in bio tool = a billion social media users = you can probably get 500 x $10/mo? I think so. A period app? Well half the population is your target = you can probably get 500 x $9/mo.\nDon't be like so fucking niche specific that marketing it requires a literal sacrifice of your soul to satan himself. WTF.\nThe other day I saw this guy with this lander who was like there's photographers of a certain niche, and in that niche in some cases, they need this particular tool which solves a very specific problem. I've built it and took me 6 months, 'how do I market it'. Holy Fuck. If this guy was a friend of mine, I'd have recommended him to do go see psychiatrist or some shit.\nsubmitted by /u/NoBattle8428\n[link] [comments]",
+  "author": "/u/NoBattle8428 https://www.reddit.com/user/NoBattle8428",
+  "created_at": "2026-10-25T23:11:04+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 10000.0,
+  "revenue_evidence": "ER! DO DUMB SHIT. Don't chase the $10m MRR when you aren't even doing $10k MRR. Get that $10k first. Do something stup",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 25.5,
+  "llm": null,
+  "first_seen": "2026-10-26T04:56:17+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
+  "uid": "60f816b083d185bd"
+ },
+ {
+  "rank": 36,
+  "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
   "url": "https://www.reddit.com/r/SaaS/comments/1x2ytlu/day_60_building_in_public_2k_in_sales_24k_arr_and/",
@@ -866,7 +889,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 36,
+  "rank": 37,
   "source": "reddit/r/SaaS",
   "source_id": "1xbst67",
   "title": "When did you move beyond Stripe for usage based SaaS billing?",
@@ -889,7 +912,7 @@
   "uid": "7f4c3587b8f2df37"
  },
  {
-  "rank": 37,
+  "rank": 38,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
   "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
@@ -912,7 +935,7 @@
   "uid": "906e0e7c45fe4249"
  },
  {
-  "rank": 38,
+  "rank": 39,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -935,7 +958,7 @@
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 39,
+  "rank": 40,
   "source": "reddit/r/SideProject",
   "source_id": "1x9h1yz",
   "title": "My side project outgrew my 9-5 salary",
@@ -958,7 +981,7 @@
   "uid": "71a93d238e3d6175"
  },
  {
-  "rank": 40,
+  "rank": 41,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -981,7 +1004,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 41,
+  "rank": 42,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -1004,7 +1027,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 42,
+  "rank": 43,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -1027,7 +1050,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 43,
+  "rank": 44,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -1050,7 +1073,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 44,
+  "rank": 45,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xf6g7v",
   "title": "I recently launched my 8th product and scaled to $8000 purely organic. Here's the playbook.",
@@ -1073,7 +1096,7 @@
   "uid": "138ff969b020b3be"
  },
  {
-  "rank": 45,
+  "rank": 46,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -1096,7 +1119,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 46,
+  "rank": 47,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -1119,7 +1142,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 47,
+  "rank": 48,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -1142,7 +1165,30 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 48,
+  "rank": 49,
+  "source": "reddit/r/SaaS",
+  "source_id": "1xfgrcp",
+  "title": "I thought I was making $2K MRR. The actual number was closer to $1.4K",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xfgrcp/i_thought_i_was_making_2k_mrr_the_actual_number/",
+  "text": "I got a little too obsessed with checking revenue.\nI'd open Stripe, check RevenueCat, switch between projects, refresh everything, and repeat throughout the day. I wanted to know how my apps were doing, but I was spending more time checking dashboards than actually building.\nAt one point, I thought I was doing around $2K in MRR. When I looked more carefully, it was closer to $1.4K.\nThat was a humbling reality check.\nThe problem wasn't just the numbers. It was how much time I spent trying to piece together a clear picture of my business.\nSo I decided to build a solution for myself.\nI've been working on OtterTally, a native macOS menu bar app that brings Stripe and RevenueCat metrics into one place. It brings together revenue, MRR, subscribers, churn, and recent purchase activity, with safeguards against double-counting overlapping subscriptions when the data allows it.\nOne of my favorite parts is purchase notifications. When a sale comes in, I get notified on my Mac instead of constantly refreshing dashboards to see whether anything happened.\nI've spent the past day being noticeably more productive because I'm not checking my numbers every few minutes. I can focus on building and let the app keep an eye on revenue.\nI'm the person building OtterTally, so I'm obviously biased, but this experience made me wonder:\nFor those of you running SaaS products, how often do you check your revenue dashboards? Do you actually need to monitor them throughout the day, or have you found a better way to stay informed without constantly checking?\nsubmitted by /u/ApprehensiveLoss7159\n[link] [comments]",
+  "author": "/u/ApprehensiveLoss7159 https://www.reddit.com/user/ApprehensiveLoss7159",
+  "created_at": "2026-10-25T23:12:36+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 2000.0,
+  "revenue_evidence": "I thought I was making $2K MRR. The actual number was closer to $1.4K",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 19.52,
+  "llm": null,
+  "first_seen": "2026-10-26T04:56:17+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
+  "uid": "0bfb36656ddfeb81"
+ },
+ {
+  "rank": 50,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -1165,7 +1211,7 @@
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 49,
+  "rank": 51,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -1188,7 +1234,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 50,
+  "rank": 52,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -1211,7 +1257,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 51,
+  "rank": 53,
   "source": "reddit/r/SideProject",
   "source_id": "1xase0i",
   "title": "I made a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live",
@@ -1234,7 +1280,7 @@
   "uid": "8e8171f07db7e4c7"
  },
  {
-  "rank": 52,
+  "rank": 54,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -1257,7 +1303,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 53,
+  "rank": 55,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -1280,7 +1326,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 54,
+  "rank": 56,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xf5jvv",
   "title": "Been doing this since I was 19, now trying to figure out how to find the right long-term fit, how’d you approach that?",
@@ -1303,7 +1349,30 @@
   "uid": "4f844cf7c91045cc"
  },
  {
-  "rank": 55,
+  "rank": 57,
+  "source": "reddit/r/indiehackers",
+  "source_id": "1xaw9cq",
+  "title": "How I grew from 0 to 13k followers on X in 200 days (almost all replies)",
+  "url": "https://www.reddit.com/r/indiehackers/comments/1xaw9cq/how_i_grew_from_0_to_13k_followers_on_x_in_200/",
+  "text": "In September I posted 11,897 times on X. Almost all of them were replies.\nI posted on X for the first time on April 1. 200 days later I'm at 13k followers.\nWhat I did:\nReplied early under bigger accounts in my niche, every day\nAsked simple questions in my own posts. One about Gemini's market share got 156K views and 1,100+ replies.\nShared real numbers, even bad ones. My post about spending $867 on Meta ads and getting 0 paying users did better than most of my wins.\nThe surprising part: out of 11,897 posts and replies in September, X's own report flagged only one as spam.\nWhere it got me:\nBrands started paying me for posts in July, at around 8 to 9k followers\nMy SaaS, ClimbX, is at $1,044 MRR (verified on TrustMRR )\nWhat I got wrong: I built the audience faster than the product. Turning followers into paying users is the hard part now.\nIf you built an audience before your product, how did you turn it into paying users?\nsubmitted by /u/Majestic_Maybe6605\n[link] [comments]",
+  "author": "/u/Majestic_Maybe6605 https://www.reddit.com/user/Majestic_Maybe6605",
+  "created_at": "2026-10-20T16:08:11+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1044.0,
+  "revenue_evidence": "for posts in July, at around 8 to 9k followers My SaaS, ClimbX, is at $1,044 MRR (verified on TrustMRR ) What I got wron",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 15.28,
+  "llm": null,
+  "first_seen": "2026-10-26T04:56:17+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
+  "uid": "664be230cba47e75"
+ },
+ {
+  "rank": 58,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -1322,11 +1391,11 @@
   "score": 15.0,
   "llm": null,
   "first_seen": "2026-10-01T13:28:04+00:00",
-  "last_seen": "2026-10-18T11:17:02+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 56,
+  "rank": 59,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -1349,7 +1418,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 57,
+  "rank": 60,
   "source": "hackernews/comment",
   "source_id": "50169017",
   "title": "Comment on: Facebook now charging to post more than 2 links a month",
@@ -1375,7 +1444,7 @@
   "uid": "d5ae04bec44b4200"
  },
  {
-  "rank": 58,
+  "rank": 61,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -1398,7 +1467,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 59,
+  "rank": 62,
   "source": "reddit/r/SaaS",
   "source_id": "1xenqz6",
   "title": "Why is every \"$10k MRR in 30 days\" thread written by someone selling a course?",
@@ -1417,11 +1486,11 @@
   "score": 14.42,
   "llm": null,
   "first_seen": "2026-10-25T20:57:14+00:00",
-  "last_seen": "2026-10-25T20:57:14+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "31efc38746053407"
  },
  {
-  "rank": 60,
+  "rank": 63,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -1440,11 +1509,11 @@
   "score": 13.97,
   "llm": null,
   "first_seen": "2026-10-01T13:28:04+00:00",
-  "last_seen": "2026-10-18T11:17:02+00:00",
+  "last_seen": "2026-10-26T04:56:17+00:00",
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 61,
+  "rank": 64,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -1467,7 +1536,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 62,
+  "rank": 65,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -1493,7 +1562,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 63,
+  "rank": 66,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -1518,7 +1587,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 64,
+  "rank": 67,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
