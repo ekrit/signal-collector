@@ -24,7 +24,7 @@
   "score": 66.72,
   "llm": null,
   "first_seen": "2026-10-20T11:47:40+00:00",
-  "last_seen": "2026-10-26T22:45:51+00:00",
+  "last_seen": "2026-10-27T05:14:50+00:00",
   "uid": "9294271293706082"
  },
  {
@@ -165,7 +165,7 @@
   "score": 49.29,
   "llm": null,
   "first_seen": "2026-10-23T11:47:08+00:00",
-  "last_seen": "2026-10-26T22:45:51+00:00",
+  "last_seen": "2026-10-27T05:14:50+00:00",
   "uid": "f445303feb73f3ec"
  },
  {
@@ -1486,11 +1486,34 @@
   "score": 14.42,
   "llm": null,
   "first_seen": "2026-10-25T20:57:14+00:00",
-  "last_seen": "2026-10-26T13:13:46+00:00",
+  "last_seen": "2026-10-27T05:14:50+00:00",
   "uid": "31efc38746053407"
  },
  {
   "rank": 63,
+  "source": "reddit/r/SaaS",
+  "source_id": "1xgeice",
+  "title": "I read 6 of the biggest r/SaaS threads from the last month. Here’s what people agree on and where they split",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xgeice/i_read_6_of_the_biggest_rsaas_threads_from_the/",
+  "text": "I’ve been building on the side next to a full time job, and before I write more code I wanted to know what’s actually going on here. So I read six recent threads, each with a few hundred to 2K upvotes. Builders vs buyers, the “cloned Airtable in 5 days” story, “vibe coding isn’t killing SaaS”, a calorie app that’s still losing money, a side project that passed someone’s 9-5, and the “building is easy, marketing is hard” meme.\nWhat almost everyone agreed on:\nBuilding isn’t the hard part anymore. Getting people to trust and try your thing is. A lot of people said they spend more time finding users than writing code I also seen this type of post Many times in X also.\nV1 is the cheap part. The guy who cloned Airtable took 5 days, then got edge cases and “quick 10-minute requests” every two weeks for months. Plenty of commenters said the same: the real cost is keeping it running, not building it.\nCloning only makes sense when you need a small slice of the product. One commenter had a rule of thumb: if a vendor covers about 80% of what you need, paying is usually cheaper once you count upkeep. If it covers under 60%, building starts to make sense.\nTwo sets of numbers that stuck with me:\nThe calorie app had 13k installs and about €22k gross, but is still around €5.8k down after ads and AI costs. Google Ads showed a cost per result of about €1, but the real cost per paying user was about €22, because the campaign was optimizing for app opens and not payments.\nThe side project at $4k MRR raised its lowest plan from $11 to $19, only for new signups, and got more customers, not fewer. The owner said new users came mostly from SEO and AI-search pages, not X, and they run zero ads.\nWhere people split:\nDid buyers actually shrink, or did they just change? Some people cancelled subscriptions and built their own tools. Others said most people in real life don’t want to build or maintain anything.\nCompanies replacing tools in-house vs “someone has to own this at 2am”. Both sides had real examples.\nWhat I’m taking from it: I’m not going to build anything big until I’ve talked to the people who have the problem. With a day job I can’t afford to spend months on something and then find out nobody wants it. So my plan is to read real threads, find people already complaining about a specific pain, and only then write code.\nFor people who’ve been on both sides: what was the moment you decided to pay for a tool instead of building it yourself, or the other way round?\nsubmitted by /u/Illustrious-Lab-8312\n[link] [comments]",
+  "author": "/u/Illustrious-Lab-8312 https://www.reddit.com/user/Illustrious-Lab-8312",
+  "created_at": "2026-10-27T00:47:47+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 4000.0,
+  "revenue_evidence": "gn was optimizing for app opens and not payments. The side project at $4k MRR raised its lowest plan from $11 to $19,",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 14.42,
+  "llm": null,
+  "first_seen": "2026-10-27T05:14:50+00:00",
+  "last_seen": "2026-10-27T05:14:50+00:00",
+  "uid": "18252de863f72992"
+ },
+ {
+  "rank": 64,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -1513,7 +1536,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 64,
+  "rank": 65,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -1536,7 +1559,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 65,
+  "rank": 66,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -1562,7 +1585,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 66,
+  "rank": 67,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -1587,7 +1610,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 67,
+  "rank": 68,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
