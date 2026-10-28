@@ -1,0 +1,89 @@
+{
+ "sources": {
+  "producthunt": {
+   "count": 36,
+   "seconds": 0.1
+  },
+  "rss": {
+   "count": 56,
+   "seconds": 7.9
+  },
+  "hackernews": {
+   "count": 288,
+   "seconds": 10.3
+  },
+  "google_news": {
+   "count": 114,
+   "seconds": 26.7
+  },
+  "devto": {
+   "count": 394,
+   "seconds": 51.2
+  },
+  "reddit": {
+   "count": 0,
+   "seconds": 176.2
+  }
+ },
+ "http": {
+  "dev.to": {
+   "requests": 46,
+   "ok": 21,
+   "not_modified": 25,
+   "retries": 0,
+   "errors": {}
+  },
+  "hn.algolia.com": {
+   "requests": 10,
+   "ok": 10,
+   "not_modified": 0,
+   "retries": 0,
+   "errors": {}
+  },
+  "hnrss.org": {
+   "requests": 3,
+   "ok": 0,
+   "not_modified": 2,
+   "retries": 1,
+   "errors": {
+    "502": 1
+   }
+  },
+  "medium.com": {
+   "requests": 5,
+   "ok": 5,
+   "not_modified": 0,
+   "retries": 0,
+   "errors": {}
+  },
+  "news.google.com": {
+   "requests": 16,
+   "ok": 16,
+   "not_modified": 0,
+   "retries": 0,
+   "errors": {}
+  },
+  "www.producthunt.com": {
+   "requests": 1,
+   "ok": 1,
+   "not_modified": 0,
+   "retries": 0,
+   "errors": {}
+  },
+  "www.reddit.com": {
+   "requests": 69,
+   "ok": 3,
+   "not_modified": 0,
+   "retries": 52,
+   "errors": {
+    "403": 2,
+    "429": 64
+   }
+  }
+ },
+ "started": "2026-10-28T22:41:57+00:00",
+ "new": 17,
+ "fetched": 888,
+ "tracked": 3415,
+ "finished": "2026-10-28T22:42:04+00:00"
+}
