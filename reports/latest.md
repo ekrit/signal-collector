@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-10-30 05:58 UTC · 3546 tracked signals · 78 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 44 new this run_
+_Last updated 2026-10-30 13:04 UTC · 3582 tracked signals · 80 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 36 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,17 +8,17 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 337 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 338 |
 | [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 54 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 55 |
-| [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 0 | — | 15 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 26 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 11 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 57 |
+| [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 0 | — | 14 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 24 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 0 | — | 10 |
 | [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 20 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 8 | $2.0k | 55 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 8 | $2.0k | 50 |
 | [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 41 |
-| [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 8 |
-| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 7 |
+| [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 9 |
+| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 8 |
 
 🚀 = on track to grow ≥ 4x within 5 years · ☪️ = halal-economy vertical
 
@@ -94,6 +94,7 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 37 | [Day 6 of Building HYNA-Stage: The KAVLR Chronicles & A 90-Article AI Constituti…](https://dev.to/koda2026/day-6-of-building-hyna-stage-the-kavlr-chronicles-a-90-article-ai-constitution-built-on-a-150-14i1) | AI agents & workflow automation | 14▲ 5💬 | devto |
 | 37 | [Iam 12 .My AI Mentor Was Broken. Groq Killed It. Here Is How I Fixed It on a $1…](https://dev.to/koda2026/iam-12-my-ai-mentor-was-broken-groq-killed-it-here-is-how-i-fixed-it-on-a-150-phone-in-72-hours-1m0c) | AI agents & workflow automation, AI cybersecurity | 17▲ 0💬 | devto |
 | 37 | [Iam 12 . My web mentor KODA Is Now in Your Editor. Here Is How I Built a Cursor…](https://dev.to/koda2026/iam-12-my-web-mentor-koda-is-now-in-your-editor-here-is-how-i-built-a-cursor-killer-extension-on-43en) | AI agents & workflow automation | 13▲ 3💬 | devto |
+| 37 | [Day 10: How I Hired a CMO for My Startup with a $0 Budget (The Exact Deal) 🐯☁️](https://dev.to/koda2026/day-10-how-i-hired-a-cmo-for-my-startup-with-a-0-budget-the-exact-deal-3fj) | AI in education & e-learning, Legal AI & compliance automation | 11▲ 4💬 | devto |
 | 36 | [Ask HN: How would you know if you have learned something?](https://news.ycombinator.com/item?id=49836294) | AI in education & e-learning | 6▲ 6💬 | hackernews |
 | 36 | [I Am 12. My Phone Costs $150. Claude Said My AI Is "Impressive. Period." Here I…](https://dev.to/koda2026/i-am-12-my-phone-costs-150-claude-said-my-ai-is-impressive-period-here-is-the-live-build-458b) | AI agents & workflow automation | 8▲ 4💬 | devto |
 | 36 | [I Built a Production AI Mentor on a $150 Phone. Claude Reviewed It. Here Are th…](https://dev.to/koda2026/i-built-a-production-ai-mentor-on-a-150-phone-claude-reviewed-it-here-are-the-benchmarks-2a5m) | AI agents & workflow automation | 10▲ 1💬 | devto |
@@ -105,7 +106,6 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 35 | [206 Sign-in Starts, 0 Signups: How to Check Whether AI Visitors Actually Convert](https://dev.to/robin_geo/206-sign-in-starts-0-signups-how-to-check-whether-ai-visitors-actually-convert-4m6i) | AI agents & workflow automation | 2▲ 6💬 | devto |
 | 35 | [I Run 19 Production APIs on a Free VPS. Revenue So Far: $0](https://dev.to/hhelll/i-run-18-production-apis-on-a-free-vps-revenue-so-far-0-5fmk) | AI cybersecurity, AI agents & workflow automation | 0▲ 8💬 | devto |
 | 35 | [I Am 12. My Phone Costs $150. Groq Tried to Kill My AI. Here Is How I Survived …](https://dev.to/koda2026/i-am-12-my-phone-costs-150-groq-tried-to-kill-my-ai-here-is-how-i-survived-it-3a33) | AI agents & workflow automation, AI cybersecurity | 7▲ 0💬 | devto |
-| 35 | [Iam 12 .My AI Mentor Just Grew Eyes and a Conscience. Introducing KODA Web v24:…](https://dev.to/koda2026/iam-12-i-wrote-a-10-article-constitution-for-my-ai-here-is-why-it-stops-hallucinations-dead-18hi) | AI agents & workflow automation | 7▲ 0💬 | devto |
 
 ## Needs Islamic-values review
 
@@ -159,20 +159,20 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Space-Based Data Center Market To Reach USD 11.1 Billion by 2035 at 21.0% CAGR - Market.us Scoop](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ad1otMENxT0VFOGxmdnhOa0NGMFdyWWE0WlVzMnMyMFhBTk15UE00cjFyeTdwcTMwTFA3cEpHbHhEUzczci1PUjVUNGZIRmRLX0plRS1POEhDcjFrMlcwblVXUjRkamNDb0p6LQ?oc=5) (2026-10-26)
 
 **E-commerce & creator tooling**
-- [Wearable Fitness Trackers Market to Expand at 15.1% CAGR During 2026–2035 - Market.us Media](https://news.google.com/rss/articles/CBMib0FVX3lxTFB2NmRiNGhpUmo1X0oxSkxMNVUwR19kX2ZJSkpTY2RnSm1DR2hHbE1RNl9MZF9RZ2xxX1FzR2t3ZVAxeFFXV3NGUmx3V21tOWNiM0FKNmd0M2JjOG9pYkdPRHlrWmxrYnlMNkN3bk9Gdw?oc=5) (2026-10-29)
-- [Plant-based Supplements Market Size, Share \| CAGR of 9.0% - Market.us](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFcmtlQmFQUkZlUUdIWTg0Z2Z4V1FEZWxrWEFLd1RDRHdabGdNamF6OUVyajh1c0FQQlhCVlBYYVlKZGZQSXVKQ0daQkRIWExBMHRyYUdHbzB3TEFHclItRHdpZHhrTlk?oc=5) (2026-10-29)
-- [UAE Protein Supplements Market Size to Hit USD 287.10 Million in 2034 \| Grow CAGR by 8.11% - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPeHhjdXB0V19hbkZpV0lRenJBZDlFQl9zZF8wOUVwdENMclpOck9VOXF2US00RW9PVF9LZ1o1dEFsOXhTc09KbWQ4LVd5OXNuN2owbGh6WUxYX0F2ZndfT04tNTg0b0puYk9NRW9EZW1GU25RVnFzekVzSUR4M25QOU9STi15ZHZmS3lUcnBLWjVQVWdzN1ZScmY1XzZNdw?oc=5) (2026-10-29)
+- [Warehouse Picking Robots Market Growth to Hit USD 5,519 Million at a 38.0% CAGR Through 2032 - openPR.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEMwRlNsbEpQb1RjUmkxSmJKaC1pZGFPNXFQcXg0WmdiWnNEcjEwbUtsNkExdk1wWUw1TzVrRXFhRVBVUS12amNreThJU0JEdmJZX1lYVU90RUJNRG9Hd29UelMxZGFDWm82NTlQQTdDWkI5MjdMelZ0Z3RVVVowQ2E0UHk5T3Y4V3l0OFpDUmZLOU5RUGtrODlEVXE2Z2kz?oc=5) (2026-10-30)
+- [UV Phototherapy Devices Market Size, Share Report, 2033 - Grand View Research](https://news.google.com/rss/articles/CBMikwFBVV95cUxNalEzVmVmLVZLdGxCcm5HLVo5TnVqZDdxLTY5YWd5WEZTMVpTUDAybXZvVnNLY1daaVZ6c3VwVzZycWlRMGRVS2dGaUVnck5pcURCOEpGTGpnd0NSVGNXeW81ZkVZR21OUmJXUXYwYmhXaWF3U3pwN014cFNXbk1fejM4Z0NycTlLXy1yNDFXZTlvVjA?oc=5) (2026-10-30)
+- [Mobile Ad Server Market to Reach US$ 1,069.8 Million by 2033, Growing at 4.8% CAGR - openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRG9wNzVlMEVfck1fTGZpZU1nV2Y1aHpRQTRfX1g2d2VPdEJQYmpvTTZ3anFMZTBXakNmcEhheHA1emxPTmZlMm5RaVZJR1l0QmFmSmRHa3M2R2hGZ2FhT1M1WGxNQWZZcWYzcThEaU1ZMG5wbWxuNk9oNXZSTVhMVGVuNW5CWXdkS1VYTHl3bndzYi13R2NWVzNwOA?oc=5) (2026-10-30)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 37 | ok |
-| rss | 61 | ok |
-| hackernews | 290 | ok |
-| google_news | 88 | ok |
-| devto | 398 | ok |
-| reddit | 0 | ok |
+| producthunt | 41 | ok |
+| rss | 60 | ok |
+| hackernews | 287 | ok |
+| google_news | 70 | ok |
+| devto | 393 | ok |
+| reddit | 50 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -180,8 +180,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 13,
-  "not_modified": 33,
+  "ok": 16,
+  "not_modified": 30,
   "retries": 0,
   "errors": {}
  },
@@ -221,13 +221,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 69,
+  "requests": 64,
   "ok": 3,
   "not_modified": 0,
-  "retries": 52,
+  "retries": 48,
   "errors": {
    "403": 2,
-   "429": 64
+   "429": 58,
+   "404": 1
   }
  }
 }
