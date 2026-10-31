@@ -136,7 +136,7 @@
   "score": 54.03,
   "llm": null,
   "first_seen": "2026-10-29T22:51:06+00:00",
-  "last_seen": "2026-10-30T22:28:12+00:00",
+  "last_seen": "2026-10-31T05:53:31+00:00",
   "uid": "43d3bce5510f4b7b"
  },
  {
@@ -361,7 +361,7 @@
   "score": 42.75,
   "llm": null,
   "first_seen": "2026-10-30T05:57:59+00:00",
-  "last_seen": "2026-10-30T22:28:12+00:00",
+  "last_seen": "2026-10-31T05:53:31+00:00",
   "uid": "e169657367a4d024"
  },
  {
@@ -387,7 +387,7 @@
   "score": 41.11,
   "llm": null,
   "first_seen": "2026-10-29T22:51:06+00:00",
-  "last_seen": "2026-10-30T22:28:12+00:00",
+  "last_seen": "2026-10-31T05:53:31+00:00",
   "uid": "7fe8510cee3ca6f7"
  },
  {
@@ -488,7 +488,7 @@
   "score": 38.46,
   "llm": null,
   "first_seen": "2026-10-29T22:51:06+00:00",
-  "last_seen": "2026-10-30T22:28:12+00:00",
+  "last_seen": "2026-10-31T05:53:31+00:00",
   "uid": "c70753256afc6010"
  },
  {
@@ -1750,7 +1750,7 @@
   "score": 14.42,
   "llm": null,
   "first_seen": "2026-10-25T20:57:14+00:00",
-  "last_seen": "2026-10-30T13:04:31+00:00",
+  "last_seen": "2026-10-31T05:53:31+00:00",
   "uid": "31efc38746053407"
  },
  {
@@ -1824,6 +1824,31 @@
  },
  {
   "rank": 77,
+  "source": "hackernews/thread",
+  "source_id": "50311023",
+  "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
+  "url": "https://news.ycombinator.com/item?id=50311023",
+  "text": "Uruky [1] has been doing €2k / month or more for the last few months (not a subscription, though).\nPodBy [2] is still below €100 / month, though.\nUruky started out late last year, and was publicly released earlier this year. My wife and I couldn’t stand the bad state (of AI) search and the lack of a simpler Kagi alternative in Europe.\nPodBy was recently launched under that name, but its “tech” had been powering a few sites and projects for over a year (partially Uruky, too).\n[1]: https://uruky.com\n[2]: https://podby.com",
+  "author": "BrunoBernardino",
+  "created_at": "2026-10-30T22:36:32+00:00",
+  "engagement": {
+   "replies": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 2160.0,
+  "revenue_evidence": "-projects that generate >$500 revenue/month? Uruky [1] has been doing €2k / month or more for the last few months (not",
+  "revenue_confidence": 0.6,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 12.01,
+  "llm": null,
+  "first_seen": "2026-10-31T05:53:31+00:00",
+  "last_seen": "2026-10-31T05:53:31+00:00",
+  "uid": "9c8b2d1bb5b02ea7"
+ },
+ {
+  "rank": 78,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -1849,7 +1874,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 78,
+  "rank": 79,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -1874,7 +1899,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 79,
+  "rank": 80,
   "source": "hackernews/comment",
   "source_id": "50300346",
   "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -1896,11 +1921,11 @@
   "score": 9.0,
   "llm": null,
   "first_seen": "2026-10-30T13:04:31+00:00",
-  "last_seen": "2026-10-30T22:28:12+00:00",
+  "last_seen": "2026-10-31T05:53:31+00:00",
   "uid": "072b354f4498c312"
  },
  {
-  "rank": 80,
+  "rank": 81,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
