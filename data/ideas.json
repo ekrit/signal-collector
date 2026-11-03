@@ -161,7 +161,7 @@
   "score": 54.03,
   "llm": null,
   "first_seen": "2026-10-29T22:51:06+00:00",
-  "last_seen": "2026-11-02T16:18:41+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
   "uid": "43d3bce5510f4b7b"
  },
  {
@@ -386,7 +386,7 @@
   "score": 42.75,
   "llm": null,
   "first_seen": "2026-10-30T05:57:59+00:00",
-  "last_seen": "2026-11-02T16:18:41+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
   "uid": "e169657367a4d024"
  },
  {
@@ -412,7 +412,7 @@
   "score": 41.11,
   "llm": null,
   "first_seen": "2026-10-29T22:51:06+00:00",
-  "last_seen": "2026-11-02T16:18:41+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
   "uid": "7fe8510cee3ca6f7"
  },
  {
@@ -513,7 +513,7 @@
   "score": 38.46,
   "llm": null,
   "first_seen": "2026-10-29T22:51:06+00:00",
-  "last_seen": "2026-11-02T16:18:41+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
   "uid": "c70753256afc6010"
  },
  {
@@ -710,6 +710,29 @@
  {
   "rank": 29,
   "source": "reddit/r/SaaS",
+  "source_id": "1xm717z",
+  "title": "Halving cancellations = doubling signups. Same MRR.",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xm717z/halving_cancellations_doubling_signups_same_mrr/",
+  "text": "Quick math that changed how I think about growth.\nYour customer count levels off at: new customers per month ÷ monthly churn rate.\n$29/mo product, 40 new customers a month:\n- 6% cancel monthly → levels off at ~667 customers ($19.3k MRR)\n- 3% cancel monthly → ~1,333 customers ($38.7k MRR)\nDoubling signups to 80/mo at 6% gets you... the same $38.7k.\nExcept doubling signups costs money. At $150 per customer, that's $72k a year to reach the same place.\nWhat's your monthly cancellation rate, and do you actually know why people leave?\nsubmitted by /u/AppsolutelyGenious\n[link] [comments]",
+  "author": "/u/AppsolutelyGenious https://www.reddit.com/user/AppsolutelyGenious",
+  "created_at": "2026-11-02T19:33:20+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 38700.0,
+  "revenue_evidence": "t ~667 customers ($19.3k MRR) - 3% cancel monthly → ~1,333 customers ($38.7k MRR) Doubling signups to 80/mo at 6% gets y",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 32.99,
+  "llm": null,
+  "first_seen": "2026-11-03T01:04:12+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
+  "uid": "81c8ac18d021c311"
+ },
+ {
+  "rank": 30,
+  "source": "reddit/r/SaaS",
   "source_id": "1xaunb0",
   "title": "I checked 46 AI startups with \"verified\" revenue. The top 2 haven't updated their numbers in month",
   "url": "https://www.reddit.com/r/SaaS/comments/1xaunb0/i_checked_46_ai_startups_with_verified_revenue/",
@@ -731,7 +754,7 @@
   "uid": "82ac292c1b9e7ce9"
  },
  {
-  "rank": 30,
+  "rank": 31,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x50la2",
   "title": "I productized my old agency and got backed by Y Combinator. Here's 5 things I learnt along the way:",
@@ -754,7 +777,7 @@
   "uid": "8dc77651de734391"
  },
  {
-  "rank": 31,
+  "rank": 32,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xdjnlc",
   "title": "Entrepreneurs, for the love of god, stop contributing to AI slop. Here's what we do instead at a $200K ARR business:",
@@ -777,7 +800,7 @@
   "uid": "100f52a299ebe8d0"
  },
  {
-  "rank": 32,
+  "rank": 33,
   "source": "reddit/r/microsaas",
   "source_id": "1xl8gru",
   "title": "i talked about my microsaas on reddit for a year. here's how it got us to $200K ARR",
@@ -800,7 +823,7 @@
   "uid": "27cae60be63f5a20"
  },
  {
-  "rank": 33,
+  "rank": 34,
   "source": "reddit/r/SaaS",
   "source_id": "1xajfa0",
   "title": "Why does our infrastructure keep breaking, and should a startup just outsource it?",
@@ -823,7 +846,7 @@
   "uid": "e3c0669b9dfe86c7"
  },
  {
-  "rank": 34,
+  "rank": 35,
   "source": "reddit/r/startups",
   "source_id": "1xf5mwo",
   "title": "Advice Starting Business for High Income Earners (I will not promote)",
@@ -846,7 +869,7 @@
   "uid": "43dbcb2d185285ac"
  },
  {
-  "rank": 35,
+  "rank": 36,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -869,7 +892,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 36,
+  "rank": 37,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xfb8n0",
   "title": "using my own product to scale my product ($120k now btw) is the most meta feedback loop ever",
@@ -892,7 +915,7 @@
   "uid": "305ff582cfbf2ddb"
  },
  {
-  "rank": 37,
+  "rank": 38,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -917,7 +940,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 38,
+  "rank": 39,
   "source": "reddit/r/microsaas",
   "source_id": "1x3v6h7",
   "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
@@ -942,7 +965,7 @@
   "uid": "cbe9ecfc0ee23897"
  },
  {
-  "rank": 39,
+  "rank": 40,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x58c6l",
   "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
@@ -967,7 +990,7 @@
   "uid": "31469b887e85b4c2"
  },
  {
-  "rank": 40,
+  "rank": 41,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -990,7 +1013,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 41,
+  "rank": 42,
   "source": "reddit/r/microsaas",
   "source_id": "1xbcsd4",
   "title": "I stopped building AI apps and started doing Reddit marketing by hand. $17k MRR, two YC clients and a $1B enterprise.",
@@ -1013,7 +1036,7 @@
   "uid": "964e4ca93ab0cffc"
  },
  {
-  "rank": 42,
+  "rank": 43,
   "source": "reddit/r/SaaS",
   "source_id": "1xkz59g",
   "title": "quick game if you run a SaaS",
@@ -1036,7 +1059,7 @@
   "uid": "bf1bd61b95622fb4"
  },
  {
-  "rank": 43,
+  "rank": 44,
   "source": "reddit/r/alphaandbetausers",
   "source_id": "1xhunnt",
   "title": "4 months ago, I posted my instagram post builder app in here with 57 downloads and like 5 subs. Here is what has changed since.",
@@ -1059,7 +1082,7 @@
   "uid": "b8c418ea30e8f80c"
  },
  {
-  "rank": 44,
+  "rank": 45,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xbtpt8",
   "title": "I thought I had a $799/month SaaS business figured out. Then 3 potential customers told me they wouldn't pay for it.",
@@ -1082,7 +1105,7 @@
   "uid": "92614843dde9ba11"
  },
  {
-  "rank": 45,
+  "rank": 46,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/d78bb1e48665",
   "title": "The Unseen Infrastructure: How Solo Founders Are Quietly Earning $23,000 to $100,000 a Month…",
@@ -1105,7 +1128,30 @@
   "uid": "02eb80a4bb5f17ad"
  },
  {
-  "rank": 46,
+  "rank": 47,
+  "source": "reddit/r/SaaS",
+  "source_id": "1xm6xx9",
+  "title": "[USA-CO][TECH] Bootstrapped dealership software with paying customers seeking sales & marketing cofounder (buy-in, up to 30%)",
+  "url": "https://www.reddit.com/r/SaaS/comments/1xm6xx9/usacotech_bootstrapped_dealership_software_with/",
+  "text": "I'm a 10-year car dealership guy (F&I, then Sales Director) who built software that dealerships actually pay for. It's live, it's profitable, and I need a partner to sell it at scale. What exists today - AI that answers every dealership lead in seconds and books appointments, plus a full CRM, call grading, desking, Marketplace lister, and mobile apps - 6 live stores, 5 paying, 57 dealership users, $5.7K MRR, profitable, $0 raised - 5 more stores verbally committed for November - Certified CDK integration, other DMS/CRM integrations done Who I'm looking for - Has sold into car dealerships (dealer tech, DMS/CRM, F&I products, digital retail) or ran a dealership sales team - Can own sales and marketing: build the outbound team, run demos, close GMs and dealer groups - Full-time, and in a position to buy in with cash What you get - Up to 30% equity, standard 4-year vesting with a 1-year cliff - Cofounder title, real say in the company - Buy-in amount discussed 1:1 DM me with what you've sold and to whom.\nsubmitted by /u/Agreeable_Post9604\n[link] [comments]",
+  "author": "/u/Agreeable_Post9604 https://www.reddit.com/user/Agreeable_Post9604",
+  "created_at": "2026-11-02T19:30:01+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 5700.0,
+  "revenue_evidence": "ster, and mobile apps - 6 live stores, 5 paying, 57 dealership users, $5.7K MRR, profitable, $0 raised - 5 more stores",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 26.34,
+  "llm": null,
+  "first_seen": "2026-11-03T01:04:12+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
+  "uid": "d0ef160ad332f1ab"
+ },
+ {
+  "rank": 48,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -1132,7 +1178,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 47,
+  "rank": 49,
   "source": "reddit/r/SaaS",
   "source_id": "1xfgq2w",
   "title": "Dumber Ideas Get Better Reach",
@@ -1155,7 +1201,7 @@
   "uid": "60f816b083d185bd"
  },
  {
-  "rank": 48,
+  "rank": 50,
   "source": "reddit/r/SaaS",
   "source_id": "1xgywvf",
   "title": "Day 196 of $10k MRR building Journey",
@@ -1178,7 +1224,7 @@
   "uid": "60e43e0f02471b8e"
  },
  {
-  "rank": 49,
+  "rank": 51,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -1201,7 +1247,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 50,
+  "rank": 52,
   "source": "reddit/r/SaaS",
   "source_id": "1xbst67",
   "title": "When did you move beyond Stripe for usage based SaaS billing?",
@@ -1224,7 +1270,7 @@
   "uid": "7f4c3587b8f2df37"
  },
  {
-  "rank": 51,
+  "rank": 53,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
   "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
@@ -1247,7 +1293,7 @@
   "uid": "906e0e7c45fe4249"
  },
  {
-  "rank": 52,
+  "rank": 54,
   "source": "reddit/r/SaaS",
   "source_id": "1xgu4pq",
   "title": "What payment data from 24 small products taught me about pricing: credits, one-time sales, lifetime deals and decay",
@@ -1270,7 +1316,7 @@
   "uid": "6130e52ee253a318"
  },
  {
-  "rank": 53,
+  "rank": 55,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -1293,7 +1339,7 @@
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 54,
+  "rank": 56,
   "source": "reddit/r/SideProject",
   "source_id": "1x9h1yz",
   "title": "My side project outgrew my 9-5 salary",
@@ -1316,7 +1362,7 @@
   "uid": "71a93d238e3d6175"
  },
  {
-  "rank": 55,
+  "rank": 57,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -1339,7 +1385,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 56,
+  "rank": 58,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xklobj",
   "title": "I just generated $3700 MRR in 17 days with my new SaaS. Here's my strategy",
@@ -1362,7 +1408,7 @@
   "uid": "5bb52c95c8d63f68"
  },
  {
-  "rank": 57,
+  "rank": 59,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -1385,7 +1431,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 58,
+  "rank": 60,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -1408,7 +1454,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 59,
+  "rank": 61,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -1431,7 +1477,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 60,
+  "rank": 62,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xf6g7v",
   "title": "I recently launched my 8th product and scaled to $8000 purely organic. Here's the playbook.",
@@ -1454,7 +1500,7 @@
   "uid": "138ff969b020b3be"
  },
  {
-  "rank": 61,
+  "rank": 63,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -1477,7 +1523,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 62,
+  "rank": 64,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -1500,7 +1546,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 63,
+  "rank": 65,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -1523,7 +1569,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 64,
+  "rank": 66,
   "source": "reddit/r/SaaS",
   "source_id": "1xfgrcp",
   "title": "I thought I was making $2K MRR. The actual number was closer to $1.4K",
@@ -1546,7 +1592,7 @@
   "uid": "0bfb36656ddfeb81"
  },
  {
-  "rank": 65,
+  "rank": 67,
   "source": "reddit/r/SaaS",
   "source_id": "1xje03l",
   "title": "How do you deal with aggressive/malicious competition?",
@@ -1569,7 +1615,7 @@
   "uid": "66eb015a75f28bef"
  },
  {
-  "rank": 66,
+  "rank": 68,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -1592,7 +1638,7 @@
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 67,
+  "rank": 69,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -1615,7 +1661,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 68,
+  "rank": 70,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -1638,7 +1684,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 69,
+  "rank": 71,
   "source": "reddit/r/SideProject",
   "source_id": "1xase0i",
   "title": "I made a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live",
@@ -1661,7 +1707,7 @@
   "uid": "8e8171f07db7e4c7"
  },
  {
-  "rank": 70,
+  "rank": 72,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -1684,7 +1730,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 71,
+  "rank": 73,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -1707,7 +1753,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 72,
+  "rank": 74,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xf5jvv",
   "title": "Been doing this since I was 19, now trying to figure out how to find the right long-term fit, how’d you approach that?",
@@ -1730,7 +1776,7 @@
   "uid": "4f844cf7c91045cc"
  },
  {
-  "rank": 73,
+  "rank": 75,
   "source": "reddit/r/indiehackers",
   "source_id": "1xaw9cq",
   "title": "How I grew from 0 to 13k followers on X in 200 days (almost all replies)",
@@ -1753,7 +1799,7 @@
   "uid": "664be230cba47e75"
  },
  {
-  "rank": 74,
+  "rank": 76,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xja70v",
   "title": "My offline transcription app made 6.8k USD in the last 28 days. It just passed 300 active subscriptions.",
@@ -1776,7 +1822,7 @@
   "uid": "06ca78eb33c6d0b8"
  },
  {
-  "rank": 75,
+  "rank": 77,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -1799,7 +1845,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 76,
+  "rank": 78,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -1822,7 +1868,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 77,
+  "rank": 79,
   "source": "reddit/r/microsaas",
   "source_id": "1xlapan",
   "title": "Made $68 from my SaaS projects in October. Small win, but it feels good!",
@@ -1845,7 +1891,7 @@
   "uid": "70571853da859715"
  },
  {
-  "rank": 78,
+  "rank": 80,
   "source": "hackernews/comment",
   "source_id": "50169017",
   "title": "Comment on: Facebook now charging to post more than 2 links a month",
@@ -1871,7 +1917,7 @@
   "uid": "d5ae04bec44b4200"
  },
  {
-  "rank": 79,
+  "rank": 81,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -1894,7 +1940,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 80,
+  "rank": 82,
   "source": "reddit/r/SaaS",
   "source_id": "1xenqz6",
   "title": "Why is every \"$10k MRR in 30 days\" thread written by someone selling a course?",
@@ -1917,7 +1963,7 @@
   "uid": "31efc38746053407"
  },
  {
-  "rank": 81,
+  "rank": 83,
   "source": "reddit/r/SaaS",
   "source_id": "1xgeice",
   "title": "I read 6 of the biggest r/SaaS threads from the last month. Here’s what people agree on and where they split",
@@ -1940,7 +1986,7 @@
   "uid": "18252de863f72992"
  },
  {
-  "rank": 82,
+  "rank": 84,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -1963,7 +2009,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 83,
+  "rank": 85,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -1986,7 +2032,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 84,
+  "rank": 86,
   "source": "hackernews/thread",
   "source_id": "50311023",
   "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -2007,11 +2053,11 @@
   "score": 12.01,
   "llm": null,
   "first_seen": "2026-10-31T05:53:31+00:00",
-  "last_seen": "2026-11-02T16:18:41+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
   "uid": "9c8b2d1bb5b02ea7"
  },
  {
-  "rank": 85,
+  "rank": 87,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -2037,7 +2083,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 86,
+  "rank": 88,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -2062,7 +2108,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 87,
+  "rank": 89,
   "source": "hackernews/comment",
   "source_id": "50300346",
   "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -2084,11 +2130,11 @@
   "score": 9.0,
   "llm": null,
   "first_seen": "2026-10-30T13:04:31+00:00",
-  "last_seen": "2026-11-02T16:18:41+00:00",
+  "last_seen": "2026-11-03T01:04:12+00:00",
   "uid": "072b354f4498c312"
  },
  {
-  "rank": 88,
+  "rank": 90,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
