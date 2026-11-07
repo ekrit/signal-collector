@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-11-06 19:30 UTC · 4236 tracked signals · 97 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 50 new this run_
+_Last updated 2026-11-07 06:08 UTC · 4261 tracked signals · 97 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 25 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,17 +8,17 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 326 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 304 |
 | [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 57 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 39 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 38 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 3 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 23 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 22 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 20 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 20 |
 | [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 22 |
 | [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 10 | $3.5k | 70 |
-| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 47 |
+| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 44 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 12 |
-| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 18 |
+| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 15 |
 
 🚀 = on track to grow ≥ 4x within 5 years · ☪️ = halal-economy vertical
 
@@ -160,20 +160,20 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Space-Based Data Center Market To Reach USD 11.1 Billion by 2035 at 21.0% CAGR - Market.us Scoop](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ad1otMENxT0VFOGxmdnhOa0NGMFdyWWE0WlVzMnMyMFhBTk15UE00cjFyeTdwcTMwTFA3cEpHbHhEUzczci1PUjVUNGZIRmRLX0plRS1POEhDcjFrMlcwblVXUjRkamNDb0p6LQ?oc=5) (2026-10-26)
 
 **E-commerce & creator tooling**
+- [Automatic Label Dispensers Market To 2035: E-Commerce Logistics Automation Supports Growth - News and Statistics - Inde…](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDktN0g4Nll3Zl93OTJWemxkaFpfZ05wR3YzSnN5X2pyS2FqaDBzMlBKWDg0RHNwcVlibVlzZWhiWkZtWGdxQlBwbzNveDN2azA0S0tsUU4yZFlIM2V5WXdvZ3pFOUFrSXYzMUxVR0ZZZjFORDJqM2hEaU9KU0lSaGRSMlRMUTExR1h5UVhMak1ld0tYSDluTFFPOGY1eUpmaS04bGpoemg1VWcteVBMbV9ZNTVTQk1tcDhkcnZrQQ?oc=5) (2026-11-06)
+- [Chutes and Accessories Market Forecast to 2035, Driven by Warehouse Automation and E-Commerce Parcel Growth - IndexBox](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUnRyREJlaHdlck1SOGtVLTJSQUlnRnVVY1Nrclc4bWVTbEIwTWpQTGJ1UWpoLUg2dVdhVTN3V1h2QkpHOUFvenFGdnJoOUlCYVAwWTczWjlJOUFnMjc3MG1qM3NfSXRxTWMyaENLTC1OWk5iMS1hbzlid1ZoeWliSURTd0VmU1FmY0JJSHM0eDZBd1R3TE1qQ0lCbFdMTWJYQ1NveTJMZXFQc296WWRRcmp1QXdnVXE4dWx0aVJnWjdvTUYzMTNuaWkyVlBYQjdNcmc?oc=5) (2026-11-06)
 - [Dental Cleaning Tablets Market Size, Share \| CAGR of 8.2% - Market.us](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81MTA4YWI1Nm1uLXlGQXZ5dUVLNFNCMVJGbS1WLXJLRzRkODRkR01NT3VBOEg2VklBa0lkSWpveXh0cEpDTnRJYWIyUFN0SDNITWRaSkdPalB6ODlRU19UckpsNDhtTTQ?oc=5) (2026-11-06)
-- [Textured Soy Protein Market Size, Share \| CAGR of 6.8% - Market.us](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PSGwtT1FWdHNac2I0ZmVXekwyVmpBZGU2Tlp4ZThWbFlMYjk1TWozazNoMkxZekhnT2VScUxheXVMcG12ZEZ2X21VQTFoQVE5b2JGQ2JDbC1HUTFnTi13VjlNaw?oc=5) (2026-11-06)
-- [Same-Day Delivery Market Valued at USD 84.72 Billion by 2035 as Fulfillment Networks Chase Reliable Speed - openPR.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3dmS2d5NVJXTk9kdkFYclc2em9pMmhBYktwb21kTzhzb1E3WWthMmhoNjRfNHA1b2pGMlQxRmxBb1BtOUl6REVNdkpLcEF2VzhlQmlyU1k1aVhFQ1MxMmNSVFRGMjg3Q2xpbFE2aDRwcUUwUGNiMkRmbFAzOG54bTdNNWxFbXdwbzhzeUpQeE5IdUJRMUVOeVUxb205OE85?oc=5) (2026-11-06)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 41 | ok |
-| hackernews | 290 | ok |
-| rss | 52 | ok |
-| google_news | 71 | ok |
-| devto | 371 | ok |
-| reddit | 88 | ok |
+| producthunt | 40 | ok |
+| hackernews | 282 | ok |
+| google_news | 70 | ok |
+| rss | 55 | ok |
+| devto | 368 | ok |
+| reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -181,8 +181,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 19,
-  "not_modified": 27,
+  "ok": 33,
+  "not_modified": 13,
   "retries": 0,
   "errors": {}
  },
@@ -194,12 +194,12 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "hnrss.org": {
-  "requests": 6,
+  "requests": 3,
   "ok": 0,
-  "not_modified": 1,
-  "retries": 4,
+  "not_modified": 2,
+  "retries": 1,
   "errors": {
-   "502": 5
+   "ReadTimeout": 1
   }
  },
  "medium.com": {
@@ -224,13 +224,13 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 63,
-  "ok": 4,
+  "requests": 69,
+  "ok": 3,
   "not_modified": 0,
-  "retries": 47,
+  "retries": 52,
   "errors": {
    "403": 2,
-   "429": 57
+   "429": 64
   }
  }
 }
