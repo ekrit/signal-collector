@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-11-07 21:58 UTC · 4306 tracked signals · 97 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 18 new this run_
+_Last updated 2026-11-08 06:11 UTC · 4325 tracked signals · 97 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 19 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,15 +8,15 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 297 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 311 |
 | [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 54 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 34 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 35 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 4 |
 | [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 28 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 16 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 19 |
 | [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 21 |
 | [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 10 | $3.5k | 66 |
-| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 44 |
+| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 45 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 11 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 16 |
 
@@ -118,8 +118,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 **AI agents & workflow automation**
 - [Production Planning & Scheduling Software Market size was - openPR.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEhIblZvRFpVQmE0ajVFSXc1cl9hY2ZzZ2RqNzRTRms5X1ZGNlhCMjVCOUhHZktyd2xfODNyNHppSzVJNXR1TlNmNHdPNUtTUmREQ28xRUc0ak1Gd2dBMXJyZHFmajBFVHVnV1c1WlJ0aG1zS0NTeTQwTXF6Ny01RTd2MndkOUFXa0hFVTBnall2MHAxdkE?oc=5) (2026-11-07)
+- [AI in Virtual Medical Assistants Market to Worth USD 8.85 Billion by 2030, at a CAGR of 36.6%– MarketsandMarkets™ - Yah…](https://news.google.com/rss/articles/CBMingFBVV95cUxOTnhJdU5QWmFIUUVhZmFmVGhLNHdLNnB3RXNJMHpZWk5BTlVJRWNWc2FSeHNVQjhxSmlVcGRIN251d0hiQkFkRmhRdEk2YlhNZ3Q2T1JfRm1OLUZiMGNFNXREZngzZFVZX0tFN3FiamNrZlY1UUZJY3Fxd1JNMy1aY2xZZlhhV0hYRENrbHJQU0diR1hsWi1ISXNSOEUzZw?oc=5) (2026-11-06)
 - [Data Security Market Report 2026-2031, by Solution, Geo, Tech - MarketsandMarkets](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVi16d2RESXUzaG8xNktpQlAzMlRyVkNQYjlfUTREbkVSM09PX3R1bUxnVkJCYUZoVVExa0dxUW10ZGxFR1NMcDMyZ2NBczV6RG04di1LNEFabXhaVS0yV19nSGVpV0c3NzJhY0lzSXJjRVFTUlhNRTdDOE1ZX3liOW1jcGFia2R3TEtVaA?oc=5) (2026-11-06)
-- [Third-party AI Assurance Services Market (2026 - 2033) - Grand View Research](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0w1eGlqU2ZsOWQ1bFFfQ2dhSkVNYmFWTUpoSnNLdjFuNmRINlFTSDN3WXNrWGlNUDVvNnB0S29hVW5jYnVvN1ZzODNoUU9EV1V0cDZyN3psb1NtZ285Y3VDaHVNN2UteDJNNUl6MmV5aThQVVRISzR0X2RWSENjSU9OV0lVT3NFeDJUYXRnUmZBMWp1ZDc2WG5Ha3g1R0lz?oc=5) (2026-11-05)
 
 **Vertical AI SaaS (industry-specific AI tools)**
 - [Modulate raises $25M for native AI-based frontier audio - SaasRise](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjA3QkUxSzU4SHVmY1JjbWhEVE15WVVQM1RYQ3lmM24wc25xaFJCdnRvRW1odFZnX3V2djFGd3BBTkFZU3Q0ckdxYXZuejg3QWFLUC16c0VaYS15MjFNRGZqY0pGRERfTmRkcjZhT2tUY1Z0M1pEb3lHN2QwUkUtX3l0cVFEdzVfUkU5eVJqdXhqenhtaHB4Z242eXBKVEs1aTgxelQxdnJFeEpVOEZmOWZTbTFtWDZzX2wwcG00dw?oc=5) (2026-09-28)
@@ -160,20 +160,20 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Space-Based Data Center Market To Reach USD 11.1 Billion by 2035 at 21.0% CAGR - Market.us Scoop](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ad1otMENxT0VFOGxmdnhOa0NGMFdyWWE0WlVzMnMyMFhBTk15UE00cjFyeTdwcTMwTFA3cEpHbHhEUzczci1PUjVUNGZIRmRLX0plRS1POEhDcjFrMlcwblVXUjRkamNDb0p6LQ?oc=5) (2026-10-26)
 
 **E-commerce & creator tooling**
-- [Pickled Products Market To 2035: Fermented Health Trend and Snacking Drive Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNndnaFhmLUpnczU2eFBrTUprWG9HSVhGVDdEdWdpRDQxZFNuaWpfM1FBbWtxSWJidUdtZlVYX2s1dmVXN21sSVdwbW91R1ZBRGFPOHlWMHJIRlBlYWxmbUdGUm1Bb05laGkyMFFGUUJOc2xRMDFGNnJ5WHBfQ0pXSmcxSEMySFRSc2xablJ3cjIteGVDY0tLWEJuRmZVYzYwVU80M0dtX1hSN0xJS3lqY3dQbVVZXzhGSUxFMzlVY2tZR05kUFBpcXJ0QmZZdkxWT04wck1DVQ?oc=5) (2026-11-07)
-- [Polyurethane Foams Market Forecast to Expand Toward 2035, Driven by Building Insulation Demand - IndexBox](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejJqY2UwR3FQSE00dDF1aHVsMERMa1d4NXZYMjBoZnZSMEJ3Uk40aEdMb0dPbENESWxTNlFnLTk3bkZRTmVYX2NWSFpibGQ3dGFTWGV0NGVJMWlIbllueWhOMWNwOUZtcVI3TmVBaDhCdlpOY1c4clFZVDBFUWxLUkN1RC04cnpmbnZxWVI1RjZrczNCMlhBNmgwR0ZmSGFRRWtiS3pOU2FaQnBBN1d5SmV6NjBDZTJUSFhJazljcG8?oc=5) (2026-11-07)
-- [Sawmill and Woodworking Machines Market Forecast to 2035, Driven by Automation in Furniture Manufacturing - IndexBox](https://news.google.com/rss/articles/CBMizwFBVV95cUxORFB4TTlfelQwYmJ3UkpzQXpLblVEeVRpU2NwX1Y0QW9VMlFSeHkxXzFQRTJfdEx2N1V2TG9fOFBILXJSVkRtX0lsVmRfYjU0eDRMdUZ2ZFJKdlIyU0NTZUk0TmhseGlLS25RV3JqSThFZ0FFSDYxOXNfbVBqbmpjVzdkcDZIMVIwdEVqMVVWRmYwZ1hZTTJ2NWZJWTUtaTVVVWRCQjhIN1B0NkNVYVRjRng3OUNhWnVkRjBfOFFPUWZPTHA0aTZSbjhJdWp3dVU?oc=5) (2026-11-07)
+- [Compact Citrus Juicer Market To 2035: Premiumization and Health Demand Support 3.2% CAGR - News and Statistics - IndexB…](https://news.google.com/rss/articles/CBMizAFBVV95cUxNRU1XMFFFeFZOUDJOTFpFdEdrUVJSVjAxNV9xSGZ6Mm5RV0ZTQWdaT2M3b2RtdS00N09GeDFCSkFJVmlITWZTNVp4ZHVQclRXaERLX2JDaHVNbXY2Y29CZE5SSUJ5ZGNGaEpUbjhTclM3VmtIbkluR2t4Y1JnQlRqUW1HOUZoN25hbDFXejA1MXplRFdFMVVLVExNdFZNVS05YWhTSWtGQ0lSLVExSmVrZGhkemYxdkx2eEo3ZFdGTFRpc0k0Y2xpYmVyVGs?oc=5) (2026-11-08)
+- [Metal Filled Polymer Filaments Market To 2035: Aerospace Demand Drives Forward Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdk1hY2VvdVR2V1pwSGVYZWtDTEdUWTZPXzZQYWZBS1QzOTlHSVlXUlEzUHlQZmZOWXdON2VpenJxZkpuRzZkaEhSUndmVU5IZEFxR2l0bWdhRmJ4Z0c4OGpLZnBXMF9RQXdhUmQ4SHAxRDhtd25yYnhHUDhvRTBwLVhJLWNFeHN0R1dheEdyRUNacGJrQlgyRU9KdEpwLV9VS2ZPNTNxYVlZUVJ5TlFrV19MM3FmaDFZdjU4VEdTb2ZpeWVNTUUzSWhNaGhlWXZTOXdSWA?oc=5) (2026-11-07)
+- [Gardening Hand Tools Market To 2035: Urban Farming and Premiumization Drive Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVAtNkZVSE9mbzJSQ0ZFTVJUWDdocWhITHRCT2VZcjJnTnpDYlVfRURWVnZfdXRCX056V0xBc0xwZTBPZGJGOWJ4cndpOHFocGlaUWxDSzQzd2tlSW1mSGpjekJkZzBSZXVCa1VCd3ROVDczRElmVWRQcE82SzJFYm1OMlZFeWx3SUtYVnY1VjhXWHhNalZ0WGIySVpiNjBaNmJMNDNWeHVMcWZ4OHVjSFg2UVJmZ1NS?oc=5) (2026-11-07)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 44 | ok |
-| rss | 54 | ok |
-| hackernews | 281 | ok |
-| google_news | 63 | ok |
-| devto | 377 | ok |
-| reddit | 30 | ok |
+| producthunt | 35 | ok |
+| rss | 53 | ok |
+| hackernews | 291 | ok |
+| google_news | 62 | ok |
+| devto | 376 | ok |
+| reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -181,8 +181,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 18,
-  "not_modified": 28,
+  "ok": 15,
+  "not_modified": 31,
   "retries": 0,
   "errors": {}
  },
@@ -195,8 +195,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
  },
  "hnrss.org": {
   "requests": 2,
-  "ok": 1,
-  "not_modified": 1,
+  "ok": 0,
+  "not_modified": 2,
   "retries": 0,
   "errors": {}
  },
@@ -223,12 +223,12 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
  },
  "www.reddit.com": {
   "requests": 69,
-  "ok": 4,
+  "ok": 3,
   "not_modified": 0,
   "retries": 52,
   "errors": {
    "403": 2,
-   "429": 63
+   "429": 64
   }
  }
 }
