@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-11-09 06:45 UTC · 4408 tracked signals · 99 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 30 new this run_
+_Last updated 2026-11-09 22:28 UTC · 4444 tracked signals · 99 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 36 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,16 +8,16 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 296 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 47 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 26 |
-| [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 3 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 29 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 19 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 283 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 35 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 27 |
+| [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 4 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 28 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 20 |
 | [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 22 |
 | [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 10 | $3.5k | 63 |
-| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 25 |
-| [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 11 |
+| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 34 |
+| [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 10 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 13 |
 
 🚀 = on track to grow ≥ 4x within 5 years · ☪️ = halal-economy vertical
@@ -130,9 +130,9 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Computer Vision in Healthcare Market 2030 \| Global Key Players; - openPR.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOamJ2VDVHUlAxZmxjNTFPcjd5YTlXREFfQkpxaHEzLUt5OEd1b1Z2NHZidWRybVc1dV9RRC1kYTFibGF1ZC1EY2VmUG91LWNZWUk2aDQ2dWhNdXB0ZHVmcGlKMElYVGxQbkJ3ZVdvdlRNbXdqR1BDNDRrMTdxRTFIWEFvUkRFYnBFNzdER2Ewekh2dDRwcUFTZ0pMT3o?oc=5) (2026-11-05)
 
 **AI in education & e-learning**
+- [Bot Security Statistics By Market Size And Country (2026) - TechnoTrenz](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nVnQzNmtaTTZlZ2FOQmlyVVY5Z3FqY2N2UnRJRHpJNnJIZVJVeGJzTnZVcFRFY0JVb3RBS0hidDZ4NXkwRlgzVXNfVTZPa3laVW54WmhFeGx2NVlxSkJnQnMxeGI?oc=5) (2026-11-09)
+- [Bank Kiosk Statistics By Future Trends And Insights (2026) - TechnoTrenz](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vMlNmSzFoQkE3QUhXdzR0VVpOTE9EUmtIZEJFTWdPX1BMS3hZbnVOSVE2X3ZaaVg2R1k0N3ZlcW85RURKOEU0a25mUndrRFRBbXJHMGtHZENpRnRXZnJhSDhB?oc=5) (2026-11-09)
 - [Smart Grids and Renewable Energy Drive Air Insulated Switchgear Market Expansion - openPR.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMWFIQ1M5YnpXQUNieHZfZUg5S29VZ19xbm1mQUpSVkdFbU1NQ3JyaWhSVFMycWhZMTZmUzRqdDJaRldrTU5jaUZVMnhlWXNLNzRndURFSlQzRUlXM213NHBqVG1BTzlnNjhNNW1oV00tVmNUWUZEYmxNS1h3RXhMNTg0SE9mcExUeWY5QXNYWlVNcVVTTE9xMHVtQ2pWejFh?oc=5) (2026-11-04)
-- [Steel Sections Market to Reach US$192.2 Billion at 5.9% CAGR Driven by Infrastructure and Sustainable Construction - op…](https://news.google.com/rss/articles/CBMimwFBVV95cUxOUm8tcnY2bEJENXhxanZJTzg1UkNUeDJVcnI1Q1F2cjJzUHVvZXVGcTRJT0xQU0xwUEdHZlVJUjd2T0hUOHdMREY2TjI5RVdaX0xGaVVRdG41REwtQU1LUkhTanRlNHFLek0tMmV6TmpuZ29TVXNmbGx3QWZiZzNlU2M2c1l3S0cweENrNE44dlg4N1RPak1oUlZqaw?oc=5) (2026-11-04)
-- [Structural Steel Fabrication Market to Reach US$255.0 Billion at 6.4% CAGR Amid Infrastructure Expansion - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPLXZaZmZPUkJCekM3d3RwakdVQnNHVGh1VGhhbHZUdUFyek1KN3pjQmdVNTk0OVJMbU45VjNUVEd3TzlTalFmNElIbGtPN2FDWHZCeWxEOXFSSVhaWmJ6Z2ZEaDZEQXY2cm5GdkN3emdZSVAyVlJ4b0hJQmJFZExieTFRdHNXXzlYTmtWc1psaE9zVFNaMEp3X1hyTlAydw?oc=5) (2026-11-04)
 
 **Legal AI & compliance automation**
 - [Congressional Cage Match 2026: Private Equity Squares Off Against Patient Care - Law.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxObVVmNGNBUEtjb3E3c20xYm1iVTBXRllWbFB2RDlyUWtNekVrcVlYV1FuX2NXNzczejcweVZJdXpIelFlUUhJQ3lOLS1SZGFCR1lMZkM0SnRwc0lPWjVUUndMYWthZHp2Vng2VS13Q2xQRXdZSmhhS21NZ2lfRkZlS0p2eWZaRzZkT205Qi1maE40b3ROSzVTcHpJNy1keDFjRlRWOHB1UDdTZUowLXkwb1VzcGVaNDBOeFNYOGtNT0lKdGp1R2c?oc=5) (2026-11-05)
@@ -140,9 +140,9 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Artificial Intelligence (AI) in the Legal Market Outlook to 2030: Analysis of Market Size, CAGR, Trends, and Forecast -…](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1ZyNHlnUWNMaEVFZkhQSEpHVmE2c3U3VkgtOEttYnJxUlI0SFpOTG5fdkNaOExwVk5BbUl0WVRoMjdUS014Y01kMHhieWhneXhqaWQ3djJHTU9LVDFYSGUyMTRCejVZQ2U2aHVYMURqU3k2bWF2a3p5R2NlQnpSYmpHVWp3YnlwbmZqakI5bi1JMXZ0NDRsSE4yYVZfMHM0VE1oR09WWTg5NnBHQ3lRLTRQcHhubWZpd0VLRk1ycHNkWm1Vc0V0aGR5U21obW9wM29hVEpmclktRFc0azdIbEpqSmV6RHlo?oc=5) (2026-10-27)
 
 **AI cybersecurity**
+- [Reach Security Recognized as a CRN® 2026 Stellar Startup - Yahoo Finance UK](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXdUeXpNendNZ1BoSmp5dThoN1NZUktmNXI2anhGRnkwdlo3ajJNN1JBVnlTSHNzQ1pOd2cxYnhFZFFpX280UERPUmlnWXM3NDUxcG16MlR4bGEtTFdXR3RjRUxjeWlpTjhyV2dwMlpKbzVlTVREQ014THRfZzFmb01rZ3FUbjF3Q3NR?oc=5) (2026-11-09)
+- [UNESCO pilots digital education in 54 Jamaican schools - CoinGeek](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbldSM19Ib3NYREFLWk82RWszOGJ4c3hzb0trWndTSURHNlhBZEJLMVNMOWl2d3lJaEtXem13UWdmLXNkZ0d4Ym1EWmpXX25iVlNLcEFtWmFBbG1Uak53RG52T2JXanNtMnBPUWJuSUkyUW5KUURoUy1wZTBybVdUSkNn?oc=5) (2026-11-09)
 - [Pakistan, Russia identify IT opportunities in AI, cybersecurity, cloud - Investify](https://news.google.com/rss/articles/CBMirwFBVV95cUxNbWNyZnRkdTd1bmxTSkdPcngzY2l2YUpWd2ZFdHBmbE9odmxya0tXWTM1R0dJdk90QUZ4X3BETTJ2NUx6cTFLbkVrZWt2dGMzSTFkTDRqOGNkVFFoaHdIMFlieHdmOTVSRGU2NEs2T0lhX2F1UklNS3A4WkVLRUwyUndKYnFlWjMyR0ZqSnNTTVlXV2RSS2M5SGxFQmt3WXczS3Fub25heDdyZmIyMXdN?oc=5) (2026-11-06)
-- [CrowdStrike: Flawless Execution, But The Price Of Admission Is High (NASDAQ:CRWD) - Seeking Alpha](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWRlQWhUYnNGa2k1eE4zUWFkMVR0TTdaVm1rUGtmSG44X0U3T3pLZXpPSUhoYVNqZ2VfYVJDUGUxaWxWeWYyVXBGN0UxcEgySkI4X2IxWkJFdW16U0hvd1hKRmwxZjdIanl2ZG9DSHJ5S29nWndUXzFSMFoxYTNiX2dpSEIyNF9YUHNhRTgySTRzWU1xb2YycG9TLUhTRUF6cTVxTXFZOTYzQQ?oc=5) (2026-11-05)
-- [Broadband Access Equipment Market: 5.77% CAGR [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMingFBVV95cUxNS3hRaUVOYmZ2eUNnSS1hOTZXaEFuZC1HOURKeVZVNnpMNnpHb3ByeEZkUVpETG5LalQ1blE5ZkFubWZ0clZzT2lSMVNSc1lfSE5QOWhGeU1icHZMWTVmOUx4UUx0Wi1JNWFNaW5CREpPTTJaWV8yNldlR2d6MFp3YlFnM0Ntcm8zeER6VlJDMjNmMnoyNTdHR05fSWV1UQ?oc=5) (2026-11-05)
 
 **Islamic fintech & Shariah-compliant finance**
 - [Malaysia Private Equity Market Size, Share, Trends, Industry Growth and Comprehensive Analysis 2026-2034 - openPR.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmotbUNPY2wxOGt1bUtvOHV0TC15WkhpWThVbnVvcnVyazZGQTBuQzNnU3k4c01Uc0FEVFdld2haZ0M3ekw2Wng4QlZzTFBPUFRYUXJERDUtZzZPaGFzTWhnd1ljUURMQUt3dDA2eTZnS2RJQjUwcTRVQW5GZG9Ya3hhWEtHZjFDdGRaT2F6OEdsLWRBdENReg?oc=5) (2026-10-06)
@@ -160,20 +160,20 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Space-Based Data Center Market To Reach USD 11.1 Billion by 2035 at 21.0% CAGR - Market.us Scoop](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ad1otMENxT0VFOGxmdnhOa0NGMFdyWWE0WlVzMnMyMFhBTk15UE00cjFyeTdwcTMwTFA3cEpHbHhEUzczci1PUjVUNGZIRmRLX0plRS1POEhDcjFrMlcwblVXUjRkamNDb0p6LQ?oc=5) (2026-10-26)
 
 **E-commerce & creator tooling**
-- [Programmable Blender Market To 2035: Smart Kitchen and Health Demand Support 5.2% CAGR - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdF9YSEhqdGM4cGdXWnFhYWY3ZzhHcDhzNTR2STRqLTM1ZUdta18tZW43UU9Gb2NydEkzbUN6VTBFYXRlano3aEZVdDF0Y1hZMUN1Zl9wbEJnc3FOUHRuLW91cFpLQlVDZlVrcFVNT1ZSamZtbGFMUVBpeThTWWtlaExGejZqZWczOUhaY3hJRURLaFdGV0t5MklRc01TTWRGSERMWmt4R1ZqQUROWThyQkVkZHBuM09JZmxJaEZUR3daNEdaX1RKTlAtMTlTdTMyNXJVVjRWc21uVl91RTVyak53?oc=5) (2026-11-08)
-- [World Minimalist Throw Pillows - Market Analysis, Forecast, Size, Trends and Insights - IndexBox](https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVNCMEprd2g4bU5WcUZOaW5semItYUE0Z3B4alVOc01FUnBzZHJidDlHOEhORDFzV0VPMjFxemEzZEtnanRVUS13MHNXazVnMXJzYnBqWF9BeHBpc2Y5SVI0aE0tVVBGRDJtQW5pc1dQTDE3VW05OEd4SkdaQTJGd3B4b001UFdaRVl1bzVSMkN5NkFhVjViWEUwa0Z2WU5TR1MwcWlwRGNpVF91THNzeEc0SVdXVEs4NXJxb0pOQXhIZk9oTzhwNm1PWUtsY1FLY1E?oc=5) (2026-11-08)
-- [Leaf Chains Market to Reach 3.2% CAGR by 2035, Driven by Infrastructure Modernization and Construction Spending - Index…](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTUxvRTBhSFFyS21DaDduMDBaWDBYeW9uR0Y4X0hZbGx5Rms5dGlpWlJMUVROc21wN2otZzU3Q2tVbjFGUTNTUWJzQmZPMklydjZhYnVBQ0lZVDNUdGx2RkI4MmdCYTQ5YnlfZmtlRGFaOGRxYUJQRGlKRUdFRDhDcjJpTjlJNzVfelBoVGNYUFZIbmllSXlzWW5BZEU4a0pkLVV4VlM3MmlYVjRjV043ZTV5dGw4Rmd1RENfTm4xQ2ZXbG15ZGw4aVUxUi1LZ2RvaG1ubll3?oc=5) (2026-11-08)
+- [Color Changing Motion Sensor Light Market Forecast to 2035, Driven by Smart Home Security Demand - IndexBox](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1R4d21ONGYtWlpsZXo0ZU94N3VEbjRqTkNBT2k4Ym5WM0U1bVVlTmQ0SnN4M2kwNE5RM3o4LTgtSFh2cGEyRDZIT1VxSk9jeEFYVUlOVjV2SGt1ZWdMMU5OWGVtRGhuY0NFSHlLMjRwTGlpZk00bnFxQXNLTEdWdlU3RjR4cm1la3ZGTG9tV1g1UjlGWFY4ZGJBX2JXWUZ1LVBZRlRXV3l6TDhBNHRmRUJKOGVfY1Z4RXA0U1JoUDFWU00?oc=5) (2026-11-09)
+- [Thermal Paper Box Market To 2035: E-Commerce and Retail Demand Support Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmtOcXp4NzlNWVN5MVNxay1TNDN6aXlyRmx6TzFhY2t5ZTJzOTA0TU5TZGFOMGh4bUg0eWhnaEFOUHliYXVzc3JTQlNlWWh5a0k1S0tybzRIcUZ6UW9QVTFjQ3hHcnRqbzJyLVBIUndRV3hhOURsa1hLZ1Y3LXZBbWdPUGNHNlRmeXpFdzEwRTNabVlFR1JfZDhZZkw4OEVKaUFqWEM5TWE1RlQ1SFBqXzFiUE5TOWRXMXJZQkVpb2NuRVJvQlE?oc=5) (2026-11-09)
+- [Duplex Board Paper Roll Market To 2035: E-Commerce Packaging Demand Drives Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFFuM3JQSFlpaFhnb0xEbDQ2eEZKRlBzbW5wTm9saDF0UHpvdUxJcGtwa2ltZF93VjkzN094NEtfYnBXbXNXVHFSUjhoY0hmT1hQSTViOGRBTlh0QWpFZWVFWlZRVWlQVWxOZEhLOUJtaTA4T3Mxc29tb2l3RUx3bmI4VEhJY0tFYnBvanh3cGJBY2R1Wmg2MVJKc0lkWEp2WW55ek8xQk9McWtvYXE2V0ZaRW5UUFF6cjktTE9WWQ?oc=5) (2026-11-09)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
 | producthunt | 35 | ok |
-| hackernews | 285 | ok |
-| rss | 53 | ok |
-| google_news | 64 | ok |
-| devto | 386 | ok |
-| reddit | 49 | ok |
+| hackernews | 286 | ok |
+| rss | 51 | ok |
+| google_news | 58 | ok |
+| devto | 385 | ok |
+| reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -181,8 +181,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 24,
-  "not_modified": 22,
+  "ok": 33,
+  "not_modified": 13,
   "retries": 0,
   "errors": {}
  },
@@ -195,8 +195,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
  },
  "hnrss.org": {
   "requests": 2,
-  "ok": 0,
-  "not_modified": 2,
+  "ok": 1,
+  "not_modified": 1,
   "retries": 0,
   "errors": {}
  },
@@ -223,12 +223,12 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
  },
  "www.reddit.com": {
   "requests": 70,
-  "ok": 4,
+  "ok": 3,
   "not_modified": 0,
   "retries": 53,
   "errors": {
    "403": 2,
-   "429": 64
+   "429": 65
   }
  }
 }
