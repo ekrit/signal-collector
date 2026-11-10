@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-11-09 22:28 UTC · 4444 tracked signals · 99 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 36 new this run_
+_Last updated 2026-11-10 07:28 UTC · 4472 tracked signals · 99 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 28 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,17 +8,17 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 283 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 35 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 27 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 269 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 32 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 26 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 4 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 28 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 20 |
-| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 22 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 10 | $3.5k | 63 |
-| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 34 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 29 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 19 |
+| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 21 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 10 | $3.5k | 58 |
+| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 35 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 10 |
-| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 13 |
+| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 15 |
 
 🚀 = on track to grow ≥ 4x within 5 years · ☪️ = halal-economy vertical
 
@@ -160,20 +160,20 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Space-Based Data Center Market To Reach USD 11.1 Billion by 2035 at 21.0% CAGR - Market.us Scoop](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ad1otMENxT0VFOGxmdnhOa0NGMFdyWWE0WlVzMnMyMFhBTk15UE00cjFyeTdwcTMwTFA3cEpHbHhEUzczci1PUjVUNGZIRmRLX0plRS1POEhDcjFrMlcwblVXUjRkamNDb0p6LQ?oc=5) (2026-10-26)
 
 **E-commerce & creator tooling**
-- [Color Changing Motion Sensor Light Market Forecast to 2035, Driven by Smart Home Security Demand - IndexBox](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1R4d21ONGYtWlpsZXo0ZU94N3VEbjRqTkNBT2k4Ym5WM0U1bVVlTmQ0SnN4M2kwNE5RM3o4LTgtSFh2cGEyRDZIT1VxSk9jeEFYVUlOVjV2SGt1ZWdMMU5OWGVtRGhuY0NFSHlLMjRwTGlpZk00bnFxQXNLTEdWdlU3RjR4cm1la3ZGTG9tV1g1UjlGWFY4ZGJBX2JXWUZ1LVBZRlRXV3l6TDhBNHRmRUJKOGVfY1Z4RXA0U1JoUDFWU00?oc=5) (2026-11-09)
-- [Thermal Paper Box Market To 2035: E-Commerce and Retail Demand Support Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMixgFBVV95cUxNWmtOcXp4NzlNWVN5MVNxay1TNDN6aXlyRmx6TzFhY2t5ZTJzOTA0TU5TZGFOMGh4bUg0eWhnaEFOUHliYXVzc3JTQlNlWWh5a0k1S0tybzRIcUZ6UW9QVTFjQ3hHcnRqbzJyLVBIUndRV3hhOURsa1hLZ1Y3LXZBbWdPUGNHNlRmeXpFdzEwRTNabVlFR1JfZDhZZkw4OEVKaUFqWEM5TWE1RlQ1SFBqXzFiUE5TOWRXMXJZQkVpb2NuRVJvQlE?oc=5) (2026-11-09)
-- [Duplex Board Paper Roll Market To 2035: E-Commerce Packaging Demand Drives Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFFuM3JQSFlpaFhnb0xEbDQ2eEZKRlBzbW5wTm9saDF0UHpvdUxJcGtwa2ltZF93VjkzN094NEtfYnBXbXNXVHFSUjhoY0hmT1hQSTViOGRBTlh0QWpFZWVFWlZRVWlQVWxOZEhLOUJtaTA4T3Mxc29tb2l3RUx3bmI4VEhJY0tFYnBvanh3cGJBY2R1Wmg2MVJKc0lkWEp2WW55ek8xQk9McWtvYXE2V0ZaRW5UUFF6cjktTE9WWQ?oc=5) (2026-11-09)
+- [Sleep Supplements Market to Reach US$ 17.96 Billion by 2035 - openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQlg2ZEdCRy1fNTkzc3NfMnVqTHl1QmpKV1dId2t3XzQtSTNpQ055d1JGODN6REpwY3liY0xWbWl6ZVpOVTQyOEZQR0MtNDBUWTBzS2d6Vm8yUGZNOXFIYkpMaTFLSGpCMDJSOTA1eTljQW1FVXkwbVJIb3U5MWM2cnI1SENwb00zQnhlbjBuLU9ienJHS3Q2THRn?oc=5) (2026-11-10)
+- [Structural Steel Beams Market To 2035: Infrastructure Demand Supports Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZFhLaGRTcVVmU0l3TFFPMFd4TW9tdWdvM3hOVEN0VXBYblRBUU1fSTVYR1VKd041azZ4YWRIb2l2b2Z4eXRkdE40QVl5MUhzOXh1aXViWERTVTEzT0NueDNZaV9MVWlMZmdSWFlGc3Zra1ZudWRBM3BDX2hVQ1lRaW0tdV9FZTlSV2xQNmlOU2dvZE90LXJtRjgzazJkU1VlV1dBVlJZV1pUVGVVUjNoenN5bWgzX3pfdGtncm5XVUUxc1BzcHdDd2dSRVJHWHRI?oc=5) (2026-11-10)
+- [Waterproof Camera Bag Market To 2035: Creator Economy Demand Drives 5.2% CAGR - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUEhXT2pIVVpDdjBWRFlabzgxNUxDOWt6Z0hxVHVldGtiZk1tOUZzNnBKaDdUamthMEpHSUxmVUV4TXJZRF9ENFh1M0ZMZ2pRWXdVVnBKNGMtNzU0eFl1ZHNwWDJzejQwNVBXejFGeEYyS1JCdC1CaUY4eVhPVENIQmFNZEx2NG5LTU9POG5LQ3picFprbVR2VlpEZHBLd0MydU40RlE1blJ6WTcyR0J4UXk4VFQ?oc=5) (2026-11-09)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 35 | ok |
+| producthunt | 33 | ok |
+| rss | 52 | ok |
 | hackernews | 286 | ok |
-| rss | 51 | ok |
-| google_news | 58 | ok |
-| devto | 385 | ok |
-| reddit | 0 | ok |
+| google_news | 60 | ok |
+| devto | 394 | ok |
+| reddit | 29 | ok |
 
 <details><summary>HTTP stats</summary>
 
@@ -181,8 +181,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 33,
-  "not_modified": 13,
+  "ok": 16,
+  "not_modified": 30,
   "retries": 0,
   "errors": {}
  },
@@ -222,13 +222,13 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 70,
-  "ok": 3,
+  "requests": 69,
+  "ok": 4,
   "not_modified": 0,
-  "retries": 53,
+  "retries": 52,
   "errors": {
    "403": 2,
-   "429": 65
+   "429": 63
   }
  }
 }
