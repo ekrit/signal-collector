@@ -665,6 +665,32 @@
  },
  {
   "rank": 27,
+  "source": "devto",
+  "source_id": "5013789",
+  "title": "From sketch to launch as a solo builder: 8 notes on journey maps, PWA packaging, free SEO tools and AI product revenue",
+  "url": "https://dev.to/redreamality_dev/from-sketch-to-launch-as-a-solo-builder-8-notes-on-journey-maps-pwa-packaging-free-seo-tools-and-h2m",
+  "text": "There's a stage in every solo project where writing code stops being the slow part. The slow part becomes drawing how people will actually use the thing, deciding where to ship it, and figuring out how anyone will find it. These are eight notes I keep for that stretch, ordered roughly the way the work goes: design, packaging, getting found, and reading the market.\n\nNone of this is official material from the services mentioned. Each section is my own summary of a public page, and the numbers are whatever the page said when I saved it. The market figures in the last section are estimates, and the source says so itself. Each section ends with a link to the longer note on redreamality.com.\n\n## 1. User journey maps: draw today and tomorrow separately\n\nBefore adding features, it helps to put on one page how a user moves through the product right now and where they get stuck. A guide from the Chinese product-management site Woshipm defines a journey map as a left-to-right timeline told from the user's side, a story of how they reach a goal. It has three parts: a user model, the experience itself (key activities, concrete actions, touchpoints, an emotion curve and pain points), and the opportunities you pull out of it. The idea I use most is splitting the map in two. The As-Is map describes the current journey and lives in the problem space. The To-Be map describes the fixed version and can drop the emotion curve and pain points, keeping only activities, actions and touchpoints. When several roles are involved, the guide uses swimlanes and arrows to show who depends on whom.\n\nRead more: [how As-Is and To-Be journey maps differ in practice](https://redreamality.com/garden/notes/library/user-journey-map-guide/)\n\n## 2. Overflow: turn screens into a flow you can present\n\nIf a journey map is mostly words, Overflow is for the screens themselves. You import designs from your design tool with layers and prototype links intact, then wire them together on a canvas as a user flow. There are three ways to look at the result: a bird's-eye canvas of the whole flow, a prototype view that steps through one screen at a time, and a story view for interactive, self-guided walkthroughs. For async review it has shared folders, editor invites, full version history and comments you can pin anywhere. You can also push a project to Overflow Cloud, get a public link and embed it in a blog or internal tool, then keep iterating and update the link when you're ready. The site says more than 500,000 designers and PMs use it. Even if you work alone, a published flow is a good reference for future you.\n\nRead more: [notes on Overflow's three views and sharing options](https://redreamality.com/garden/notes/library/overflow-user-flow-diagramming/)\n\n## 3. Maoken: free-for-commercial-use Chinese fonts\n\nBuild anything for Chinese-speaking users and font licensing is the first wall you hit. Maoken collects Chinese fonts that are free for commercial use; it listed 848 when I saved the note. You can filter by language (Chinese, Latin, Japanese, Korean), by style (sans, serif, rounded, calligraphy, handwriting) and by license: author statement, OFL, IPA, MIT, GPL, CC-BY, CC0 and others. Entries explain derived fonts too, such as one built on Source Han Serif. There's a copyright check and a list of fonts whose status is questionable, which is the part I'd actually lean on. One catch: the site also sells its own fonts (9.9 to 79 yuan) on the same pages, so read the label before you download.\n\nRead more: [how to search Maoken by license, and what to watch for](https://redreamality.com/garden/notes/library/maoken-free-commercial-fonts/)\n\n## 4. PWABuilder: get a web app into the app stores\n\nIf you don't have time to write a native app, wrapping a PWA for the stores is the short path. PWABuilder's docs split the toolkit into three pieces. PWA Starter is the team's own production template, with a manifest and a Workbox-based service worker already in place. PWABuilder Studio is a VS Code extension that creates a new PWA or converts an existing web app, manages the manifest, service worker and icons, and validates the app against the store checks. PWABuilder.com itself generates packages you can upload to the Microsoft Store, Google Play and the iOS App Store, plus side-loadable packages for testing first. My note came from the Google Play packaging page, but knowing those three pieces is enough to find your way around.\n\nRead more: [the three PWABuilder tools and what each one outputs](https://redreamality.com/garden/notes/library/pwabuilder-google-play-packaging/)\n\n## 5. Thirty free SEO tools for a zero budget\n\nOnce it's live, search has to find it. SEO consultant Lauren Galvez's list of 30 free tools covers technical, on-page, off-page and local SEO. Alongside the Google staples (Search Console, Analytics, Keyword Planner, PageSpeed Insights, Rich Results Test) it includes Screaming Frog, free for sites up to 500 URLs, Ahrefs Webmaster Tools, Semrush's free tier, Merkle's SERP simulator for checking whether titles get cut off, and generators for robots.txt, XML sitemaps and hreflang tags. It's upfront about free-tier limits, like 500 URLs for the sitemap generator and 50 URLs at a time for hreflang. For a small site it reads like a sensible first checklist.\n\nRead more: [my regrouped list of 30 free SEO tools by task](https://redreamality.com/garden/notes/library/30-free-seo-tools/)\n\n## 6. Wanwei Ads: contextual ads for a developer audience\n\nIf you pay for reach with a developer product, ads that match the article usually fit better than big banners. Wanwei Ads is a Chinese ad network aimed at developers, product and ops people, and gamers, serving across sites such as the CSDN blog, W3Cschool, Vue.js and ThinkPHP. The page says it avoids large banners and screen-hogging formats, matches only on site type and page topic, and doesn't tag individual users. Impressions are free and you pay per click, which is easy for a small team to try. The stats on the page were 5.51 billion total impressions, 1.877 million total clicks and a 37% advertiser renewal rate. There's also a publisher signup, so if you run a tech blog it's worth reading from the other side.\n\nRead more: [where Wanwei serves ads and how it charges](https://redreamality.com/garden/notes/library/wanwei-ads/)\n\n## 7. A course outline for shipping to overseas markets\n\nThis one isn't a tool. I kept it as a map of what people in the Chinese indie scene learn when they set out to build for overseas users. It's the sales page for an AI-assisted coding course built around Cursor, and the curriculum runs in this order: prep, tools, Cursor development, full-stack, real projects, SEO, then promotion and operations. The stack it teaches is Next.js, Tailwind CSS, shadcn/ui, Better Auth, Stripe, Resend, Vercel, Cloudflare and Zeabur, which is a fair snapshot of what solo builders reach for today. There's a free tier and two paid tiers (1,299 and 1,999 yuan), so I treat it as a hint about learning order, not an endorsement.\n\nRead more: [the course's curriculum and stack, summarized](https://redreamality.com/garden/notes/library/overseas-marketing-resources/)\n\n## 8. Gefei's estimates of which overseas AI products make money\n\nLast, the market. Gefei, who builds SEO-driven AI tools for overseas users, put together a deck that sorts AI products by input and output (text, image, audio, video and so on) and estimates traffic and revenue for each category. The estimates combine traffic heuristics, visits to payment domains, ad spend and known revenue of similar products, and the deck says plainly that they're rough. With that caveat, July figures in it include about 61.27 million monthly visits for Suno, about 10.67 million for Midjourney and $570K MRR for Jenni AI. What I find useful isn't the exact numbers but the relative size of each category and the way the estimate is built.\n\nRead more: [how to read Gefei's revenue estimates for AI products](https://redreamality.com/garden/notes/library/gefei-overseas-ai-products-making-money/)\n\n---\n\nPut together, design (1 and 2), look and distribution (3 and 4), getting found (5 and 6), and learning and market sense (7 and 8) cover most of the places a solo project stalls. Pick one and open it before your next release.\n\n*A Japanese version of this list is on [Qiita](https://qiita.com/redreamality/items/105049c831d12781bec6).*\n",
+  "author": "redreamality_dev",
+  "created_at": "2026-11-11T02:10:30Z",
+  "engagement": {
+   "points": 0,
+   "comments": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 570000.0,
+  "revenue_evidence": "llion monthly visits for Suno, about 10.67 million for Midjourney and $570K MRR for Jenni AI. What I find useful isn't",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 38.25,
+  "llm": null,
+  "first_seen": "2026-11-11T19:41:51+00:00",
+  "last_seen": "2026-11-11T19:41:51+00:00",
+  "uid": "3b51c17ebdb93007"
+ },
+ {
+  "rank": 28,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/09cd81d71336",
   "title": "I Hit $27,400 MRR by Ignoring Standard Startup Advice. Here Is What I Did Instead.",
@@ -687,7 +713,7 @@
   "uid": "c65c4bb99f94447f"
  },
  {
-  "rank": 28,
+  "rank": 29,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xavtx9",
   "title": "I turned my biggest frustration with Squarespace into a $400K ARR SaaS. Here’s how.",
@@ -710,7 +736,7 @@
   "uid": "6a372a89830c2d39"
  },
  {
-  "rank": 29,
+  "rank": 30,
   "source": "devto",
   "source_id": "4876037",
   "title": "Firstbase vs Stripe Atlas vs Doola (2026): True 3-Year US LLC, Registered Agent & IRS Form 5472 Cost for Non-US Founders",
@@ -740,7 +766,7 @@
   "uid": "c16ec379ad69fea7"
  },
  {
-  "rank": 30,
+  "rank": 31,
   "source": "reddit/r/microsaas",
   "source_id": "1x1fqnj",
   "title": "I’m pouring my heart and soul into this project… subscriptions are trickling in, but I’ve got ADHD and I’m not going down without a fight, haha.",
@@ -763,7 +789,7 @@
   "uid": "2c8edf751e2adcca"
  },
  {
-  "rank": 31,
+  "rank": 32,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3dndd",
   "title": "Four months from launch to exit. This is the new world of business.",
@@ -786,7 +812,7 @@
   "uid": "97e07dd067ecda2f"
  },
  {
-  "rank": 32,
+  "rank": 33,
   "source": "reddit/r/SaaS",
   "source_id": "1x4310s",
   "title": "paid $99 for an SEO tool making $20k MRR (I got scammed..)",
@@ -809,7 +835,7 @@
   "uid": "6fda2f3d36e8a321"
  },
  {
-  "rank": 33,
+  "rank": 34,
   "source": "reddit/r/SaaS",
   "source_id": "1xgw4ib",
   "title": "Senja took 6 months to reach $1k MRR and 28 months to reach $50k. I'm building in the same space, so I studied how",
@@ -832,7 +858,7 @@
   "uid": "32135262536794e0"
  },
  {
-  "rank": 34,
+  "rank": 35,
   "source": "reddit/r/SaaS",
   "source_id": "1xm717z",
   "title": "Halving cancellations = doubling signups. Same MRR.",
@@ -855,7 +881,7 @@
   "uid": "81c8ac18d021c311"
  },
  {
-  "rank": 35,
+  "rank": 36,
   "source": "reddit/r/SaaS",
   "source_id": "1xaunb0",
   "title": "I checked 46 AI startups with \"verified\" revenue. The top 2 haven't updated their numbers in month",
@@ -878,7 +904,7 @@
   "uid": "82ac292c1b9e7ce9"
  },
  {
-  "rank": 36,
+  "rank": 37,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x50la2",
   "title": "I productized my old agency and got backed by Y Combinator. Here's 5 things I learnt along the way:",
@@ -901,7 +927,7 @@
   "uid": "8dc77651de734391"
  },
  {
-  "rank": 37,
+  "rank": 38,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xdjnlc",
   "title": "Entrepreneurs, for the love of god, stop contributing to AI slop. Here's what we do instead at a $200K ARR business:",
@@ -924,7 +950,7 @@
   "uid": "100f52a299ebe8d0"
  },
  {
-  "rank": 38,
+  "rank": 39,
   "source": "reddit/r/microsaas",
   "source_id": "1xl8gru",
   "title": "i talked about my microsaas on reddit for a year. here's how it got us to $200K ARR",
@@ -947,7 +973,7 @@
   "uid": "27cae60be63f5a20"
  },
  {
-  "rank": 39,
+  "rank": 40,
   "source": "reddit/r/SaaS",
   "source_id": "1xajfa0",
   "title": "Why does our infrastructure keep breaking, and should a startup just outsource it?",
@@ -970,7 +996,7 @@
   "uid": "e3c0669b9dfe86c7"
  },
  {
-  "rank": 40,
+  "rank": 41,
   "source": "reddit/r/startups",
   "source_id": "1xf5mwo",
   "title": "Advice Starting Business for High Income Earners (I will not promote)",
@@ -993,7 +1019,7 @@
   "uid": "43dbcb2d185285ac"
  },
  {
-  "rank": 41,
+  "rank": 42,
   "source": "reddit/r/SaaS",
   "source_id": "1x1d8by",
   "title": "how many years did it take you before saas actually paid your bills?",
@@ -1016,7 +1042,7 @@
   "uid": "5bcdb27de01ac8d1"
  },
  {
-  "rank": 42,
+  "rank": 43,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xfb8n0",
   "title": "using my own product to scale my product ($120k now btw) is the most meta feedback loop ever",
@@ -1039,7 +1065,7 @@
   "uid": "305ff582cfbf2ddb"
  },
  {
-  "rank": 43,
+  "rank": 44,
   "source": "reddit/r/SaaS",
   "source_id": "1x1kv73",
   "title": "It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.",
@@ -1064,7 +1090,7 @@
   "uid": "4384632d3989beae"
  },
  {
-  "rank": 44,
+  "rank": 45,
   "source": "reddit/r/microsaas",
   "source_id": "1x3v6h7",
   "title": "We were so focused on growing our SaaS internationally that we almost overlooked the customers in our own country.",
@@ -1089,7 +1115,7 @@
   "uid": "cbe9ecfc0ee23897"
  },
  {
-  "rank": 45,
+  "rank": 46,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x58c6l",
   "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
@@ -1114,7 +1140,7 @@
   "uid": "31469b887e85b4c2"
  },
  {
-  "rank": 46,
+  "rank": 47,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/1b90c84f7dec",
   "title": "Solo Founder. Zero Ads. Zero Employees. $20,400 MRR. Here Is Exactly How.",
@@ -1137,7 +1163,7 @@
   "uid": "9bb5d91d5b3143af"
  },
  {
-  "rank": 47,
+  "rank": 48,
   "source": "reddit/r/microsaas",
   "source_id": "1xbcsd4",
   "title": "I stopped building AI apps and started doing Reddit marketing by hand. $17k MRR, two YC clients and a $1B enterprise.",
@@ -1160,7 +1186,7 @@
   "uid": "964e4ca93ab0cffc"
  },
  {
-  "rank": 48,
+  "rank": 49,
   "source": "reddit/r/SaaS",
   "source_id": "1xkz59g",
   "title": "quick game if you run a SaaS",
@@ -1183,7 +1209,7 @@
   "uid": "bf1bd61b95622fb4"
  },
  {
-  "rank": 49,
+  "rank": 50,
   "source": "reddit/r/alphaandbetausers",
   "source_id": "1xhunnt",
   "title": "4 months ago, I posted my instagram post builder app in here with 57 downloads and like 5 subs. Here is what has changed since.",
@@ -1206,7 +1232,7 @@
   "uid": "b8c418ea30e8f80c"
  },
  {
-  "rank": 50,
+  "rank": 51,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xbtpt8",
   "title": "I thought I had a $799/month SaaS business figured out. Then 3 potential customers told me they wouldn't pay for it.",
@@ -1229,7 +1255,7 @@
   "uid": "92614843dde9ba11"
  },
  {
-  "rank": 51,
+  "rank": 52,
   "source": "rss/medium_saas",
   "source_id": "https://medium.com/p/d78bb1e48665",
   "title": "The Unseen Infrastructure: How Solo Founders Are Quietly Earning $23,000 to $100,000 a Month…",
@@ -1252,7 +1278,7 @@
   "uid": "02eb80a4bb5f17ad"
  },
  {
-  "rank": 52,
+  "rank": 53,
   "source": "reddit/r/SaaS",
   "source_id": "1xm6xx9",
   "title": "[USA-CO][TECH] Bootstrapped dealership software with paying customers seeking sales & marketing cofounder (buy-in, up to 30%)",
@@ -1275,7 +1301,7 @@
   "uid": "d0ef160ad332f1ab"
  },
  {
-  "rank": 53,
+  "rank": 54,
   "source": "reddit/r/SaaS",
   "source_id": "1wvryxj",
   "title": "$3K5 MRR in 1 month how would you scale this to $100K MRR?",
@@ -1302,7 +1328,7 @@
   "uid": "e96bd6d1e279aa0e"
  },
  {
-  "rank": 54,
+  "rank": 55,
   "source": "reddit/r/SaaS",
   "source_id": "1xfgq2w",
   "title": "Dumber Ideas Get Better Reach",
@@ -1325,7 +1351,7 @@
   "uid": "60f816b083d185bd"
  },
  {
-  "rank": 55,
+  "rank": 56,
   "source": "reddit/r/SaaS",
   "source_id": "1xgywvf",
   "title": "Day 196 of $10k MRR building Journey",
@@ -1348,7 +1374,7 @@
   "uid": "60e43e0f02471b8e"
  },
  {
-  "rank": 56,
+  "rank": 57,
   "source": "reddit/r/SaaS",
   "source_id": "1xstvay",
   "title": "Day 205 of $10k MRR journey",
@@ -1371,7 +1397,7 @@
   "uid": "3869ccc4a07cd9ab"
  },
  {
-  "rank": 57,
+  "rank": 58,
   "source": "reddit/r/SaaS",
   "source_id": "1x2ytlu",
   "title": "Day 60 Building in Public: $2K in Sales, $24K ARR, and Chasing $5K MRR",
@@ -1394,7 +1420,7 @@
   "uid": "87d6c40ee5a0d407"
  },
  {
-  "rank": 58,
+  "rank": 59,
   "source": "reddit/r/SaaS",
   "source_id": "1xbst67",
   "title": "When did you move beyond Stripe for usage based SaaS billing?",
@@ -1417,7 +1443,7 @@
   "uid": "7f4c3587b8f2df37"
  },
  {
-  "rank": 59,
+  "rank": 60,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTFBMMkkwMDFWbXVwZjVRSWZteG5nVEZ6dFJEZnlNYXpRODhEN19wdlRJSzdHUmh0RW9LS1lXbHhMV0ZWNDc5VU9oUnRXQlRPUXBnbFBKWVZXQUtaaFdEd2RR",
   "title": "This app is making $2,000 PER DAY｜Starter Story - finance.biggo.com",
@@ -1440,7 +1466,7 @@
   "uid": "906e0e7c45fe4249"
  },
  {
-  "rank": 60,
+  "rank": 61,
   "source": "reddit/r/SaaS",
   "source_id": "1xgu4pq",
   "title": "What payment data from 24 small products taught me about pricing: credits, one-time sales, lifetime deals and decay",
@@ -1463,7 +1489,7 @@
   "uid": "6130e52ee253a318"
  },
  {
-  "rank": 61,
+  "rank": 62,
   "source": "reddit/r/SaaS",
   "source_id": "1xn5avl",
   "title": "944 signups. 9 paid users. $89.91 in revenue. I’ve never worked harder for ninety bucks in my life, and I’ve never been prouder.",
@@ -1486,7 +1512,7 @@
   "uid": "1a8560060617023c"
  },
  {
-  "rank": 62,
+  "rank": 63,
   "source": "reddit/r/SaaS",
   "source_id": "1x7bh9i",
   "title": "My side project is making more than my 9-5",
@@ -1509,7 +1535,7 @@
   "uid": "36be12bc82761ba0"
  },
  {
-  "rank": 63,
+  "rank": 64,
   "source": "reddit/r/SideProject",
   "source_id": "1x9h1yz",
   "title": "My side project outgrew my 9-5 salary",
@@ -1532,7 +1558,7 @@
   "uid": "71a93d238e3d6175"
  },
  {
-  "rank": 64,
+  "rank": 65,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1x3vko7",
   "title": "My solo iOS app made $7.6k in the last 28 days. I chose to build the hard parts myself.",
@@ -1555,7 +1581,7 @@
   "uid": "846c975f08e8cc96"
  },
  {
-  "rank": 65,
+  "rank": 66,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xklobj",
   "title": "I just generated $3700 MRR in 17 days with my new SaaS. Here's my strategy",
@@ -1578,7 +1604,7 @@
   "uid": "5bb52c95c8d63f68"
  },
  {
-  "rank": 66,
+  "rank": 67,
   "source": "google_news/idea_2",
   "source_id": "CBMiX0FVX3lxTE1KWjMtNVFUc0VsLV9GV1gwbmZJcl91TmJSal9seWR4bllsdXp0Rzlyckp2RzRNWnY5Y0kyTUNic3R0V1FwQXVacV9TbG9wUnJRVjdkSkI5T3I3MW03T3Zz",
   "title": "My First SaaS Project Just Hit $11K/Month｜Starter Story - finance.biggo.com",
@@ -1601,7 +1627,7 @@
   "uid": "236b709e17095ac8"
  },
  {
-  "rank": 67,
+  "rank": 68,
   "source": "reddit/r/SaaS",
   "source_id": "1wz4u1r",
   "title": "how i got my first software to €3k mrr with zero ad spend",
@@ -1624,7 +1650,7 @@
   "uid": "50baa5d844b4b308"
  },
  {
-  "rank": 68,
+  "rank": 69,
   "source": "reddit/r/SaaS",
   "source_id": "1wzakqc",
   "title": "My first AI-built app just got its first organic customer",
@@ -1647,7 +1673,7 @@
   "uid": "2656f7c2e34dcb2d"
  },
  {
-  "rank": 69,
+  "rank": 70,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xf6g7v",
   "title": "I recently launched my 8th product and scaled to $8000 purely organic. Here's the playbook.",
@@ -1670,7 +1696,7 @@
   "uid": "138ff969b020b3be"
  },
  {
-  "rank": 70,
+  "rank": 71,
   "source": "reddit/r/microsaas",
   "source_id": "1wqr1cy",
   "title": "an ai website builder made my one-person SaaS look like a real company, and churn talk changed",
@@ -1693,7 +1719,7 @@
   "uid": "d7d7b9cb1f6fa4ed"
  },
  {
-  "rank": 71,
+  "rank": 72,
   "source": "hackernews/comment",
   "source_id": "50421607",
   "title": "Comment on: Ask HN: What are you working on? (November 2026)",
@@ -1719,7 +1745,7 @@
   "uid": "40570aef3dc7df37"
  },
  {
-  "rank": 72,
+  "rank": 73,
   "source": "reddit/r/SaaS",
   "source_id": "1x1l0e7",
   "title": "I worked hard for this, so I'm posting it here T_T (Motivation, zero Promotion)",
@@ -1742,7 +1768,7 @@
   "uid": "f8adb30ec01dc6a4"
  },
  {
-  "rank": 73,
+  "rank": 74,
   "source": "reddit/r/SaaS",
   "source_id": "1x66iwp",
   "title": "A failed launch took me from €0 to €16,000 total (No Promotion)",
@@ -1765,7 +1791,7 @@
   "uid": "ea4e86c3ae035657"
  },
  {
-  "rank": 74,
+  "rank": 75,
   "source": "reddit/r/SaaS",
   "source_id": "1xfgrcp",
   "title": "I thought I was making $2K MRR. The actual number was closer to $1.4K",
@@ -1788,7 +1814,7 @@
   "uid": "0bfb36656ddfeb81"
  },
  {
-  "rank": 75,
+  "rank": 76,
   "source": "reddit/r/SaaS",
   "source_id": "1xje03l",
   "title": "How do you deal with aggressive/malicious competition?",
@@ -1811,7 +1837,7 @@
   "uid": "66eb015a75f28bef"
  },
  {
-  "rank": 76,
+  "rank": 77,
   "source": "reddit/r/microsaas",
   "source_id": "1x8z75b",
   "title": "Bootstrapped AI SaaS doing ~$10.7K/month in revenue - exploring an exit",
@@ -1834,7 +1860,7 @@
   "uid": "0529e7594e0e6c94"
  },
  {
-  "rank": 77,
+  "rank": 78,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xf5jvv",
   "title": "Been doing this since I was 19, now trying to figure out how to find the right long-term fit, how’d you approach that?",
@@ -1857,7 +1883,7 @@
   "uid": "4f844cf7c91045cc"
  },
  {
-  "rank": 78,
+  "rank": 79,
   "source": "reddit/r/smallbusiness",
   "source_id": "1xobrto",
   "title": "Is it possible to sell an online clothing brand that’s doing over $10,000 a month",
@@ -1880,7 +1906,7 @@
   "uid": "72f88d81e036cc8a"
  },
  {
-  "rank": 79,
+  "rank": 80,
   "source": "reddit/r/SaaS",
   "source_id": "1wwzue4",
   "title": "Solo SaaS finally has momentum, experienced exited founder wants to join - and I genuinely have no idea what I should do",
@@ -1903,7 +1929,7 @@
   "uid": "702d68052b74f4b4"
  },
  {
-  "rank": 80,
+  "rank": 81,
   "source": "reddit/r/SaaS",
   "source_id": "1x7lvaz",
   "title": "My SaaS just crossed $1.5k mrr and i just cant believe it",
@@ -1926,7 +1952,7 @@
   "uid": "5b533b21e4013bcd"
  },
  {
-  "rank": 81,
+  "rank": 82,
   "source": "reddit/r/SideProject",
   "source_id": "1xase0i",
   "title": "I made a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live",
@@ -1949,7 +1975,7 @@
   "uid": "8e8171f07db7e4c7"
  },
  {
-  "rank": 82,
+  "rank": 83,
   "source": "reddit/r/SaaS",
   "source_id": "1wy4wbu",
   "title": "Too good to be true? 13k installs, 4.7 stars, ~€22k revenue. All in I'm still in the minus",
@@ -1972,7 +1998,7 @@
   "uid": "459947a9ecb91e05"
  },
  {
-  "rank": 83,
+  "rank": 84,
   "source": "reddit/r/microsaas",
   "source_id": "1x6bz8w",
   "title": "7 pricing mistakes that quietly cap a micro-SaaS at $2k MRR",
@@ -1995,7 +2021,7 @@
   "uid": "0f2a1714ca916651"
  },
  {
-  "rank": 84,
+  "rank": 85,
   "source": "reddit/r/indiehackers",
   "source_id": "1xaw9cq",
   "title": "How I grew from 0 to 13k followers on X in 200 days (almost all replies)",
@@ -2018,7 +2044,7 @@
   "uid": "664be230cba47e75"
  },
  {
-  "rank": 85,
+  "rank": 86,
   "source": "reddit/r/EntrepreneurRideAlong",
   "source_id": "1xja70v",
   "title": "My offline transcription app made 6.8k USD in the last 28 days. It just passed 300 active subscriptions.",
@@ -2041,7 +2067,7 @@
   "uid": "06ca78eb33c6d0b8"
  },
  {
-  "rank": 86,
+  "rank": 87,
   "source": "reddit/r/indiehackers",
   "source_id": "1vxwc77",
   "title": "My study mobile app got to $1k , this is what took us there",
@@ -2064,7 +2090,7 @@
   "uid": "243ec22d4d1aba39"
  },
  {
-  "rank": 87,
+  "rank": 88,
   "source": "reddit/r/SaaS",
   "source_id": "1x7irze",
   "title": "I vibe-coded my ass and now doing 1K MRR",
@@ -2087,7 +2113,7 @@
   "uid": "a566898e7af52dc7"
  },
  {
-  "rank": 88,
+  "rank": 89,
   "source": "reddit/r/microsaas",
   "source_id": "1xlapan",
   "title": "Made $68 from my SaaS projects in October. Small win, but it feels good!",
@@ -2110,7 +2136,7 @@
   "uid": "70571853da859715"
  },
  {
-  "rank": 89,
+  "rank": 90,
   "source": "hackernews/comment",
   "source_id": "50169017",
   "title": "Comment on: Facebook now charging to post more than 2 links a month",
@@ -2136,7 +2162,7 @@
   "uid": "d5ae04bec44b4200"
  },
  {
-  "rank": 90,
+  "rank": 91,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -2159,7 +2185,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 91,
+  "rank": 92,
   "source": "reddit/r/SaaS",
   "source_id": "1xenqz6",
   "title": "Why is every \"$10k MRR in 30 days\" thread written by someone selling a course?",
@@ -2182,7 +2208,7 @@
   "uid": "31efc38746053407"
  },
  {
-  "rank": 92,
+  "rank": 93,
   "source": "reddit/r/SaaS",
   "source_id": "1xgeice",
   "title": "I read 6 of the biggest r/SaaS threads from the last month. Here’s what people agree on and where they split",
@@ -2205,7 +2231,7 @@
   "uid": "18252de863f72992"
  },
  {
-  "rank": 93,
+  "rank": 94,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -2228,7 +2254,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 94,
+  "rank": 95,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -2251,7 +2277,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 95,
+  "rank": 96,
   "source": "reddit/r/indiehackers",
   "source_id": "1xmuhn4",
   "title": "I left my CTO job and built an audience before a product. 2 of my first 3 products still made nothing.",
@@ -2274,7 +2300,7 @@
   "uid": "23144c354f31ec4b"
  },
  {
-  "rank": 96,
+  "rank": 97,
   "source": "reddit/r/SaaS",
   "source_id": "1xsrh2b",
   "title": "My new SaaS reached $1200 MRR!!",
@@ -2297,7 +2323,7 @@
   "uid": "2852f938e6b96222"
  },
  {
-  "rank": 97,
+  "rank": 98,
   "source": "hackernews/thread",
   "source_id": "50311023",
   "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -2322,7 +2348,7 @@
   "uid": "9c8b2d1bb5b02ea7"
  },
  {
-  "rank": 98,
+  "rank": 99,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -2348,7 +2374,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 99,
+  "rank": 100,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -2373,7 +2399,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 100,
+  "rank": 101,
   "source": "hackernews/comment",
   "source_id": "50300346",
   "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -2399,7 +2425,7 @@
   "uid": "072b354f4498c312"
  },
  {
-  "rank": 101,
+  "rank": 102,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
