@@ -686,7 +686,7 @@
   "score": 38.25,
   "llm": null,
   "first_seen": "2026-11-11T19:41:51+00:00",
-  "last_seen": "2026-11-13T19:49:34+00:00",
+  "last_seen": "2026-11-14T06:34:43+00:00",
   "uid": "3b51c17ebdb93007"
  },
  {
@@ -712,7 +712,7 @@
   "score": 38.25,
   "llm": null,
   "first_seen": "2026-11-12T20:01:08+00:00",
-  "last_seen": "2026-11-13T19:49:34+00:00",
+  "last_seen": "2026-11-14T06:34:43+00:00",
   "uid": "91afffecf3126b7f"
  },
  {
@@ -2163,6 +2163,29 @@
  },
  {
   "rank": 91,
+  "source": "rss/medium_indie_hackers",
+  "source_id": "https://medium.com/p/df7b40d14445",
+  "title": "I Analyzed 200 SaaS Businesses With Atleast $1k MRR. SaaS Seems to Be Dying",
+  "url": "https://blog.startupstash.com/i-analyzed-200-saas-businesses-with-atleast-1k-mrr-saas-seems-to-be-dying-df7b40d14445?source=rss------indie_hackers-5",
+  "text": "Everyone talks about how big the SaaS opportunity is.\nContinue reading on Startup Stash »",
+  "author": "Shaikh Umair",
+  "created_at": "2026-11-13T20:11:01+00:00",
+  "engagement": {},
+  "kind": "idea",
+  "mrr_usd": 1000.0,
+  "revenue_evidence": "I Analyzed 200 SaaS Businesses With Atleast $1k MRR. SaaS Seems to Be Dying Everyone talks",
+  "revenue_confidence": 1.0,
+  "industries": [],
+  "halal_status": "ok",
+  "halal_reasons": [],
+  "score": 15.0,
+  "llm": null,
+  "first_seen": "2026-11-14T06:34:43+00:00",
+  "last_seen": "2026-11-14T06:34:43+00:00",
+  "uid": "4166ab1bb8c9f9be"
+ },
+ {
+  "rank": 92,
   "source": "rss/medium_micro_saas",
   "source_id": "https://medium.com/p/e9fab960fd27",
   "title": "The “Boring Directory” Model: How a Simple Micro-Asset Generates $4,500/Month",
@@ -2181,11 +2204,11 @@
   "score": 14.88,
   "llm": null,
   "first_seen": "2026-11-12T20:01:08+00:00",
-  "last_seen": "2026-11-13T19:49:34+00:00",
+  "last_seen": "2026-11-14T06:34:43+00:00",
   "uid": "97f9014c603fadbb"
  },
  {
-  "rank": 92,
+  "rank": 93,
   "source": "hackernews/comment",
   "source_id": "50169017",
   "title": "Comment on: Facebook now charging to post more than 2 links a month",
@@ -2211,7 +2234,7 @@
   "uid": "d5ae04bec44b4200"
  },
  {
-  "rank": 93,
+  "rank": 94,
   "source": "reddit/r/SaaS",
   "source_id": "1wxo6uh",
   "title": "Failing badly at marketing, looking for advice",
@@ -2234,7 +2257,7 @@
   "uid": "9ef8bd22597ff240"
  },
  {
-  "rank": 94,
+  "rank": 95,
   "source": "reddit/r/SaaS",
   "source_id": "1xenqz6",
   "title": "Why is every \"$10k MRR in 30 days\" thread written by someone selling a course?",
@@ -2257,7 +2280,7 @@
   "uid": "31efc38746053407"
  },
  {
-  "rank": 95,
+  "rank": 96,
   "source": "reddit/r/SaaS",
   "source_id": "1xgeice",
   "title": "I read 6 of the biggest r/SaaS threads from the last month. Here’s what people agree on and where they split",
@@ -2280,7 +2303,7 @@
   "uid": "18252de863f72992"
  },
  {
-  "rank": 96,
+  "rank": 97,
   "source": "reddit/r/indiehackers",
   "source_id": "1w5k4oy",
   "title": "4 months in: 43 paying users, $1,247 MRR. Here's what actually worked.",
@@ -2303,7 +2326,7 @@
   "uid": "b8f4e13cc9666a81"
  },
  {
-  "rank": 97,
+  "rank": 98,
   "source": "reddit/r/SaaS",
   "source_id": "1x22a0a",
   "title": "Any bootstrapped SaaS out there need an fractional Account Manager in exchange for some equity?",
@@ -2326,7 +2349,7 @@
   "uid": "bdbd817438d795a1"
  },
  {
-  "rank": 98,
+  "rank": 99,
   "source": "reddit/r/indiehackers",
   "source_id": "1xmuhn4",
   "title": "I left my CTO job and built an audience before a product. 2 of my first 3 products still made nothing.",
@@ -2349,7 +2372,7 @@
   "uid": "23144c354f31ec4b"
  },
  {
-  "rank": 99,
+  "rank": 100,
   "source": "reddit/r/SaaS",
   "source_id": "1xsrh2b",
   "title": "My new SaaS reached $1200 MRR!!",
@@ -2372,7 +2395,7 @@
   "uid": "2852f938e6b96222"
  },
  {
-  "rank": 100,
+  "rank": 101,
   "source": "hackernews/thread",
   "source_id": "50311023",
   "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -2397,7 +2420,7 @@
   "uid": "9c8b2d1bb5b02ea7"
  },
  {
-  "rank": 101,
+  "rank": 102,
   "source": "hackernews/comment",
   "source_id": "50027207",
   "title": "Comment on: Yes, and",
@@ -2423,7 +2446,7 @@
   "uid": "ad303622a59dd370"
  },
  {
-  "rank": 102,
+  "rank": 103,
   "source": "reddit/r/SaaS",
   "source_id": "1xblvsx",
   "title": "From 0 to €1k MRR: How fixing my SEO funnel turned my free D&D tool into a paying SaaS",
@@ -2448,7 +2471,7 @@
   "uid": "50e65bdd6af2fc12"
  },
  {
-  "rank": 103,
+  "rank": 104,
   "source": "hackernews/comment",
   "source_id": "50300346",
   "title": "Comment on: Ask HN: Do you have side-projects that generate >$500 revenue/month?",
@@ -2474,7 +2497,7 @@
   "uid": "072b354f4498c312"
  },
  {
-  "rank": 104,
+  "rank": 105,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
