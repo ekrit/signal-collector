@@ -1782,8 +1782,8 @@
   "author": "lenkite",
   "created_at": "2026-11-20T10:39:00+00:00",
   "engagement": {
-   "points": 0,
-   "comments": 0
+   "comments": 0,
+   "points": 0
   },
   "kind": "idea",
   "mrr_usd": 5416.67,
@@ -1795,7 +1795,7 @@
   "score": 20.8,
   "llm": null,
   "first_seen": "2026-11-20T20:29:03+00:00",
-  "last_seen": "2026-11-20T20:29:03+00:00",
+  "last_seen": "2026-11-21T07:18:38+00:00",
   "uid": "56d39902e3e7ce96"
  },
  {
