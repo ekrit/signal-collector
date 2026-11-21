@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-11-21 07:18 UTC · 5084 tracked signals · 109 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 23 new this run_
+_Last updated 2026-11-21 19:23 UTC · 5104 tracked signals · 110 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 20 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,16 +8,16 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 190 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 52 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 26 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 194 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 51 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 23 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 3 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 23 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 8 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 25 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 9 |
 | [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 18 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 11 | $3.9k | 32 |
-| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 26 |
-| [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 1 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 12 | $7.0k | 32 |
+| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 25 |
+| [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 0 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 2 |
 
 🚀 = on track to grow ≥ 4x within 5 years · ☪️ = halal-economy vertical
@@ -46,36 +46,36 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 18 | 43 | [$1.6M ARR, 370 B2B customers, almost half pay late. Looking for advice on findi…](https://www.reddit.com/r/SaaS/comments/1wyfoqp/16m_arr_370_b2b_customers_almost_half_pay_late/) | $133.3k | — | ✅ | reddit/r/SaaS | 2026-10-06 |
 | 19 | 43 | [12 years running a B2B company in the Caribbean, ~$1.6M ARR, and I've never had…](https://www.reddit.com/r/Entrepreneur/comments/1wyfq2m/12_years_running_a_b2b_company_in_the_caribbean/) | $133.3k | — | ✅ | reddit/r/Entrepreneur | 2026-10-16 |
 | 20 | 43 | [How I Built a $1.2M ARR SaaS Business Without Raising Funding](https://medium.com/@SteveBaltodano/how-i-built-a-1-2m-arr-saas-business-without-raising-funding-0fc560f4d1e6?source=rss------saas-5) | $100.0k | — | ✅ | rss/medium_saas | 2026-10-30 |
-| 21 | 41 | [My micro SaaS of $600k ARR is looking for a Founding Engineer for a pivot](https://bluemate.nl) | $50.0k | — | ✅ | hackernews | 2026-10-29 |
-| 22 | 40 | [Founders: what term do you actually search when you need help getting early dis…](https://www.reddit.com/r/SaaS/comments/1wyqlev/founders_what_term_do_you_actually_search_when/) | $10.0k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-10-06 |
-| 23 | 39 | [Looking to feature founders on my youtube channel](https://www.reddit.com/r/microsaas/comments/1x7furi/looking_to_feature_founders_on_my_youtube_channel/) | $1.0k | AI in education & e-learning | ✅ | reddit/r/microsaas | 2026-10-18 |
-| 24 | 39 | [Audited a client’s ads expecting a targeting problem. Found something much simp…](https://www.reddit.com/r/smallbusiness/comments/1xomm3l/audited_a_clients_ads_expecting_a_targeting/) | $10.0k | E-commerce & creator tooling | ✅ | reddit/r/smallbusiness | 2026-11-06 |
-| 25 | 39 | [Rented someone else SaaS and scaled to $3.9k MRR 😅](https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/) | $3.9k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-10-20 |
-| 26 | 38 | [💬 I'm looking for a new founding engineer to soft pivot my $600k ARR SaaS from …](https://news.ycombinator.com/item?id=50293830) | $50.0k | — | ✅ | hackernews/comment | 2026-10-29 |
-| 27 | 38 | [Why is payment recovery so hard and what other Saas companies do about failed c…](https://www.reddit.com/r/SaaS/comments/1xb4gj8/why_is_payment_recovery_so_hard_and_what_other/) | $300.0k | — | ✅ | reddit/r/SaaS | 2026-10-20 |
-| 28 | 38 | [From sketch to launch as a solo builder: 8 notes on journey maps, PWA packaging…](https://dev.to/redreamality_dev/from-sketch-to-launch-as-a-solo-builder-8-notes-on-journey-maps-pwa-packaging-free-seo-tools-and-h2m) | $570.0k | — | ✅ | devto | 2026-11-11 |
-| 29 | 38 | [The $42,000 API Disaster That Built a $130K MRR Empire: The Story of Tony Dinh …](https://dev.to/blobxiaoyao/the-42000-api-disaster-that-built-a-130k-mrr-empire-the-story-of-tony-dinh-and-typingmind-23ej) | $130.0k | — | ✅ | devto | 2026-11-12 |
-| 30 | 37 | [I Hit $27,400 MRR by Ignoring Standard Startup Advice. Here Is What I Did Inste…](https://medium.com/@dev_16949/i-hit-27-400-mrr-by-ignoring-standard-startup-advice-here-is-what-i-did-instead-09cd81d71336?source=rss------saas-5) | $27.4k | — | ✅ | rss/medium_saas | 2026-10-11 |
-| 31 | 36 | [B2B Marketing Budgets at $1M–$30M ARR: What the Benchmarks Get Wrong](https://medium.com/@yaroslavlehenchuk/b2b-marketing-budgets-at-1m-30m-arr-what-the-benchmarks-get-wrong-a3b4cbeb5994?source=rss------saas-5) | $2.5M | — | ✅ | rss/medium_saas | 2026-11-20 |
-| 32 | 36 | [I turned my biggest frustration with Squarespace into a $400K ARR SaaS. Here’s …](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xavtx9/i_turned_my_biggest_frustration_with_squarespace/) | $33.3k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-25 |
-| 33 | 36 | [Firstbase vs Stripe Atlas vs Doola (2026): True 3-Year US LLC, Registered Agent…](https://dev.to/600me/firstbase-vs-stripe-atlas-vs-doola-2026-true-3-year-us-llc-registered-agent-irs-form-5472-3fcd) | $11.1k | Legal AI & compliance automation | ⚠️ | devto | 2026-10-19 |
-| 34 | 35 | [I’m pouring my heart and soul into this project… subscriptions are trickling in…](https://www.reddit.com/r/microsaas/comments/1x1fqnj/im_pouring_my_heart_and_soul_into_this_project/) | $90.0k | — | ✅ | reddit/r/microsaas | 2026-10-14 |
-| 35 | 35 | [Four months from launch to exit. This is the new world of business.](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x3dndd/four_months_from_launch_to_exit_this_is_the_new/) | $83.3k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-16 |
-| 36 | 35 | [The Flight Sim That Hit $1 Million ARR in 17 Days. Then the Revenue Line Went t…](https://zerocodingstartup.medium.com/the-flight-sim-that-hit-1-million-arr-in-17-days-then-the-revenue-line-went-to-zero-b7db8aae4627?source=rss------indie_hackers-5) | $83.3k | — | ✅ | rss/medium_indie_hackers | 2026-11-16 |
-| 37 | 35 | [paid $99 for an SEO tool making $20k MRR (I got scammed..)](https://www.reddit.com/r/SaaS/comments/1x4310s/paid_99_for_an_seo_tool_making_20k_mrr_i_got/) | $20.0k | — | ✅ | reddit/r/SaaS | 2026-10-13 |
-| 38 | 34 | [Senja took 6 months to reach $1k MRR and 28 months to reach $50k. I'm building …](https://www.reddit.com/r/SaaS/comments/1xgw4ib/senja_took_6_months_to_reach_1k_mrr_and_28_months/) | $50.0k | — | ✅ | reddit/r/SaaS | 2026-10-27 |
-| 39 | 33 | [Halving cancellations = doubling signups. Same MRR.](https://www.reddit.com/r/SaaS/comments/1xm717z/halving_cancellations_doubling_signups_same_mrr/) | $38.7k | — | ✅ | reddit/r/SaaS | 2026-11-03 |
-| 40 | 32 | [I checked 46 AI startups with "verified" revenue. The top 2 haven't updated the…](https://www.reddit.com/r/SaaS/comments/1xaunb0/i_checked_46_ai_startups_with_verified_revenue/) | $32.7k | — | ✅ | reddit/r/SaaS | 2026-10-20 |
-| 41 | 32 | [I productized my old agency and got backed by Y Combinator. Here's 5 things I l…](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x50la2/i_productized_my_old_agency_and_got_backed_by_y/) | $16.7k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-16 |
-| 42 | 32 | [Entrepreneurs, for the love of god, stop contributing to AI slop. Here's what w…](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdjnlc/entrepreneurs_for_the_love_of_god_stop/) | $16.7k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-25 |
-| 43 | 32 | [i talked about my microsaas on reddit for a year. here's how it got us to $200K…](https://www.reddit.com/r/microsaas/comments/1xl8gru/i_talked_about_my_microsaas_on_reddit_for_a_year/) | $16.7k | — | ✅ | reddit/r/microsaas | 2026-11-02 |
-| 44 | 32 | [Why does our infrastructure keep breaking, and should a startup just outsource …](https://www.reddit.com/r/SaaS/comments/1xajfa0/why_does_our_infrastructure_keep_breaking_and/) | $166.7k | — | ✅ | reddit/r/SaaS | 2026-10-20 |
-| 45 | 31 | [Advice Starting Business for High Income Earners (I will not promote)](https://www.reddit.com/r/startups/comments/1xf5mwo/advice_starting_business_for_high_income_earners/) | $58.3k | — | ✅ | reddit/r/startups | 2026-10-29 |
-| 46 | 30 | [how many years did it take you before saas actually paid your bills?](https://www.reddit.com/r/SaaS/comments/1x1d8by/how_many_years_did_it_take_you_before_saas/) | $10.0k | — | ✅ | reddit/r/SaaS | 2026-10-09 |
-| 47 | 30 | [using my own product to scale my product ($120k now btw) is the most meta feedb…](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfb8n0/using_my_own_product_to_scale_my_product_120k_now/) | $10.0k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-27 |
-| 48 | 30 | [It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.](https://www.reddit.com/r/SaaS/comments/1x1kv73/it_took_us_7_months_to_reach_1k_mrr_on_stripe/) | $1.0k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-10-09 |
-| 49 | 30 | [We were so focused on growing our SaaS internationally that we almost overlooke…](https://www.reddit.com/r/microsaas/comments/1x3v6h7/we_were_so_focused_on_growing_our_saas/) | $1.0k | E-commerce & creator tooling | ✅ | reddit/r/microsaas | 2026-10-14 |
-| 50 | 30 | [We finally figured out how to get customers for our SaaS. Now we have a differe…](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/) | $1.0k | E-commerce & creator tooling | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-16 |
+| 21 | 41 | [The Brutal Math of Mobile App Monetization: Where Your First $10,000 Actually G…](https://dev.to/erenelagz/the-brutal-math-of-mobile-app-monetization-where-your-first-10000-actually-goes-3afe) | $83.3k | E-commerce & creator tooling | ✅ | devto | 2026-11-21 |
+| 22 | 41 | [My micro SaaS of $600k ARR is looking for a Founding Engineer for a pivot](https://bluemate.nl) | $50.0k | — | ✅ | hackernews | 2026-10-29 |
+| 23 | 40 | [Founders: what term do you actually search when you need help getting early dis…](https://www.reddit.com/r/SaaS/comments/1wyqlev/founders_what_term_do_you_actually_search_when/) | $10.0k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-10-06 |
+| 24 | 39 | [Looking to feature founders on my youtube channel](https://www.reddit.com/r/microsaas/comments/1x7furi/looking_to_feature_founders_on_my_youtube_channel/) | $1.0k | AI in education & e-learning | ✅ | reddit/r/microsaas | 2026-10-18 |
+| 25 | 39 | [Audited a client’s ads expecting a targeting problem. Found something much simp…](https://www.reddit.com/r/smallbusiness/comments/1xomm3l/audited_a_clients_ads_expecting_a_targeting/) | $10.0k | E-commerce & creator tooling | ✅ | reddit/r/smallbusiness | 2026-11-06 |
+| 26 | 39 | [Rented someone else SaaS and scaled to $3.9k MRR 😅](https://www.reddit.com/r/SaaS/comments/1x97sm5/rented_someone_else_saas_and_scaled_to_39k_mrr/) | $3.9k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-10-20 |
+| 27 | 38 | [💬 I'm looking for a new founding engineer to soft pivot my $600k ARR SaaS from …](https://news.ycombinator.com/item?id=50293830) | $50.0k | — | ✅ | hackernews/comment | 2026-10-29 |
+| 28 | 38 | [Why is payment recovery so hard and what other Saas companies do about failed c…](https://www.reddit.com/r/SaaS/comments/1xb4gj8/why_is_payment_recovery_so_hard_and_what_other/) | $300.0k | — | ✅ | reddit/r/SaaS | 2026-10-20 |
+| 29 | 38 | [From sketch to launch as a solo builder: 8 notes on journey maps, PWA packaging…](https://dev.to/redreamality_dev/from-sketch-to-launch-as-a-solo-builder-8-notes-on-journey-maps-pwa-packaging-free-seo-tools-and-h2m) | $570.0k | — | ✅ | devto | 2026-11-11 |
+| 30 | 38 | [The $42,000 API Disaster That Built a $130K MRR Empire: The Story of Tony Dinh …](https://dev.to/blobxiaoyao/the-42000-api-disaster-that-built-a-130k-mrr-empire-the-story-of-tony-dinh-and-typingmind-23ej) | $130.0k | — | ✅ | devto | 2026-11-12 |
+| 31 | 37 | [I Hit $27,400 MRR by Ignoring Standard Startup Advice. Here Is What I Did Inste…](https://medium.com/@dev_16949/i-hit-27-400-mrr-by-ignoring-standard-startup-advice-here-is-what-i-did-instead-09cd81d71336?source=rss------saas-5) | $27.4k | — | ✅ | rss/medium_saas | 2026-10-11 |
+| 32 | 36 | [B2B Marketing Budgets at $1M–$30M ARR: What the Benchmarks Get Wrong](https://medium.com/@yaroslavlehenchuk/b2b-marketing-budgets-at-1m-30m-arr-what-the-benchmarks-get-wrong-a3b4cbeb5994?source=rss------saas-5) | $2.5M | — | ✅ | rss/medium_saas | 2026-11-20 |
+| 33 | 36 | [I turned my biggest frustration with Squarespace into a $400K ARR SaaS. Here’s …](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xavtx9/i_turned_my_biggest_frustration_with_squarespace/) | $33.3k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-25 |
+| 34 | 36 | [Firstbase vs Stripe Atlas vs Doola (2026): True 3-Year US LLC, Registered Agent…](https://dev.to/600me/firstbase-vs-stripe-atlas-vs-doola-2026-true-3-year-us-llc-registered-agent-irs-form-5472-3fcd) | $11.1k | Legal AI & compliance automation | ⚠️ | devto | 2026-10-19 |
+| 35 | 35 | [I’m pouring my heart and soul into this project… subscriptions are trickling in…](https://www.reddit.com/r/microsaas/comments/1x1fqnj/im_pouring_my_heart_and_soul_into_this_project/) | $90.0k | — | ✅ | reddit/r/microsaas | 2026-10-14 |
+| 36 | 35 | [Four months from launch to exit. This is the new world of business.](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x3dndd/four_months_from_launch_to_exit_this_is_the_new/) | $83.3k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-16 |
+| 37 | 35 | [The Flight Sim That Hit $1 Million ARR in 17 Days. Then the Revenue Line Went t…](https://zerocodingstartup.medium.com/the-flight-sim-that-hit-1-million-arr-in-17-days-then-the-revenue-line-went-to-zero-b7db8aae4627?source=rss------indie_hackers-5) | $83.3k | — | ✅ | rss/medium_indie_hackers | 2026-11-16 |
+| 38 | 35 | [paid $99 for an SEO tool making $20k MRR (I got scammed..)](https://www.reddit.com/r/SaaS/comments/1x4310s/paid_99_for_an_seo_tool_making_20k_mrr_i_got/) | $20.0k | — | ✅ | reddit/r/SaaS | 2026-10-13 |
+| 39 | 34 | [Senja took 6 months to reach $1k MRR and 28 months to reach $50k. I'm building …](https://www.reddit.com/r/SaaS/comments/1xgw4ib/senja_took_6_months_to_reach_1k_mrr_and_28_months/) | $50.0k | — | ✅ | reddit/r/SaaS | 2026-10-27 |
+| 40 | 33 | [Halving cancellations = doubling signups. Same MRR.](https://www.reddit.com/r/SaaS/comments/1xm717z/halving_cancellations_doubling_signups_same_mrr/) | $38.7k | — | ✅ | reddit/r/SaaS | 2026-11-03 |
+| 41 | 32 | [I checked 46 AI startups with "verified" revenue. The top 2 haven't updated the…](https://www.reddit.com/r/SaaS/comments/1xaunb0/i_checked_46_ai_startups_with_verified_revenue/) | $32.7k | — | ✅ | reddit/r/SaaS | 2026-10-20 |
+| 42 | 32 | [I productized my old agency and got backed by Y Combinator. Here's 5 things I l…](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x50la2/i_productized_my_old_agency_and_got_backed_by_y/) | $16.7k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-16 |
+| 43 | 32 | [Entrepreneurs, for the love of god, stop contributing to AI slop. Here's what w…](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdjnlc/entrepreneurs_for_the_love_of_god_stop/) | $16.7k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-25 |
+| 44 | 32 | [i talked about my microsaas on reddit for a year. here's how it got us to $200K…](https://www.reddit.com/r/microsaas/comments/1xl8gru/i_talked_about_my_microsaas_on_reddit_for_a_year/) | $16.7k | — | ✅ | reddit/r/microsaas | 2026-11-02 |
+| 45 | 32 | [Why does our infrastructure keep breaking, and should a startup just outsource …](https://www.reddit.com/r/SaaS/comments/1xajfa0/why_does_our_infrastructure_keep_breaking_and/) | $166.7k | — | ✅ | reddit/r/SaaS | 2026-10-20 |
+| 46 | 31 | [Advice Starting Business for High Income Earners (I will not promote)](https://www.reddit.com/r/startups/comments/1xf5mwo/advice_starting_business_for_high_income_earners/) | $58.3k | — | ✅ | reddit/r/startups | 2026-10-29 |
+| 47 | 30 | [how many years did it take you before saas actually paid your bills?](https://www.reddit.com/r/SaaS/comments/1x1d8by/how_many_years_did_it_take_you_before_saas/) | $10.0k | — | ✅ | reddit/r/SaaS | 2026-10-09 |
+| 48 | 30 | [using my own product to scale my product ($120k now btw) is the most meta feedb…](https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xfb8n0/using_my_own_product_to_scale_my_product_120k_now/) | $10.0k | — | ✅ | reddit/r/EntrepreneurRideAlong | 2026-10-27 |
+| 49 | 30 | [It took us 7 months to reach $1K MRR on Stripe. Here's what actually happened.](https://www.reddit.com/r/SaaS/comments/1x1kv73/it_took_us_7_months_to_reach_1k_mrr_on_stripe/) | $1.0k | E-commerce & creator tooling | ✅ | reddit/r/SaaS | 2026-10-09 |
+| 50 | 30 | [We were so focused on growing our SaaS internationally that we almost overlooke…](https://www.reddit.com/r/microsaas/comments/1x3v6h7/we_were_so_focused_on_growing_our_saas/) | $1.0k | E-commerce & creator tooling | ✅ | reddit/r/microsaas | 2026-10-14 |
 
 ## Emerging in hypergrowth industries (no revenue proof yet)
 
@@ -105,7 +105,7 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | 37 | [I Replaced My Product Hunt Launch Video Budget With an AI Agent](https://dev.to/hoe_shilee_b3aa96e0da49e/i-replaced-my-product-hunt-launch-video-budget-with-an-ai-agent-l2k) | AI agents & workflow automation | 15▲ 2💬 | devto |
 | 37 | [Iam 12 . My web mentor KODA Is Now in Your Editor. Here Is How I Built a Cursor…](https://dev.to/koda2026/iam-12-my-web-mentor-koda-is-now-in-your-editor-here-is-how-i-built-a-cursor-killer-extension-on-43en) | AI agents & workflow automation | 13▲ 3💬 | devto |
 | 37 | [AI agents hallucinate prices: LLM grounding with live data](https://blog.apify.com/llm-grounding-with-live-data/) | AI agents & workflow automation | 15▲ 0💬 | hackernews |
-| 36 | [Ask HN: How would you know if you have learned something?](https://news.ycombinator.com/item?id=49836294) | AI in education & e-learning | 6▲ 6💬 | hackernews |
+| 36 | [How I run a 16-year-old SaaS with AI agents](https://dev.to/freshstore/how-i-run-a-16-year-old-saas-with-ai-agents-oli) | AI agents & workflow automation | 6▲ 7💬 | devto |
 
 ## Needs Islamic-values review
 
@@ -131,8 +131,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 **AI in education & e-learning**
 - [Automated Breast Ultrasound Systems Market to Reach USD - GlobeNewswire](https://news.google.com/rss/articles/CBMi3wJBVV95cUxOTGV6c1VpYnp0OTh1RzZNTWVWMDI5b1Jac2tDdUJTZThETlRWS0pISTJXVjJ0ZDBDdWx0ZFYxaVdUb0tmT3EyOGVoSmkteXN6VndoRjRoaGRUOEM2eTl6NWpvMld5bXJweGdSemVyRWZEY0FYR1ppaWhTZ0JkaDNCWER4eGlsNHpDRFVQM3dCOTdJQy1lX3JFdzJqeDJHU2ZfOGY4MkNGWlJXanlvMVZFdFh2b09BYXg1ZXpiUEVnYWw1bGdXcnhWYzlRbS03Z0JtblI1X3dHMjRUMGZPV2dvTXJydXdtUFh5LTg0YVd5emJqYzhJVG9mNVE5eTRqU2x5Q2VySlF4Tml0MDAzLVlDaTRUSE5rWndoanhvQ0h4elRYdTgxZGNkSFhiaGNNUlJJTFE4Z2l6bFY4Sm9nZV8xMU44R0J6YUVUMDNJbkJ0VkEwUlR4Q2FOMWZCR2tPalU?oc=5) (2026-11-20)
-- [Genius Group Addresses Investor Questions on Share Consolidation, Capital Strategy and Future Growth - The Manila Times](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUjFySGhDM3JfZWJLOGhNLWFMcWwtcF91MDc5cm5hSnB6cHRkRUFsZ3NrZmVNcUZUSE1XLTBkMktxT3NXYm9nd3B1SS0yZUo5YU9RRTBtUVVBejFXUXc0MS16ZS1Md2htUWZMWTFaSGI3SDRpeE9JZEk1U3hmMG1tZGRER0lRTWFTTmk3T21YWXg3T1E0NEFzQWdOQy05a3RaSkVZNktxNjdNZElLT0N2cnBYaVh5aThSTlN6cmhOblNyWFB5M3paeTkyUlRzWFFpUkhRczhmRGlDVEp0RVJIT1N1cW9VaHJ3eXVxbGFwQ1IzQ0JEVnVLMDc1cG9oRFlFZFNNUV9oaVfSAYgCQVVfeXFMT1IxckhoQzNyX2ViSzhoTS1hTHFsLXBfdTA3OXJuYUpwenB0ZEVBbGdza2ZlTXFGVEhNVy0wZDJLcU9zV2JvZ3dwdUktMmVKOWFPUUUwbVFVQXoxV1F3NDEtemUtTHdobVFmTFkxWkhiN0g0aXhPSWRJNVN4ZjBtbWRkREdJUU1hU05pN09tWFl4N09RNDRBc0FnTkMtOWt0WkpFWTZLcTY3TWRJS09DdnJwWGlYeWk4Uk5TenJoTm5TclhQeTN6Wnk5MlJUc1hRaVJIUXM4ZkRpQ1RKdEVSSE9TdXFvVWhyd3l1cWxhcENSM0NCRFZ1SzA3NXBvaERZRWRTTVFfaGlX?oc=5) (2026-11-17)
-- [Genius Group's H1 revenue rose 140% year over year as shares fell from 58¢ to 10¢ - Stock Titan](https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXhYS3dqZnhyUVZ5S1ZRSm5LaVduLTgycTZXcWt5OTNmQ2NMazVMUUJ0Zy1vVFpVVTNoWGtOM3ktOHFSODFoVU90SFJnR1BKdU95T193MnFOMWdnZzF6M2pHMGo3ZWl6YUtfQUNuWWR4X1E3ZmtJN2tpRmMzeXpfZDVKeEVOZFpnMXdGV3F1ZzNsRENTNFIwbHF2cVV2SGNxWUhpS1A0YTNSaWpabkZIdU4tX1ozVzFUMlE?oc=5) (2026-11-17)
+- [Concierge Medicine Market Size to Reach USD 46.59 Billion - GlobeNewswire](https://news.google.com/rss/articles/CBMisgJBVV95cUxNX3VPLU1sZWV5bV9MWWlqYWhaeUdlOEREX2Q1bmNJUElTNHE4Q0I0QmpFNzhGR1JjQjRoR2FyN3BnY0Mwc3JCdDBZT2xPZzRoR0taZXVDQTVpekYzeWxPT19wczdqUjREMHE4VHM5TEQ0eDZaREZhejl1S2pVc2FYMHVnYV9BVWVSaG9yZGpHazJGVi02VWVweUlJQWpEb1ozWEZfZHlUUEdWR09jY1A2RkJZZzJnb0Q0VEJHSHByXzA3cHZTWE8yUmNTeVRPVGZqQmdXeGdfRm01VzdFMGhERFJMdFg4Q2xONU53YWs4YmpJUUFLd2NVZmMyZjg5VjcxMGdSTndvQWxDelhZN2JqMFhhd1B1VThLamV4MkJ0RXZKSzZUSVdiVnlhbzBtSmVQRmc?oc=5) (2026-11-20)
+- [AI in Education Market to Reach USD 136.79 Billion by 2035 as Free AI Tools Reach Classrooms, Campus-Wide Deals Spread …](https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3FtMmFmNGwwb1JZS3FiT0FZakgyZzB6RmdKX3h3SWZuTFR3S0hZTU1mX3FsZV9PUnN5S09YNlF6bUxjcFBDSHdZUlI4ZTYyRWFnUFJPQ09kVm02M1V0Q3psc0VDWTFyMDZjSDd0NFoyNkZMTk5PYkVEZ3lyMlhsdWpUbjBKY255T2RtSDZVeUU0ZmFEUS1hQg?oc=5) (2026-11-20)
 
 **Legal AI & compliance automation**
 - [Legal Technology Market to Reach USD 88.08 Billion by 2035 \| Thomson Reuters, RELX, Wolters Kluwer, Clio - openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYU9LeGZzSjdQTDJUalI1aW40ejNzdDVITmNBMEZkR2RMVm1aNVNUZm1QRVNwc21Wc01iaERxeWhlclZEQVcxVkpJRU1SdklORVcyNEhDTVFpSXdBY2VxNC1QMi1lSTJRR2pqVU5BeXgtZUxVNG5JVDZsNnY2TUhUdU50N013elNTOFktX3RVc0lTNVZGT0J2UjRR?oc=5) (2026-11-18)
@@ -161,19 +161,19 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Digital Agriculture Market Size, Share, Growth Report 2034 - Fortune Business Insights](https://news.google.com/rss/articles/CBMifkFVX3lxTE5HQU9kRFBmU3VIRFRFbUt2WnpGbXBoZHRiT2NXeHFubEp3VzF2ZWtCWmdGbjZQRWE4TkowRVpMb1VEcUpXdmtuTXh4N0w3WDRzcXRyUmpxVGoycE4yeTJSb3hrc2lKNGlNbDNGeG1QOWVFQVJRX19JSUhfang2QQ?oc=5) (2026-11-12)
 
 **E-commerce & creator tooling**
-- [Consumer Identity and Access Management (CIAM) Market - GlobeNewswire](https://news.google.com/rss/articles/CBMiowJBVV95cUxOTkFRelc1VjFqSnZZSWVMMjJEcHpQWE8wckxhQXBBWmdPajRfOWF4LWttd3pQWjZ2SEVlYV9RczVvcWVGS2owWERfVmRxMElNa1BPeG1xUmllVU9CbmlRVFRFMVVQYy1BUjdZQ0N6dU1VRnYtMUFsejliSFJwOURDVWNjZExDTmNFZTJkVHJaN0c5ZVhKSHZkVUtZbkd3VmJKRmRqcHRPM2Y0ZkY2UldTRlY0TE41QXFKNUZFQWlYdHZ6YzNxVTJTZ2lBNGF2YU1wT0FLV25rbmt6WjFCWGJRLVVKRWd4cUtEYVpSLWNzQVc0NDU5Qk9DSXNUR0dRSFBsNmJpQzJQZ2dscXAzb2VnTnplbnNRYWJKdTdNNFdDeWZjMDA?oc=5) (2026-11-20)
-- [Third-party Logistics Software Market Size Report 2026-2033 - Grand View Research](https://news.google.com/rss/articles/CBMiogFBVV95cUxNajN1X1ZBZUJwTTQtNEgwNnRpeXY1alFkUzNKUGRqUGxQUzU0TjAxRmQ5dTdMMmUybjY0N0xBUjFiUFp1dDNGNkxYbE5sajJlaG5CT2phYllKWW15RzdqS3JIUWZJWGlRaG1WSVFkQ19EbGR5WmNCcl9aQncwVGtuTXIyWUdLNjhwQ2VqdHhSNTZ4dVlIUnNtMjBEWDFyNTFJd3c?oc=5) (2026-11-20)
-- [Jewelry Display Stands Market to Reach USD 1.13 Billion by 2036 as - openPR.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGh3cXN1b3RkT2ZLWGRuUzJDY19uSDdGalJPa3lYUklIVURjaUdPUEsyRUdQeld1bXBrbWtaZTB5R3h2NFVTcERwLW45TFhVXzFMa2hmTnZyMWtNdUZxZDZ5ZmJ3WFZmVEs0RS12NTVQSU5QbHF3UjlTZ2d4ODQwdFpIa05HeVl0dUFzZUx3c204VWFCcWk0WEhQUjhuOXdNdS1iaQ?oc=5) (2026-11-20)
+- [Quick Dry Shower Curtain Market Forecast to 2035: Premiumization and E-Commerce Drive Value Growth - IndexBox](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk0tLW5iNW9EbUlQVl84VENySHFKMkVwREpQVmZsNVNVOFg1MFVtS1MtN003UjBETm9aTmEtd3V5NFhsYzU4MXhzXzZjSDV4bDZWMTZYTGpTQUlmYkRtTUNUM0pQSFRreHUxa1lZOVBTcFdOd19tVk03MXNFZ2M5QWFISExsa296MHZiYWdQbExKQTkzZVN1LXl1RjFsSjVLVFc5dEo4WkRpY20yaUNRNVRkZkkzaGpzNHNXaXlBTlhuVVR4N0E?oc=5) (2026-11-21)
+- [Portable High Chair Market To 2035: Premiumization and Travel Demand Drive Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmFiRDE3bDVxZWkyUExZbkVnMFY4U2dxRndQaFFTcHlOWnNpZzRrNVVYeFBJdmJjQUgwVzNkSkdnM2NTTUpWZTZJa3BiSjd2YkRfVUpjNjFkVVhFaHMxeFlSdXd6d0ZyUzlVaVNzTWJ2aWFIMzRPNVBZY3FycjVSaDFJLUt5MVh6TzlqbnY4cjNPRVZTeHBiVEpfb1NwZlpTazJZT2F3LW81aWRQOFI1OEFUQlRHQ3NKSUhJ?oc=5) (2026-11-21)
+- [Elliptical Machine Market To 2035: Connected Fitness Demand Supports 4.2% CAGR - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHpjUnFXcWpVTEZWTlFNRllNc0VXLUxjako4c0hvbWgtSzBPQTJCZ1RDTmttdWwyV3RLVE9LeVFDaHB3Ym9mTWNIQkFMWEF5ekhabDYzQmxubWltX0dzamRSTklpdkNwVHotNW9IMFFrOV9sZDExRkFtQXFvdTdEVlZTRWdtRDdpZjhiVm54VWhnOU9oc1JPZXdDazdfTkMyMnB5RmhWa216X1NOamQ2YVhRVTV1SVJ0aWc?oc=5) (2026-11-21)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
-| producthunt | 40 | ok |
-| hackernews | 273 | ok |
-| rss | 58 | ok |
-| google_news | 67 | ok |
-| devto | 387 | ok |
+| producthunt | 39 | ok |
+| hackernews | 280 | ok |
+| rss | 56 | ok |
+| google_news | 68 | ok |
+| devto | 385 | ok |
 | reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
@@ -182,8 +182,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 13,
-  "not_modified": 33,
+  "ok": 30,
+  "not_modified": 16,
   "retries": 0,
   "errors": {}
  },
@@ -195,12 +195,12 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "hnrss.org": {
-  "requests": 6,
+  "requests": 5,
   "ok": 1,
   "not_modified": 1,
-  "retries": 4,
+  "retries": 3,
   "errors": {
-   "502": 4
+   "502": 3
   }
  },
  "medium.com": {
@@ -225,14 +225,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 53,
+  "requests": 54,
   "ok": 0,
   "not_modified": 0,
-  "retries": 39,
+  "retries": 40,
   "errors": {
    "403": 2,
    "404": 3,
-   "429": 48
+   "429": 49
   }
  }
 }
