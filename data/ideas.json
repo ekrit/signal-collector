@@ -541,7 +541,7 @@
   "score": 41.17,
   "llm": null,
   "first_seen": "2026-11-21T19:23:28+00:00",
-  "last_seen": "2026-11-22T06:58:45+00:00",
+  "last_seen": "2026-11-22T19:47:11+00:00",
   "uid": "b5494daa1bb44a05"
  },
  {
@@ -1346,8 +1346,8 @@
   "author": "erenelagz",
   "created_at": "2026-11-19T19:15:56Z",
   "engagement": {
-   "points": 0,
-   "comments": 0
+   "comments": 0,
+   "points": 0
   },
   "kind": "idea",
   "mrr_usd": 2500.0,
