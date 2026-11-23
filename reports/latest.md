@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-11-22 19:47 UTC · 5158 tracked signals · 111 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 33 new this run_
+_Last updated 2026-11-23 07:48 UTC · 5178 tracked signals · 112 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 20 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -9,16 +9,16 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
 | [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 199 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 48 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 19 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 45 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 21 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 3 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 18 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 13 |
-| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 17 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 2 | $9.5k | 15 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 16 |
+| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 14 |
 | [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 13 | $3.9k | 31 |
-| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 22 |
+| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 21 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 0 |
-| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 4 |
+| [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 5 |
 
 🚀 = on track to grow ≥ 4x within 5 years · ☪️ = halal-economy vertical
 
@@ -161,19 +161,19 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Digital Agriculture Market Size, Share, Growth Report 2034 - Fortune Business Insights](https://news.google.com/rss/articles/CBMifkFVX3lxTE5HQU9kRFBmU3VIRFRFbUt2WnpGbXBoZHRiT2NXeHFubEp3VzF2ZWtCWmdGbjZQRWE4TkowRVpMb1VEcUpXdmtuTXh4N0w3WDRzcXRyUmpxVGoycE4yeTJSb3hrc2lKNGlNbDNGeG1QOWVFQVJRX19JSUhfang2QQ?oc=5) (2026-11-12)
 
 **E-commerce & creator tooling**
-- [Ceramic Tester Market To 2035: Technical Ceramics Demand Drives 5.8% CAGR - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0VVWTFsaDdHUzJPdlVsOFR2RjdyR2l3QXg5ZEJ2TVBIOXExelhDZkZGVzYtSlBBZHRzSGdqT3E4MHlwQ1prekZNWG9NVjNVbEtsWU9NbVRTRk9SRUhVNWlPaVFZWEZ0cWt0T3hvcmZoWmUxTUpGbHprWk9GVkduWmItb1BGSGJ0dXY5Y0xEWDAtQ0pYRVdvUTlVenJ0YktRNG0yTmE5aGNmY0hQQ3o4?oc=5) (2026-11-22)
-- [SCARA Horizontal Robots Market To 2035: Electronics and EV Assembly Demand Supports 6% CAGR - News and Statistics - Ind…](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY3NuODczN21MbFkwbndPUUEzaXBfWmhmVzY0UVBtbjlKMHJxQTlmeVVObElVdE9kX0hzZTJJX2RhN2tZOGd1ejVXb2hGM1JmZS1DSG80LWk3RXdaaWhBNXRRMm5lTnM0aXJPVjZ1OU9vcmFjNWJoMGJ2cENfT1A0eTJBYzdnclFrRWQxaGt4S0hCaU1PWDdFcHFuQm96UzJhMGhMMTN0Q3VTYUZPTTFSV3VQc0gxbWRySW05UDYtTzgwV1pJVjQ3NDRnQmxRcFFSNmNJWms4WjU?oc=5) (2026-11-22)
-- [Flaxseed Supplements Market To 2035: Growth Outlook Driven by Plant-Based Nutrition Demand - News and Statistics - Inde…](https://news.google.com/rss/articles/CBMizgFBVV95cUxOMUh6VFRtTXg0RktuUHhzcy04b2w0RXI0SEFveFJZVHppeXhySTIxVzVzYnJPOU1tQ2NkalVQbGF6N3Jjazd6TU9XVWNIY29pNWNQVzZDUnlpTnIzeDJ2YVFzal9pd2ZHLUpLRzNOdlZ4MW1WTHlvMHhiSU5paVlCZWg2N0JvVWk5NlQtV1gyQ3FubUxfUkQ3UmtrMVkyakxJRDFubmYzUGdGc01iZHppY3lpVU5RTV9ZQl9rSlA5MkpSUFVaeHB4bGF6cTVVUQ?oc=5) (2026-11-22)
+- [Corrugated Packaging Market to Reach US$ 444.3 Billion at 4.6% - openPR.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzJvVlZidHN1dDk3SzlzajFvQkM1VXBXRWx0bUVMMjR2Q3NPVnpGQURwcUdqTkJ5TU9fem0zd1RVRHFPTDNTcWdTSzRLVlc2bmphbzNRUE5PUFFUd052ajhVOVFLU2d1OGZHWnJTQ2RialBQblFwZmEzX0NKRnNhNVRvNWt5RzFDb1FPc1pGWHJ1eGVPVVNPTGZ1N2U?oc=5) (2026-11-23)
+- [Tobacco Packaging Market to Reach US$ 24.9 Billion at 5.1% CAGR by 2033 \| Persistence Market Research - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNdEQ0SUxySkhHV0NvaW9zaE5mZGlMeFpuUTQtUG1SbFdlY0l6UTM2NzY4QVlmZHNRN1BOSEtjOFljYWMtc0N1NnZJWVJpdnhkQmY0WC1Mbjk3Uk01cGZxYVV0XzBnRU9memJzd2NpNTJUS01mLVJ2Y19aQjR2U3dITUJMbWFSS21TYWhaVXllYUVldEg1bEF5d2V0cm42dw?oc=5) (2026-11-23)
+- [The Fire Truck Market Size Is Projected to Reach $9.61 Billion Amid Growing Demand - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOakpLR2RfMXBYQjV0MWdZZFBYbklhYU5UaXAtbHJDSWJMeVo2VkRTXzVLallwSU9Gd0dOWXZzNndfaG5NVk1NLUsza0MyaGJ6cHdwT3UzaXFEMjFSbHd3cFlKdF9iYUdmLUlEd3FsbE5oaTgwS015TFdKUmhjei1TN0NRZ0ZYR2NtZW1EZWVLOU9kX3VuNS1jSHBjTlhMZw?oc=5) (2026-11-23)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
 | producthunt | 36 | ok |
-| rss | 60 | ok |
-| hackernews | 279 | ok |
-| google_news | 69 | ok |
-| devto | 393 | ok |
+| hackernews | 274 | ok |
+| rss | 59 | ok |
+| google_news | 70 | ok |
+| devto | 388 | ok |
 | reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
@@ -182,8 +182,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 18,
-  "not_modified": 28,
+  "ok": 16,
+  "not_modified": 30,
   "retries": 0,
   "errors": {}
  },
@@ -196,8 +196,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
  },
  "hnrss.org": {
   "requests": 6,
-  "ok": 1,
-  "not_modified": 0,
+  "ok": 0,
+  "not_modified": 1,
   "retries": 4,
   "errors": {
    "502": 5
@@ -225,14 +225,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 55,
+  "requests": 56,
   "ok": 0,
   "not_modified": 0,
-  "retries": 41,
+  "retries": 42,
   "errors": {
    "403": 2,
    "404": 3,
-   "429": 50
+   "429": 51
   }
  }
 }
