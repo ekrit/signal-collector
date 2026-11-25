@@ -541,7 +541,7 @@
   "score": 41.17,
   "llm": null,
   "first_seen": "2026-11-21T19:23:28+00:00",
-  "last_seen": "2026-11-25T08:45:29+00:00",
+  "last_seen": "2026-11-25T21:47:20+00:00",
   "uid": "b5494daa1bb44a05"
  },
  {
@@ -1415,7 +1415,7 @@
   "score": 27.33,
   "llm": null,
   "first_seen": "2026-11-24T22:32:24+00:00",
-  "last_seen": "2026-11-25T08:45:29+00:00",
+  "last_seen": "2026-11-25T21:47:20+00:00",
   "uid": "bd790620af4cad2d"
  },
  {
@@ -2708,6 +2708,34 @@
  },
  {
   "rank": 113,
+  "source": "devto",
+  "source_id": "5115223",
+  "title": "Show Me Your API Bill, Not Just Your MRR",
+  "url": "https://dev.to/nodex/show-me-your-api-bill-not-just-your-mrr-1ghc",
+  "text": "Whenever I see someone posting their AI SaaS revenue on X, there's one number I'm always curious about.\n\nTheir API bill.\n\nDon't get me wrong. Seeing somebody make $1,000 a month from a little website is awesome. I'd happily take that. But with AI products in particular, I wonder how much of that money goes straight back to model providers.\n\nIf someone pays you $10 a month and spends every evening generating images or processing huge documents, are they actually a good customer?\n\nThings were a bit simpler when your biggest recurring expense was a cheap VPS.\n\n## Some very rough math\n\nImagine you've built an AI utility that costs $10 a month and you've managed to get 100 paying customers.\n\nNice. That's $1,000 MRR.\n\nHere's what the monthly expenses might look like:\n\n| Item | Amount |\n|---|---:|\n| Revenue | $1,000 |\n| AI API usage | -$350 |\n| Hosting and database | -$50 |\n| Storage and email | -$30 |\n| Marketing | -$100 |\n| Payment fees at 1% | -$10 |\n| What's left | $460 |\n\nCompletely made-up numbers, obviously. And that doesn't include taxes, refunds, or the value of your own time.\n\nStill, $460 from a small website sounds pretty decent to me.\n\nThe more interesting problem is what happens when users start using the product more than you expected. If your subscription brings in $10 but the customer burns through $15 of API credits, getting more customers isn't necessarily going to help.\n\nI'd probably spend more time looking at caching, usage limits, and whether every request really needs the most expensive model available.\n\nThose optimizations can make a surprisingly big difference.\n\n## Some savings aren't worth an entire weekend\n\nPayment fees are a good example.\n\nAt $1,000 in monthly sales, a 1% payment fee costs you $10.\n\nSwitch to a provider charging 0.5% and you've saved yourself five bucks a month.\n\nWould I spend an entire Saturday replacing an integration that's already working just to save five dollars? Probably not.\n\nIf the website is doing $100k a month, sure, that's a different conversation.\n\nFor a small project, I'm generally more interested in avoiding fixed costs. Revenue isn't always predictable. Having a bunch of services charging you every month regardless of whether you make a sale gets annoying pretty quickly.\n\nThat's one thing I look for when comparing payment tools.\n\nFor example, if you're selling to customers who already use USDT, [JangoPay](https://jangopay.org/) is one of the options you could look at. It lists a default 1% collection fee, no monthly subscription, and T+0 balance availability following normal payment confirmation.\n\nThere are other crypto payment providers, including NOWPayments, worth comparing too.\n\nI'm not particularly interested in arguing over which one has the prettiest advertised percentage. I'd check the actual collection fee, withdrawal costs, supported networks, and merchant requirements before choosing anything.\n\nAnd if nobody buying your product uses stablecoins, obviously none of this matters much.\n\n## There's also the money you're waiting for\n\nThis part is easy to miss if you're just looking at monthly revenue.\n\nSay you're running a small AI API service and need to prepay your upstream provider. A customer buys some credits today, but you can't access the proceeds for another three days.\n\nYou still need to fund the API account.\n\nIf you're spending $500 a day on upstream services, that's potentially another $1,500 you need to keep around just to cover the gap.\n\nFor a bootstrapped project, that's not nothing.\n\nSelling an ebook is a different story. You probably don't care nearly as much about waiting a couple of days for a payment because delivering another copy costs you almost nothing.\n\nBut if every order involves some immediate expense on your end, when you can use the revenue starts to matter.\n\nThat's why I find things like T+0 stablecoin settlement worth looking into. In JangoPay's case, it refers to funds becoming available in the merchant balance after the required payment confirmations, without an additional day-based settlement cycle.\n\nIt doesn't mean every blockchain transaction confirms instantly, and getting money into a bank account is a separate matter. But if your suppliers already accept stablecoins, faster access to those funds could be useful.\n\n## A small, profitable website sounds pretty good\n\nI sometimes think all the startup content on X makes people unnecessarily ambitious about their side projects.\n\nSomeone announces $10k MRR. Someone else has launched their seventh SaaS this year. Another person is talking about scaling to a million users.\n\nMeanwhile, a little website that makes a few hundred dollars a month and doesn't need constant attention sounds like a pretty great outcome to me.\n\nYou don't need a huge dashboard, fifty integrations, or a dramatic growth chart to get there. Just something people find useful, sensible pricing, and costs that don't quietly eat all the revenue.\n\nAnyway, the next time someone posts an AI SaaS revenue screenshot, I hope they include the API bill.\n\nI'd probably find that more interesting.",
+  "author": "nodex",
+  "created_at": "2026-11-25T09:54:22Z",
+  "engagement": {
+   "points": 0,
+   "comments": 0
+  },
+  "kind": "idea",
+  "mrr_usd": 1000.0,
+  "revenue_evidence": "a month and you've managed to get 100 paying customers. Nice. That's $1,000 MRR. Here's what the monthly expenses migh",
+  "revenue_confidence": 0.85,
+  "industries": [],
+  "halal_status": "review",
+  "halal_reasons": [
+   "needs review: crypto"
+  ],
+  "score": 8.92,
+  "llm": null,
+  "first_seen": "2026-11-25T21:47:20+00:00",
+  "last_seen": "2026-11-25T21:47:20+00:00",
+  "uid": "2d817d2ddec8c27e"
+ },
+ {
+  "rank": 114,
   "source": "hackernews/comment",
   "source_id": "50048217",
   "title": "Comment on: Two Steam games made $560K but the co-creator took home $15K/year",
