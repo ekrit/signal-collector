@@ -1,6 +1,6 @@
 # SaaS Opportunity Report
 
-_Last updated 2026-11-27 21:24 UTC · 5265 tracked signals · 115 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 37 new this run_
+_Last updated 2026-11-28 07:57 UTC · 5210 tracked signals · 115 qualified ideas (≥ $1k/month, passed Islamic-values screen) · 31 new this run_
 
 Scores weigh proven revenue, industry growth (4x-in-5-years target), community traction and halal-economy fit. ✅ = passes screen · ⚠️ = needs your review.
 
@@ -8,15 +8,15 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 
 | Industry | Market now | Forecast | CAGR | 5-yr multiple | Qualified ideas | Median MRR | Signals (7d) |
 |---|---|---|---|---|---|---|---|
-| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 227 |
-| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 25 |
-| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 21 |
+| [AI agents & workflow automation](https://www.marketsandmarkets.com/PressReleases/ai-agents.asp) 🚀 | $7.84B (2025) | $52.62B (2030) | 46.3% | 6.7x | 5 | $13.9k | 234 |
+| [AI in education & e-learning](https://www.mordorintelligence.com/industry-reports/ai-in-education-market) 🚀 | $6.9B (2025) | $41.01B (2030) | 42.8% | 5.94x | 3 | $40.0k | 27 |
+| [Healthcare AI & digital health](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-healthcare.asp) 🚀 | $21.66B (2025) | $110.61B (2030) | 38.6% | 5.11x | 0 | — | 20 |
 | [Vertical AI SaaS (industry-specific AI tools)](https://marketintelo.com/report/vertical-ai-saas-platform-market) 🚀 | $94.86B (2025) | $1423.5B (2034) | 36.5% | 4.74x | 2 | $22.1k | 6 |
-| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 3 | $8.0k | 19 |
-| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 17 |
-| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 16 |
-| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 13 | $3.9k | 31 |
-| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 12 |
+| [Legal AI & compliance automation](https://www.marketsandmarkets.com/Market-Reports/legal-ai-software-market-88725278.html) | $3.11B (2025) | $10.82B (2030) | 28.3% | 3.48x | 3 | $8.0k | 20 |
+| [AI in agriculture & food supply](https://www.bccresearch.com/pressroom/ait/ai-in-agriculture-market-to-reach-$85-billion-by-2030) | $2.8B (2025) | $8.5B (2030) | 25.1% | 3.06x | 1 | $20.0k | 19 |
+| [AI cybersecurity](https://www.mordorintelligence.com/industry-reports/ai-cybersecurity-solutions-market) | $30.92B (2025) | $86.4B (2030) | 22.8% | 2.79x | 0 | — | 15 |
+| [E-commerce & creator tooling](#) | $10B (2025) | $30B (2031) | 20.0% | 2.49x | 13 | $3.9k | 30 |
+| [Climate tech & carbon accounting](https://www.thebusinessresearchcompany.com/report/carbon-footprint-management-software-global-market-report) | $20.05B (2026) | $41.33B (2030) | 19.8% | 2.47x | 0 | — | 11 |
 | [Islamic fintech & Shariah-compliant finance](https://www.mordorintelligence.com/industry-reports/islamic-fintech-market) ☪️ | $186.32B (2025) | $515.06B (2031) | 18.3% | 2.32x | 0 | — | 1 |
 | [Halal economy & Muslim lifestyle](https://www.dinarstandard.com/insights/sgier-2024-25) ☪️ | $2430B (2023) | $3360B (2028) | 6.7% | 1.38x | 0 | — | 16 |
 
@@ -134,7 +134,7 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 **AI in education & e-learning**
 - [🎮🤖 Asia-Pacific Game-Based Learning with AI - openPR.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEZoMGQ4MExMVzN6cHlzLWhsZXVZTVVGbUFoazB2ZWZfMkFmbzFQNE1ad1Y2NEVYcm1LazJtakI0cE1yTXM4eWhrLVBuYW9Jd1ZlWldGbVh0cmFBNXViTXMza1NWcHFjRDBpSWFydmhETkFvUnR0Y0lXalF6aDNPdi13?oc=5) (2026-11-26)
 - [Net Zero-as-a-Service Market to Reach USD 96.0 Billion by 2036 as - openPR.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3ZPWEhiXy1YcWtZQUluRnRXMWtuTFBlRW4wQWo1bjd1M3pXQWNNcm9WeGpzeWpaeU9VMFQ3aUFDV3ZqU2xVa0NNV1p5N3d5LVpRSndXQVlOdW9lb3c4VFk4WTctbURYSUgzdE1yeW9nSmItWHM3cXlOQ1NacFlqRElIaE9iaUI2U0RRY1l0WkhnRFF4cmdPNFZGMnJldVRCS3Iw?oc=5) (2026-11-26)
-- [AI In Pathology Statistics By Market Size And Country (2026) - TechnoTrenz](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZWdjVGxZS0x3dzlMWXNCZW5hTjBkNGEwdjFETFpDRlVTNUc4R3NsMG5vWmxkdzdOanJXUjk4QzRrZERqSWxXU2FFUXk5SjFXR0VlQjhNTEJiTW9vdjY4dg?oc=5) (2026-11-26)
+- [Insurance Marketing Statistics By Market Growth And Region (2026) - TechnoTrenz](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRTmVMa3NLUlpIeEwwOXVCWlN4TXNSb2QtemFGSW5WWGhHZG5HcDYxS3hZZks1TWRaQnd3UVNNb1B3X3YwTTNjeWM5UGQ2a1gxelZfZ25RcHp6UXBLWnlmWDNkOXo4QQ?oc=5) (2026-11-26)
 
 **Legal AI & compliance automation**
 - [Agentic AI in Legal and Regulatory Tech - Market Size, - GlobeNewswire](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQYU8zTEpYSFdxbTRRdUdqZzNfQXk3bk9tQ2lWVHpIRTViaFRrbjQyUEN5VDVIYURRZFRnVEpDbThFZmkwTk9vRGxRaXU2TG1haURRZjJqQmY0LWRYNklxSEFZU3ljVmIxa2Y4dTRhUG9ZZDgtU0dJQ1drRmJMeThSSVBpY0tIOTBpN0hjeDNiYjBZUUNNYVRhWENIbWRFclQtOHdpSGd3NkxBeG9mLWJkNHNzaUxDM1lTWFVONlM5eTJ5QmdtX29ubXdhZHJJWEhKVWtKb3NwTHBBZHIzb2ZPOG5lMW1WUTEwUVZiOUlycjUtcGdvR1lIa3NpYjlvcmYwWDJ6NldBbm5EVy04NHVSNjJMYUlQWTVoNmxGampNMkpSQVpSNFQtR0t6RWhBaWJwUVo3aTl5ZTNBZXVTaGs1Vy10cjVFbFctd0ZJTm5aSHNTbUxM?oc=5) (2026-11-26)
@@ -163,19 +163,19 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 - [Atomic Layer Deposition Market to Reach USD 8.76 Billion by 2035 - openPR.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDhoTVZXNmE1cnZlemY5d2tfSkVZNVhKSDVKNmVjTjNWMkpONWxXbWVSZHZKWVIwanExb0c3czFleVB4RDc5a2JTZkh3OUNOT1BoNjVsazlVLU1CenBhalpWOTNCb1hScWQ2WlRwWVFhdTZNTUtIS1VBY0NvUWFRX25yZTRXRWg0TndtOTdZWG94aV9RMXc1YUtCWXZ5Yi15alE?oc=5) (2026-11-27)
 
 **E-commerce & creator tooling**
-- [Customs Brokerage Market Roadmap: Expected to Reach USD 120.3 Billion by 2034, Growing at a CAGR of 4.8% - openPR.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQallNR3ctYTFfQkgwcEVlV1AzNE5fcVU1cUZOS3dCbldlYkV0ckwwa0JkUEo3Qjdma3hGVzA0UkpDMkZNa0hlU3NBeHA4S0tOWjFzWFFMblkzWFBBV1BsXzRWSmpuaHhsVWtTbUl6Z1hoN2prc0Y1MktBemhOSEJ4dHhpcmNHX2NZX0tQLV9rMEtRdHcwTTgtMnJyYjc?oc=5) (2026-11-27)
-- [High Barrier Tie Layer Resins Market To 2035: Flexible Food Packaging Demand Supports Growth - News and Statistics - In…](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzVJNDk1NHREU1RBNm81X2ZOemxmRm9mdkMwVEhqa3BINEdyNlpubFRjRDFPazR3Q1hiR0tNeC00UkcxNnVmNEtzWEpDR0dPS1NRbnJ5R1ZaM3RtdkdGMUQ3aXBINTJ0dFNHRWVfZjdQUE1YMEFjdm16LUR5V25DSnBUMnFnNnE5dzJDOXBJMERPVzRLOGJFQmNZVXA5c09Ldk16Q09CS29BdTc3VXl6UzNQMGs2R2x2cm45azFkNUhzUQ?oc=5) (2026-11-27)
-- [India Quick Commerce Logistics Market Size, Share, Industry Trends, and Growth Forecasts, 2026-2031 \| MFCs and Reverse…](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XNE9mTFNCNHVPUS1VRmNVR2tlRGlIZEN1MzVGZDRBcXlBOTlHLUdxVzduUzk5S25LTXpuZHVicmRHVGZwQmwxRmVuelYxcXdPX0VKTDFyNWxLOU10OXEtdkFn?oc=5) (2026-11-27)
+- [Pet Noise Anxiety Market Projected to Reach US$ 2.8 Billion, Driven by Growing Pet Healthcare Demand - Market.us Media](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsLWkzNFllRWlMdUVMaTJqbzhiVnlxdmlqNWIxcUdGMGg1bDBzbVJTc3NHOWd3Tmd0UWx0bUVpUjBDNmpQa2FCSWV6NmFhWURpMjRzeVZDekNHRENsZmg0d2FDMFA?oc=5) (2026-11-28)
+- [Deshedding Brush Set Market To 2035: Premiumization and PET Humanization Drive Growth - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTdlSjgtVTBwOVVzNGFxMnFfLTk2REdNNWo4VXUxdXZnN2JpVHhrd0VhcGJyV2pXUFJSME9Yel9HcklKSkRTSWtGYUlGM1ktamlBQ1lsUktrNl9adWR5NThqeDBySmYwNEZaeVNnTjloT3NNdFNYSjdEUFQzTlFqMm1lcmVPZU1GckNHTE45Q0JDN1BaVGlhcHZfX1pLdC1mdVJEd2JoLUNkNjhCS1QtN0dtbFdEeGs3THVCS0E5X1o?oc=5) (2026-11-27)
+- [Assorted Self Tapping Screws Market Forecast to 2035, Driven by DIY Renovation and E-Commerce Expansion - IndexBox](https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVU3WlVOQUpnak0zdmdzYlF5Rk5UMzJKU2x6emhZZzBndFlqQXBOei1XeV9wMTIzemF4WHpaZHU4bV9MUTVvVXFITWVmYUZoeFhDX3Yzb29XLWNMZ0c1eDRGdURPWk1aZ2s3NWx2MjVHcjBBZ1NkS3JIdXE1N1hKUG5FZG9nUjk1VTg5WERNVDdUVGplX2ktREJiVHlMb1ZENlQ3eDNmV0VDNzhrUjEtNXZwMUx5ZUZoa1JaYnRCd2tjSEN6QnNqTDVnTG8?oc=5) (2026-11-27)
 
 ## Source health (last run)
 
 | Source | Signals | Status |
 |---|---|---|
 | producthunt | 47 | ok |
-| rss | 66 | ok |
-| hackernews | 291 | ok |
-| google_news | 81 | ok |
-| devto | 389 | ok |
+| rss | 67 | ok |
+| hackernews | 287 | ok |
+| google_news | 108 | ok |
+| devto | 393 | ok |
 | reddit | 0 | ok |
 
 <details><summary>HTTP stats</summary>
@@ -184,8 +184,8 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
 {
  "dev.to": {
   "requests": 46,
-  "ok": 23,
-  "not_modified": 23,
+  "ok": 30,
+  "not_modified": 16,
   "retries": 0,
   "errors": {}
  },
@@ -197,11 +197,13 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "hnrss.org": {
-  "requests": 2,
+  "requests": 6,
   "ok": 1,
-  "not_modified": 1,
-  "retries": 0,
-  "errors": {}
+  "not_modified": 0,
+  "retries": 4,
+  "errors": {
+   "502": 5
+  }
  },
  "medium.com": {
   "requests": 5,
@@ -225,14 +227,14 @@ Scores weigh proven revenue, industry growth (4x-in-5-years target), community t
   "errors": {}
  },
  "www.reddit.com": {
-  "requests": 53,
+  "requests": 52,
   "ok": 0,
   "not_modified": 0,
-  "retries": 39,
+  "retries": 38,
   "errors": {
    "403": 2,
    "404": 3,
-   "429": 48
+   "429": 47
   }
  }
 }
